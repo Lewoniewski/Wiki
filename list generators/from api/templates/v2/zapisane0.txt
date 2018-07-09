@@ -1,0 +1,1134 @@
+{{inne znaczenia|miasta|[[Poznań (ujednoznacznienie)|inne znaczenia hasła Poznań]]}}
+{{POL miasto infobox
+ |nazwa                     = Poznań
+ |dopełniacz nazwy          = Poznania
+ |zdjęcie                   = Collage of views of Poznań, Poland.jpg
+ |opis zdjęcia              = Panorama śródmieścia, [[Ratusz w Poznaniu|Ratusz]], [[Stary Browar (Poznań)|Stary Browar]], [[Teatr Wielki im. Stanisława Moniuszki w Poznaniu|Teatr Wielki]], [[Odwach w Poznaniu|Odwach]]
+ |herb                      = POL Poznań COA.svg
+ |flaga                     = POL Poznań flag.svg
+ |dewiza                    = 
+ |województwo               = wielkopolskie
+ |powiat                    = Poznań ([[miasto na prawach powiatu]])
+ |gmina                     = 
+ |aglomeracja               = poznańska
+ |data założenia            = X wiek
+ |prawa miejskie            = 23 kwietnia 1253<ref>[http://regionwielkopolska.pl/dzieje-wielkopolski/wazniejsze-wydarzenia/lokacja-poznania.html Lokacja Poznania].</ref>
+ |stanowisko zarządzającego = prezydent
+ |zarządzający              = [[Jacek Jaśkowiak]]
+ |powierzchnia              = 261,91{{r|ludność_2012-1-1}}
+ |wysokość                  = 50–154
+ |rok                       = 31.12.2017
+ |liczba ludności           = 538 633<ref>{{Cytuj stronę | url = https://poznan.stat.gov.pl/ | tytuł = Dane o mieście Poznaniu (stan w dniu 31 XII 2017 r.) | język = pl | data dostępu = 2018-05-01|opublikowany=Urząd Statystyczny w Poznaniu}}</ref>
+ |gęstość zaludnienia       = 2 056,6
+ |strefa numeracyjna        = (+48) 61
+ |kod pocztowy              = 60-001 do 61-890
+ |tablice rejestracyjne     = PO, PY{{r|tablicePY}}
+ |stopniN = 52 |minutN = 24 |sekundN = 30
+ |stopniE = 16 |minutE = 56 |sekundE = 03
+ |kod mapy                  = 
+ |TERYT                     = 3064011
+ |SIMC                      = 0969400
+ |slogan                    =<br />POZnan*<br />*Miasto know-how
+ |adres urzędu miasta       = [[Plac Kolegiacki w Poznaniu|plac Kolegiacki]] 17<br />61-841 Poznań
+ |commons                   = Category:Poznań
+ |wikinews                  = Portal:Poznań
+ |wikicytaty                = Poznań
+ |wikisłownik               = Poznań
+ |www                       = http://www.poznan.pl/
+ |bip                       = http://bip.um.poznan.pl/
+}}
+
+'''Poznań''' ([[niemieckie nazwy polskich miejscowości|niem.]] ''Posen'', [[łacina|łac.]] ''Posnania'', [[jidysz]] פּױזן ''Pojzn'') – [[miasto na prawach powiatu]] w zachodniej [[Polska|Polsce]], położone na [[Pojezierze Wielkopolskie|Pojezierzu Wielkopolskim]], nad rzeką [[Warta|Wartą]], u ujścia [[Cybina|Cybiny]]. Historyczna stolica [[Wielkopolska|Wielkopolski]], od 1999 r. siedziba władz [[województwo wielkopolskie|województwa wielkopolskiego]] i [[powiat poznański|powiatu poznańskiego]].
+
+Piąte pod względem liczby ludności miasto w Polsce (546,8 tys. mieszkańców) i siódme pod względem powierzchni (262&nbsp;km²){{r|ludność_31_12_2012}}. Poznań wraz z [[powiat poznański|powiatem poznańskim]] i gminami [[Oborniki (gmina)|Oborniki]], [[Skoki (gmina)|Skoki]], [[Szamotuły (gmina)|Szamotuły]] i [[Śrem (gmina)|Śrem]] tworzy [[aglomeracja poznańska|aglomerację poznańską]] zamieszkałą przez ok. 1 mln osób{{r|ludność_31_12_2012}}.
+
+Miasto jest istotnym węzłem drogowym i [[Transport kolejowy w Poznaniu|kolejowym]], funkcjonuje tu również [[port lotniczy Poznań-Ławica|międzynarodowy port lotniczy]]. Poznań jest ośrodkiem [[Poznański Okręg Przemysłowy|przemysłu]], [[Handel i usługi w Poznaniu po 1989 roku|handlu]], [[logistyka|logistyki]] i [[turystyka|turystyki]]. Funkcjonują tu [[Międzynarodowe Targi Poznańskie]] – największe i najstarsze [[targi|centrum wystawiennicze]] w Polsce{{r|mtp-o-firmie}}. Poznań to ośrodek akademicki, naukowy i kulturalny. W 28 szkołach wyższych studiuje łącznie 128,9 tys. osób{{r|ssgpoznań2014}}. Działają tu m.in.: opera, filharmonia, balet, teatry, kina, muzea, galerie sztuki, orkiestry i zespoły folklorystyczne{{r|kultura}}.
+
+Poznań był jednym z ośrodków stołecznych i religijnych państwa [[Piastowie|Piastów]] w X i XI wieku, w przeszłości pełnił funkcję [[Stolica Polski|siedziby]] [[władcy Polski|władców Polski]]{{r|palatium}}. Jest jednym z [[najstarsze lokacje miast w Polsce na prawie niemieckim|najstarszych lokowanych miast w Polsce]] – nadanie [[prawa miejskie|praw miejskich]] w 1253 r. Miasto posiadało prawo do czynnego uczestnictwa w akcie [[wolna elekcja|wyboru króla]]<ref>Polska Encyklopedia Szlachecka, t. I, Warszawa 1935, s. 42.</ref>. W poznańskiej [[Bazylika archikatedralna Świętych Apostołów Piotra i Pawła w Poznaniu|katedrze]] znajduje się symboliczny grobowiec pierwszych władców Polski – [[Mieszko I|Mieszka I]] oraz [[Bolesław I Chrobry|Bolesława I Chrobrego]]. Na wyspie [[Ostrów Tumski w Poznaniu|Ostrów Tumski]] mieści się siedziba kurii [[archidiecezja poznańska|archidiecezji poznańskiej]]. Stolica Wielkopolski była jednym z [[miasto królewskie|miast królewskich]] [[Korona Królestwa Polskiego|Korony Królestwa Polskiego]]. Pod Poznaniem miały miejsce [[popis]]y szlachty województwa poznańskiego I Rzeczypospolitej<ref>Antoni Sozański, ''Wykład politycznej geografii, rządu i administracyi dawnej Polski przy końcu istnienia całego państwa (1648–1772)'', Kraków 1889, s. 6.</ref> W 2008 r. [[Historyczny zespół miasta Poznania|zespół najstarszych dzielnic miasta]] uznano za [[pomnik historii]]{{r|pomnik historii}}.
+
+Patronami miasta Poznania są [[apostoł]]owie [[Piotr Apostoł|Piotr]] i [[Paweł z Tarsu|Paweł]], [[Święci i błogosławieni Kościoła katolickiego|święci Kościoła katolickiego]]. Święto miasta, jako dzień jego patronów, obchodzone jest 29 czerwca{{r|statut}}.
+
+== Położenie ==
+[[Plik:Poznań 1.jpg|mały|lewo|240px|[[Stare Miasto w Poznaniu|Stare Miasto]] z lotu ptaka]]
+Poznań znajduje się w środkowo-zachodniej [[Polska|Polsce]], w środkowej części [[województwo wielkopolskie|województwa wielkopolskiego]]. Miasto położone jest na obszarze trzech [[Mezoregion|mezoregionów fizjograficznych]]: zachodnia część na [[Pojezierze Poznańskie|Pojezierzu Poznańskim]], wschodnia na [[Równina Wrzesińska|Równinie Wrzesińskiej]], a najstarsza część miasta znajduje się na dnie zorientowanego wzdłuż osi północ-południe [[Poznański Przełom Warty|Poznańskiego Przełomu Warty]]. Te trzy obszary są częściami makroregionu [[Pojezierze Wielkopolskie]].
+
+Poznań położony jest w dolinie rzeki [[Warta|Warty]], a także w dolinach mniejszych cieków: [[Bogdanka (dopływ Warty)|Bogdanki]], [[Cybina|Cybiny]] i [[Główna (dopływ Warty)|Głównej]].
+
+Według danych z 1 stycznia 2012 r. powierzchnia miasta wynosi 261,91&nbsp;km²{{r|ludność_2012-1-1}}. Rozciągłość granic administracyjnych Poznania na osi północ-południe wynosi ok. 22&nbsp;km, a na osi wschód-zachód ok. 21&nbsp;km<ref>[http://www.poznan4u.pl/turysta/informacje.html Poznan4U – Informacje].</ref>.
+
+Poznań stanowi centralną część [[aglomeracja poznańska|aglomeracji poznańskiej]]. Miasto graniczy z 11 gminami [[powiat poznański|powiatu poznańskiego]], w tym z dwoma miastami – [[Luboń|Luboniem]] i [[Swarzędz]]em.
+
+== Środowisko naturalne ==
+[[Plik:Warta z Mostu Dębińskiego RB1.JPG|mały|240px|Widok na [[Warta|Wartę]] z [[Most Dębiński w Poznaniu|Mostu Dębińskiego w Poznaniu]]]]
+[[Plik:River Port Poznan.JPG|mały|lewo|240px|Dawny [[port rzeczny w Poznaniu]]]]
+[[Plik:Jezioro Maltańskie RB1.JPG|mały|240px|[[Jezioro Maltańskie]] – największy sztuczny zbiornik miasta]]
+
+=== Ukształtowanie terenu i geologia ===
+{{Osobny artykuł|Geomorfologia Poznania}}
+Ponad 56% obszaru Poznania znajduje się na terenach [[wysoczyzna|wysoczyznowych]], położonych powyżej 80 m n.p.m. – około 36% powierzchni na wyższych [[terasa]]ch rzecznych oraz w obrębie rynien glacjalnych, a ok. 8% na terasie zalewowej doliny Warty. Najwyżej położonym punktem na terenie miasta jest [[Moraska Góra|Góra Moraska]] (154 m n.p.m.), która znajduje się w jego północnej części. Najniższej położnym obszarem jest dolina [[Warta|Warty]] (50 m n.p.m.){{r|Włodzimierz Łęcki2010-s87}}. Teren Poznania i jego okolic charakteryzuje się {{fakt|rzeźbą pochodzenia letniczego, skamieniałego.|data=2013-08}}
+
+Większość powierzchni miasta pokryta jest warstwami [[zlodowacenie|utworów glacjalnych]] [[morena ablacyjna|moreny ablacyjnej]] i [[morena denna|dennej]] [[stadiał]]u poznańskiego [[Zlodowacenie północnopolskie|zlodowacenia bałtyckiego]]. W większości są to [[glina|gliny]] piaszczyste lub piaski lodowcowe, dlatego w rejonie Poznania przeważają [[gleba|gleby]] piaszczyste i gliniasto-piaszczyste{{r|raport2003}}. Tylko na dolnych terasach doliny [[Warta|Warty]] na powierzchni występują [[trzeciorzęd]]owe [[Ił (skała)|iły]] [[facja|facji]] poznańskiej (tzw. iły poznańskie).
+
+=== Stosunki wodne ===
+[[File:Jezioro Rusałka(1).jpg|thumb|240 px|[[Jezioro Rusałka (Poznań)|Jezioro Rusałka]] – widok z zachodniego brzegu]]
+Poznań położony jest w [[zlewnia|zlewni]] [[Warta|Warty]] i jej dopływów: [[Bogdanka (dopływ Warty)|Bogdanki]], [[Cybina|Cybiny]], [[Główna (dopływ Warty)|Głównej]], [[Głuszynka (rzeka)|Głuszynki]]-[[Kopel|Kopli]], [[Junikowski Strumień|Strumienia Junikowskiego]] i [[Różany Potok|Różanego Potoku]].
+
+Miasto posiada kilka większych jezior oraz kilkadziesiąt mniejszych zbiorników wodnych, zarówno pochodzenia naturalnego, jak i utworzonych sztucznie na terenach rekreacyjnych. Naturalne jeziora polodowcowe to [[Jezioro Kierskie]] i [[Jezioro Strzeszyńskie|Strzeszyńskie]], natomiast największymi zbiornikami sztucznymi są:
+{|
+|
+* [[Jezioro Rusałka (Poznań)|Rusałka]] w dolinie [[Bogdanka (dopływ Warty)|Bogdanki]];
+* [[Jezioro Maltańskie]] na rzece [[Cybina|Cybinie]];
+* [[Staw Olszak]];
+* [[Staw Browarny (Poznań)|Staw Browarny]];
+* [[Staw Młyński (Antoninek)|Staw Młyński]]
+* [[Staw Antoninek]];
+* staw [[Kajka]] w zlewni rzeki Głównej;
+* [[Staw Baczkowski]], [[Staw Rozlany]], [[Stara Baba]], [[Staw Kachlarski]] oraz [[Głęboki Dół (staw)|Głęboki Dół]] w dolinie Strumienia Junikowskiego.
+|}
+Kilka mniejszych zbiorników istnieje także w zlewniach potoku [[Czapnica|Czapnicy]] i [[Różany Potok|Różanego Potoku]], a także w [[Dębina (Poznań)|Dębinie]]. Duża liczba stawów znajduje się też na obszarach parkowych (np. w [[Park Sołacki|Parku Sołackim]] czy w [[Nowe Zoo w Poznaniu|Nowym Zoo]]){{r|poznan-30203-lang-61473}}.
+
+Na obszarze Poznania silnie zmieniono sieć hydrograficzną. Nie tylko zredukowano liczbę odnóg [[Warta|Warty]], ale również zasypywano małe cieki, a niektóre, jak dolny bieg [[Bogdanka (dopływ Warty)|Bogdanki]], [[Seganka|Segankę]] czy [[Wierzbak (dopływ Bogdanki)|Wierzbak]] wprowadzono do kanalizacji miejskiej. Mimo to dna dolin tych dopływów nadal stanowią kliny zieleni.
+{{Klimatogram|Poznania
+|-5|1|24
+|-5|1|29
+|-1|7|26
+|3|12|41
+|8|20|47
+|11|23|54
+|14|24|81
+|13|23|66
+|9|19|45
+|5|13|38
+|1|6|23
+|-2|3|39
+|float=left
+|source=BBC Weather{{r|BBC Weather}}
+}}
+
+Na terenie Poznania znajdują się bogate zasoby wód podziemnych w warstwach [[trzeciorzęd|trzecio-]] i [[czwartorzęd]]owych. Należy do nich [[Główny zbiornik wód podziemnych|Wielkopolska Dolina Kopalna]], stanowiąca strategiczny rezerwuar wody pitnej. Stwierdzono również występowanie [[wody termalne|termalnych]] [[wody artezyjskie|wód artezyjskich]] o temperaturze 45–51&nbsp;°C, znajdujących się na głębokościach 1100–1300 m, oraz wód termalnych bogatych w substancje mineralne o temperaturze 150&nbsp;°C na głębokości 4000 m{{r|raport2003}}.
+
+=== Klimat ===
+W Poznaniu przeważają wpływy mas powietrza polarnomorskiego, napływającego znad Oceanu Atlantyckiego. Znacznie mniejsze znaczenie mają masy powietrza polarno-kontynentalnego oraz zwrotnikowego. W rejonie Poznania najczęściej występują wiatry zachodnie o prędkościach od 2 do 10&nbsp;m/s. Rejon Poznania należy do obszarów o najmniejszych opadach w Polsce{{r|raport2003}}. Na podstawie danych z lat 1971–2000 obliczono, że średnioroczna wysokość [[opad atmosferyczny|opadu atmosferycznego]] wynosi 634&nbsp;mm, przy największym średnim miesięcznym opadzie w lipcu (76&nbsp;mm). Najniższa średnia miesięczna temperatura powietrza w Poznaniu wynosi −1,0&nbsp;°C dla stycznia. Najwyższa średnia miesięczna temperatura powietrza wynosi 18,2&nbsp;°C dla lipca{{r|Raport o stanie środowiska}}.
+
+=== Tereny zieleni ===
+[[Plik:Poznan Park Wilsona latem.jpg|mały|240px|[[Park Wilsona w Poznaniu|Park Wilsona]]]]
+[[Plik:Park Sołacki2.jpg|mały|240px|[[Park Sołacki]] w Poznaniu]]
+[[File:Park Cytadela - panoramio - Mister No (2).jpg|thumb|240px|[[Park Cytadela|Cytadela]]  – największy park miasta]]
+System przyrodniczy miasta opiera się na pierścieniowo-radialnym układzie terenów zieleni w formie [[Kliny zieleni w Poznaniu|klinów]] odchodzących od centrum w kierunku peryferii. Wyróżnia się pięć klinów zieleni:
+* wschodni w Dolinie Cybiny, rozpoczynający się kompleksem rekreacyjnym nad [[Jezioro Maltańskie|Jeziorem Maltańskim]];
+* północny w [[Poznański Przełom Warty|Dolinie Warty]], rozpoczynający się w okolicach [[Szeląg (Poznań)|Szeląga]];
+* zachodni w [[Bogdanka (dopływ Warty)|Dolinie Bogdanki]], rozpoczynający się [[Park Sołacki|Parkiem Sołackim]] i [[Park Adama Wodziczki w Poznaniu|Wodziczki]];
+* południowo-zachodni, w którego skład wchodzą kompleks leśny na południowo-zachodnich rubieżach miasta wraz z [[Lasek Marceliński|Laskiem Marcelińskim]], ogródkami działkowymi i zielenią na [[Cmentarz Junikowo w Poznaniu|Cmentarzu Junikowskim]], zieleń zlokalizowana wzdłuż cieków [[Junikowski Strumień|Strumień Junikowski]] i [[Górczynka]] oraz nad tzw. [[Szachty (Poznań)|Szachtami]];
+* południowy w Dolinie Warty, rozpoczynający się terenami sportowo-rekreacyjnymi na południe od ul. Królowej Jadwigi.
+
+System klinów uzupełniany jest przez pierścieniowy układ terenów zieleni, na który składają się zespoły parków w pasie tak zwanych plant (Ring [[Joseph Stübben|Stübbena]]) oraz zieleń znajdująca się na terenie pierścienia fortów. Zwornikiem systemu klinowego miasta jest [[Park Cytadela]], w pobliżu którego zaczynają się aż trzy z nich (wschodni, północy i zachodni).
+
+Na terenie Poznania znajduje się 4082 ha lasów, z czego 2640 ha jest pod zarządem miasta, a 1156 ha to lasy państwowe. Łąki i pastwiska zajmują obszar 645 ha, a parki i zieleńce mają powierzchnię 552 hektarów{{r|mpu-index-studium}}. Tereny zieleni zajmują łącznie ponad 70&nbsp;km², co stanowi 27% powierzchni miasta{{r|Włodzimierz Łęcki2010-s13}}.
+
+=== Ochrona przyrody ===
+[[Plik:Nature reserve Meteoryt Morasko (2).jpg|mały|240px|[[Rezerwat przyrody Meteoryt Morasko]] – staw w kraterze]]
+{{Osobny artykuł|Pomniki przyrody w Poznaniu}}
+W celu ochrony najcenniejszych miejsc przyrodniczych ustanowiono na terenie miasta dwa rezerwaty przyrody: [[rezerwat przyrody Meteoryt Morasko|Meteoryt Morasko]] i [[rezerwat przyrody Żurawiniec|Żurawiniec]], trzy zespoły przyrodniczo-krajobrazowe: „Morasko”, „Michałówka” i „Głuszyna”, oraz obszar chronionego krajobrazu Dolina Cybiny{{r|poznan.dziennik-168-08|natura2000.gdos-zbiorniki3}}. Dodatkowo samorząd utworzył [[użytek ekologiczny|użytki ekologiczne]]: [[Fort V w Poznaniu|Fort V]], [[Wilczy Młyn]], [[Główna (Poznań)|Główna]], [[Staw Olszak|Olszak I]], [[Użytek ekologiczny „Traszki Ratajskie”|Traszki Ratajskie]]{{r|bip.poznan-38893}}, Bogdanka I{{r|bip.poznan-40914}} i II{{r|bip.poznan-40915}} oraz Strzeszyn. Ze względu na występowanie siedlisk [[nietoperze|nietoperzy]] ochroną w ramach Sieci [[Natura 2000]] objęto zabytkowe fortyfikacje [[Twierdza Poznań|Twierdzy Poznań]]{{r|natura2000.gdos-zbiorniki}}. W granicach administracyjnych miasta znajdują się również fragmenty większych obszarów objętych Siecią Natura 2000 – [[Biedrusko]]{{r|natura2000.gdos-zbiorniki2}} oraz [[Samica Kierska|Dolina Samicy]]{{r|natura2000.gdos-zbiorniki4}}.
+
+W okolicach Poznania znajdują się ponadto [[Wielkopolski Park Narodowy|park narodowy]] i trzy parki krajobrazowe: [[Park Krajobrazowy Puszcza Zielonka|Puszcza Zielonka]], [[Park Krajobrazowy Promno|Promno]] oraz [[Rogaliński Park Krajobrazowy]].
+
+== Nazwa miasta ==
+[[Plik:Stary Rynek w Poznaniu widok6.JPG|mały|[[Ratusz w Poznaniu]]]]
+[[Plik:Poznan 10-2013 img16 Old Market.jpg|mały|Fragment [[Stary Rynek w Poznaniu|Starego Rynku]] z widokiem na [[Zamek Królewski w Poznaniu|Zamek Królewski]]]]
+[[Plik:Koziołki Poznań lipiec 2007 RB5.JPG|mały|upright|240px|[[Koziołki poznańskie|Koziołki]] na wieży poznańskiego [[Ratusz w Poznaniu|ratusza]]]]
+[[Plik:Bamberca Poznań.jpg|mały|upright|240px|[[Studzienka Bamberki w Poznaniu]]]]
+Obecnie językoznawcy zgadzają się, że nazwa ''Poznań'' wywodzi się od imienia ''[[Poznan (imię)|Poznan]]''. Utworzono ją poprzez dodanie do imienia Poznana [[przyrostek|przyrostka]] ''-j'', który jeszcze w czasach przedpiśmiennych zlał się z poprzedzającą go literą ''[[n]]'' zmiękczając ją do współczesnego ''[[ń]]''.
+
+O ile wyjaśnienie nazwy nie nastręcza naukowcom problemu, samo imię ''Poznan'' nie jest do końca jasne. Źródła historyczne nie dostarczają informacji o osobie, której imieniem nazwano gród nad Wartą. Nie jest też pewne, czy to słowiańskie imię wywodzące się od czasownika „[[wikt:poznać|poznać]]” należy do tzw. grupy imion imiesłowowych, takich jak ''Miłowan'' i ''Biegan'', czy też powstało jako skrócenie imienia dwuczłonowego np. ''Poznamir''{{r|Zofia i Karol Zierhofferowie}}.
+
+Dla zachowania tradycji przy uroczystych okazjach używana jest nazwa ''[[Stołeczne Miasto Poznań]]''{{r|statut}}.
+Poznań jako ośrodek życia politycznego jest jednym z pierwszych polskich miast, odnotowanych na kartach historii. Ponieważ w owych czasach [[łacina]] była językiem używanym przez wykształconą część społeczeństwa, są to zapisy w formie zlatynizowanej. Pierwszy znany zapis znajduje się w kronice [[Thietmar z Merseburga|Thietmara]] pod rokiem 970 w formie ''episcopus Posnaniensis'' (biskup poznański). W tej samej kronice pod rokiem 1005 znajdujemy określenie ''ab urbe Posnani'' (z miasta Poznania){{r|nazwy_miast}}. Miasto w formie ''Poznan'' notuje [[Gall Anonim]] w swojej [[Kronika Galla Anonima|Kronice polskiej]] spisanej w latach 1112–1116<ref>„Monumenta Poloniae Historica”, Tom I, Akademia Umiejętności w Krakowie, Lwów 1864, s. 404.</ref>.
+
+Jako [[Mianownik (przypadek)|nominativus]] Poznań pojawia się w 1236 jako ''Posnania'' i 1247 jako ''Poznania''. Poza tym istnieją zapisy z 1146 i 1244 roku w formie ''in Poznan'', które pozwalają na wysnucie wniosku, że nazwa Poznań nie zmieniła się na przestrzeni dziejów.
+
+=== Fakty związane z nazwą Poznań ===
+Poznań jest jedynym miastem, którego nazwa została wymieniona w [[hymn Polski|hymnie Polski]].
+ ''Jak [[Stefan Czarniecki|Czarniecki]] do Poznania (...)''
+[[Plik:PLL LOT Boeing 767-300ER Poznan 2.jpg|mały|240px|Samolot [[Boeing 767]] „Poznań”, który [[Awaryjne lądowanie lotu PLL LOT 016|1 XI 2011 r. wylądował awaryjnie bez wysuniętego podwozia]]]]
+Nazwę ''Poznań'' oraz ''Posen'' noszą lub nosiły następujące okręty, statki i samoloty:
+* samolot Poznań – [[Boeing 767]] należący do [[Polskie Linie Lotnicze LOT|PLL LOT]] (chrzest samolotu miał miejsce w 1996 r. w [[Port lotniczy Poznań-Ławica|porcie lotniczym Poznań-Ławica]])
+* [[ORP Poznań]] – okręt transportowo-minowy [[Okręty transportowo-minowe projektu 767 typu Lublin|typu Lublin]] z 1991 roku
+* [[MS Poznań]] – kontenerowiec z 1982 roku
+* [[SS Poznań]] – masowiec z 1927 roku
+* [[SS Poznan]] – statek handlowy z 1913 roku
+* [[SMS Posen]] – pancernik [[Pancerniki typu Nassau|typu Nassau]] z 1910 roku
+
+Model [[Mercedes-Benz|Mercedesa]] z 1912 roku nosił nazwę [[Mercedes 10/20 HP Posen]].
+
+Nazwę ''Poznań'', ''Poznan'' lub ''Posen'' noszą lub nosiły miejscowości:
+* [[Poznan (Ohio)|Poznan]] w [[Ohio]], w [[Stany Zjednoczone|Stanach Zjednoczonych]];
+* [[Posen (Illinois)|Posen]] w [[Illinois]], w Stanach Zjednoczonych;
+* [[Posen (Michigan)|Posen]] w [[Michigan]], w Stanach Zjednoczonych;
+* Posen w [[Nebraska|Nebrasce]], w Stanach Zjednoczonych, obecnie [[Farndale]];
+* [[Poznań (Ukraina)|Poznań]], wieś na [[Ukraina|Ukrainie]];
+* [[Poznań (województwo lubelskie)|Poznań]], wieś w województwie lubelskim, w Polsce.
+
+Jedna z ulic w [[Australia|australijskim]] [[Adelaide]] w dzielnicy Noarlunga nosi nazwę Poznan Crescent, jest ona przecznicą odchodzącą od ulicy Warsaw Drive. W pobliżu znajdują się również ulice upamiętniające inne polskie miasta: Lublin Crescent, Lodz Crescent, Krakow Crescent, a także Vistula Crescent.
+
+== Historia ==
+{{Historia Poznania}}
+{{Osobny artykuł|Historia Poznania}}
+
+=== Czasy Piastów ===
+Pierwsze ślady ludzi na terenie dzisiejszego Poznania pochodzą z okresu około 8900–8000 roku p.n.e. Byli to łowcy reniferów. Względnie stałe osady powstały na przełomie [[V tysiąclecie p.n.e.|V]] i [[IV tysiąclecie p.n.e.|IV tysiąclecia p.n.e.]] Około [[XXII wiek p.n.e.|2200 p.n.e.]] na tych ziemiach pojawiła się [[Indoeuropejczycy|ludność indoeuropejska]], z V wieku n.e. pochodzą ślady osadnictwa niezaprzeczalnie słowiańskiego, zaś w VIII wieku pojawili się tu [[Polanie]]. Z tego okresu pochodzi też prawdopodobnie gród na [[Ostrów Tumski w Poznaniu|Ostrowie Tumskim]], który stał się zaczątkiem dzisiejszego miasta. W X wieku gród znalazł się pod panowaniem [[Piastowie|Piastów]], którzy uczynili go jednym z ośrodków stołecznych w swoim państwie obok [[Gniezno|Gniezna]], [[Giecz]]a i [[Ostrów Lednicki|Ostrowa Lednickiego]].
+[[Plik:Poznan mury dziedziniec strazy pozarnej2.jpg|mały|lewo|240px|Pozostałości [[mury miejskie w Poznaniu|murów miejskich w Poznaniu]]]]
+Pierwotnie miasto leżało nad brzegiem [[Cybina|Cybiny]] i prawym brzegiem Warty. Na pobliskim wzgórzu stała tam wówczas [[chram|świątynia pogańska]] i zamek książęcy. Poznań wiąże się również z początkami państwowości polskiej. Jest to jedno z hipotetycznych miejsc chrztu [[Mieszko I|Mieszka I]] w 966 roku. W 968 swą siedzibę umieścił tu [[Jordan (pierwszy biskup Polski)|Jordan]], pierwszy biskup Polski. W czasach panowania [[Bolesław I Chrobry|Bolesława Chrobrego]] był to także gród o bardzo ważnym znaczeniu militarnym. [[Gall Anonim]] w swojej [[Kronika Galla Anonima|Kronice polskiej]] spisanej w latach 1112–1116 we fragmencie opisującym polskie siły bojowe rozmieszczone w poszczególnych grodach notuje, że Bolesław miał w Poznaniu „1300 [[Pancerni (okres wczesnofeudalny)|pancernych]] i 4000 [[tarczownik]]ów”<ref>„Kronika polska, Gall Anonim”, seria „Kroniki polskie”, Zakł. Nard. Ossolińskich, Wrocław, {{ISBN|978-3-939991-64-9}}, s. 25.</ref>. Funkcje stołeczne gród pełnił do 1039, gdy został – wraz z innymi miastami [[Wielkopolska|Wielkopolski]] i [[Śląsk]]a – spalony przez [[Brzetysław I|Brzetysława I]]. Co prawda Poznań stracił swe znaczenie polityczne, jednak nadal pozostał prężnym ośrodkiem gospodarczym. Kolejny okres rozkwitu przypada na [[Polska w okresie rozbicia dzielnicowego|czas rozbicia dzielnicowego]], gdy gród na Ostrowie Tumskim stał się stolicą [[Piastowie wielkopolscy|wielkopolskiej linii Piastów]]. W 1231 Władysław Odonic lokował prawobrzeżną osadę targową Śródka na prawie niemieckim. Była to pierwsza w Wielkopolsce lokacja miejska (Gniezno w 1239, Powidz w 1243, Lądek w 1250). Synowie Odonica, książęta [[Przemysł I]] i [[Bolesław Pobożny]], mając dalekosiężne plany restytucji królestwa, w 1253 dokonali drugiej [[Lokacja (historia)|lokacji]] miejskiej na lewym brzegu Warty na [[prawo magdeburskie|prawie magdeburskim]]. Prace zapoczątkowane przez dziada i ojca kontynuował [[Przemysł II]], który jako pierwszy od 200 lat władca został koronowany w [[Gniezno|Gnieźnie]] na [[król Polski|króla Polski]] (1295), a za swą siedzibę obrał lewobrzeżne nowe miasto Poznań. Jego rezydencją stał się zamek książęcy ojca na [[Zamek Królewski w Poznaniu|Wzgórzu Przemysła]]. Po tragicznej śmierci króla (1296) nastąpił blisko stuletni zastój w rozwoju miasta. Do dziś można jeszcze znaleźć pozostałości [[Mury miejskie w Poznaniu|murów miejskich]].
+[[Plik:Poznan Braun Hohenberg.jpg|mały|lewo|240px|Poznań, ''[[Civitates orbis terrarum]]'', 1617 r.]]
+
+=== Czasy Jagiellonów oraz I Rzeczypospolitej ===
+Kolejny pomyślny okres w historii Poznania nastąpił po wstąpieniu na tron [[Władysław II Jagiełło|Władysława II Jagiełły]] (1386). Otwarcie szlaku łączącego [[Litwa|Litwę]] z [[Europa|Europą]] oraz zamknięcie dla polskich towarów [[Gdańsk]]a sprawiły, że Poznań stał się węzłem, w którym przecinały się szlaki handlowe. Poznań uzyskał [[prawo składu]] w [[1394]] roku<ref>Stan Lewicki, Historja handlu w Polsce na tle przywilejów handlowych: (prawo składu), Warszawa 1920, s. 131.</ref>. Z czasem wokół miasta rozwinęła się sieć konkurujących z nim miasteczek, należących głównie do duchowieństwa i szlachty, tworzących razem z Poznaniem prężnie rozwijającą się [[aglomeracja policentryczna|konurbację]].
+
+Miasto położone było w [[1580]] roku w powiecie poznańskim [[województwo poznańskie (I Rzeczpospolita)|województwa poznańskiego]]<ref>Adolf Pawiński, Polska XVI wieku pod względem geograficzno-statystycznym, Wielkopolska t. I, Warszawa 1883, s. 46.</ref>.
+
+Trwające kilkaset lat korzystne warunki dla rozwoju miasta przerwał w 1655 [[potop szwedzki]]. W krótkim okresie pokoju, który po nim nastąpił, Poznań usiłował się podnieść, ale kolejne konflikty zbrojne, jak [[III wojna północna|wielka wojna północna]], [[wojna o sukcesję polską]], [[wojna siedmioletnia]] oraz [[konfederacja barska]] sprawiły, że miasto pustoszyły różne armie. Nadzieję na pokój przyniosła dopiero elekcja [[Stanisław August Poniatowski|Stanisława Augusta Poniatowskiego]], lecz również na początku jego panowania o miasto walczyli [[konfederacja barska|barzanie]] z wojskami pruskimi, a następnie rosyjskimi, które opuściły miasto dopiero w 1775 roku.
+
+Kilka kolejnych lat to kolejny okres pomyślności, związany z działalnością [[komisje dobrego porządku|komisji dobrego porządku]] i reformami [[Sejm Czteroletni|Sejmu Czteroletniego]]. Jednak zostały one zniweczone przez [[konfederacja targowicka|konfederację targowicką]] i [[II rozbiór Polski]], w wyniku którego Poznań znalazł się pod panowaniem pruskim.
+
+=== Okres rozbiorów ===
+[[Plik:Minutoli Posen Palast Gorka.jpg|mały|240px|[[Litografia]] z 1833 r. – po prawej [[Pałac Górków w Poznaniu|Pałac Górków]], na środku dawne [[Kolegium jezuickie w Poznaniu|kolegium jezuickie]], po lewej w tle [[Kościół św. Franciszka Serafickiego w Poznaniu|kościół Bernardynów]]]]
+[[Plik:Cytadela Poznań wejście główne.jpg|mały|240px|Wejście główne na poznańską [[Fort Winiary|Cytadelę]] – (''Fort Winiary'')]]
+{{Osobny artykuł|Powstanie wielkopolskie 1794 roku|Powstanie wielkopolskie 1806 roku|Powstanie wielkopolskie 1848 roku}}
+W pierwszym okresie pruskiego panowania, nowe władze dokonały integracji konurbacji w jeden organizm miejski oraz stworzyły podstawy do rozbudowy Poznania w kierunku zachodnim. Klęska [[Prusy (państwo)|Prus]] i zwycięskie [[powstanie wielkopolskie 1806 roku|powstanie]] w 1806 uczyniły Poznań jednym z głównych miast [[Księstwo Warszawskie|Księstwa Warszawskiego]]. Trwające jednak [[wojny napoleońskie]] nie sprzyjały rozwojowi miasta. Po klęsce [[Napoleon Bonaparte|Napoleona]] w wyniku ustaleń [[Kongres wiedeński|Kongresu Wiedeńskiego]] Poznań znalazł się od 1815 roku ponownie pod [[Prusy (państwo)|pruskim]] panowaniem, tym razem jako stolica autonomicznego [[Wielkie Księstwo Poznańskie|Wielkiego Księstwa Poznańskiego]]. W tym samym roku miasto staje się stolicą rejencji [[Rejencja poznańska (1815–1920)|poznańskiej]] w Prowincji [[Prowincja Poznańska|Poznańskiej]], a trzy lata później powiatem grodzkim (''Stadtkreis''). W nowym ładzie [[Kongres wiedeński|pokongresowym]] Poznań stał się miastem frontowym Prus. W 1828 roku władze ustanowiły w mieście [[Twierdza Poznań|twierdzę]], która miałaby chronić Prusy przed atakiem ze wschodu. Podjęcie decyzji o fortyfikacji Poznania ukierunkowało jego rozwój aż do końca XIX w. Rozbudowę miasta podporządkowano funkcji obronnej – Poznań stał się miastem peryferyjnym, ominęły go procesy intensywnej urbanizacji i industrializacji. Powstałe wokół miasta fortyfikacje nie pozwalały na rozwój przestrzenny, a liczne tereny wewnątrz murów zarezerwowane były na cele wojskowe (koszary, place manewrowe, składy artylerii). Mimo formalnej autonomii regionu, polityka pruska prowadziła do wypierania ludności polskiej Poznania i [[Wielkie Księstwo Poznańskie|Wielkopolski]] z życia społecznego i gospodarczego. Wyrazem niezadowolenia społeczności polskiej było poparcie [[powstanie listopadowe|powstania listopadowego]] w 1830 roku oraz zrywy zbrojne z [[Powstanie wielkopolskie 1846 roku|1846]] i [[Powstanie wielkopolskie 1848 roku|1848]] roku. W wyniku tego władze pruskie najpierw drastycznie ograniczyły autonomię a później w 1848 roku całkowicie ją zniosły. Poznań został stolicą [[Prowincja Poznańska|prowincji]].
+
+Brak możliwości siłowej walki z zaborcą doprowadził do powstania nowego rodzaju oporu: [[praca organiczna|pracy organicznej]]. Polacy w celu przeciwdziałania wypieraniu ich z życia społecznego zaczęli się samoorganizować. Powstały organizacje kultywowania polskości czy rozwoju nauki. Z fundacji prywatnej lub społecznej powstawały nowoczesne instytucje publiczne, których władze pruskie nie mogły zapewnić lub celowo ograniczały Polakom do nich dostęp. W latach 1822–1828 z fundacji hrabiego [[Edward Raczyński (starszy)|Edwarda Raczyńskiego]] powstała [[Biblioteka Raczyńskich w Poznaniu|pierwsza publiczna biblioteka]] na ziemiach zaboru pruskiego. Następnie w latach 1838–1842 utworzona przez Polaków [[Hotel Bazar w Poznaniu|Spółka Akcyjna Bazar]] zbudowała hotel, który był centrum polskiego życia społeczno-kulturalnego w Poznaniu. Wobec braku wyższego szkolnictwa w mieście w 1857 roku polska elita powołała do życia [[Poznańskie Towarzystwo Przyjaciół Nauk]] prowadzące badania naukowe między innymi nad historią Polski. W związku z ograniczeniami dotyczącymi wystawiania polskich sztuk w Teatrze Miejskim w 1875 roku po długoletnich staraniach wybudowany został ze składek [[Teatr Polski w Poznaniu|Teatr Polski]].
+
+=== II wojna światowa ===
+{{Osobny artykuł|Kraj Warty|Wysiedlenia Polaków z Wielkopolski 1939–1941|Heim ins Reich}}
+W czasie II wojny światowej Poznań wcielono do III Rzeszy w granice utworzonej z [[Wielkopolska|Wielkopolski]] tzw. [[Kraj Warty|Kraju Warty]]. Z miasta wysiedlono większość Polaków do [[Generalne Gubernatorstwo|Generalnego Gubernatorstwa]], a w zamian sprowadzono Niemców w ramach akcji kolonizacyjnej [[Heim ins Reich]].
+
+== Architektura i urbanistyka ==
+{{Osobny artykuł|Zabytki Poznania|Pomniki w Poznaniu|Mosty i wiadukty w Poznaniu|Wieżowce w Poznaniu}}
+{{Commons|Skylines of Poznań|Panoramy Poznania}}
+Warunki naturalne zlewisk rzek [[Warta|Warty]] i [[Cybina|Cybiny]] były głównym czynnikiem kształtującym strukturę funkcjonalno-przestrzenną. W średniowieczu warowny gród książęcy Poznań znajdował się na [[Ostrów Tumski w Poznaniu|Ostrowie Tumskim]]. W 1253 roku lokowano Poznań w innym miejscu, na zachodnim brzegu Warty, gdzie obecnie znajduje się ok. 60% potencjału współczesnego miasta, średniowieczne [[Stare Miasto w Poznaniu|Stare Miasto]] oraz XIX-wieczne śródmieście. Wschodnia część Poznania została włączona w granice miasta po 1900 roku{{r|Raport o stania miasta Poznania-s16}}.
+
+W roku 2008 ''[[Historyczny zespół miasta Poznania|Poznań – historyczny zespół miasta]]'' uznano za [[pomnik historii]]. Obejmuje on Stare Miasto oraz obszar na północ od ul. Królowej Jadwigi i ul. Towarowej, na południe od ul. Północnej, między linią kolejową a Wartą, a także południową część Ostrowa Tumskiego, [[Zagórze (Poznań)|Zagórze]] oraz [[Fort Winiary]] (Park Cytadela){{r|pomnik historii}}.
+
+Obszar miasta rozdziela dolina rzeki Warty. W Poznaniu ponad Wartą wzniesiono 7 mostów drogowych oraz 3 mosty kolejowe, natomiast nad Cybiną – 2 mosty drogowe oraz 2 mosty kolejowe.
+
+Najwyższym wieżowcem w mieście jest [[Collegium Altum w Poznaniu|Collegium Altum]] o 22 kondygnacjach i całkowitej wysokości wraz z masztem 103,35 m. Budynek pełni funkcję ośrodka edukacyjnego dla [[Uniwersytet Ekonomiczny w Poznaniu|Uniwersytetu Ekonomicznego]].
+
+W Poznaniu znajduje się układ fortyfikacji zbudowanych w XIX i na początku XX wieku, zwany [[Twierdza Poznań|Twierdzą Poznań]], będącym trzecim co do wielkości system tego typu w Europie. Zachowało się 15 z 18 fortów i szereg obiektów wspomagających, umieszczonych w pierścieniu o średnicy 9,5&nbsp;km oraz obwodzie 30&nbsp;km. Na terenie miasta istnieje też kilka reliktów twierdzy poligonalnej z pocz. XIX w., która pozostawiła trwały ślad w postaci układu ulic i parków miejskich.
+<center>
+{|
+|{{Duża grafika|Poznań_panorama_2a.JPG|750px|Panorama centrum Poznania z 2006 roku[[:Plik:Poznań panorama 2a.JPG|(kliknij tutaj, by zobaczyć opis poszczególnych budynków)]]}}
+|}
+
+{|
+|{{Duża grafika|Poznan centrum.jpg|750px|Centrum Poznania widziane z prawego brzegu [[Warta|Warty]], [[Most św. Rocha w Poznaniu|Most św. Rocha]] i [[Wieżowce w Poznaniu|biurowce]]}}
+|}
+</center>
+
+== Gospodarka ==
+{{Osobny artykuł|Gospodarka Poznania|Handel i usługi w Poznaniu po 1989 roku|Poznański Okręg Przemysłowy}}
+Poznań należy do największych ośrodków gospodarczych w kraju. Stanowi ważne centrum [[Poznański Okręg Przemysłowy|przemysłu]], [[Handel i usługi w Poznaniu po 1989 roku|handlu]], [[logistyka|logistyki]] i [[turystyka biznesowa|turystyki biznesowej]]{{r|portal}}.
+
+=== Obraz makroekonomiczny ===
+[[Plik:Pixel building, Poznan.jpg|mały|240px|''Pixel'' – siedziba [[Allegro.pl (przedsiębiorstwo)|Allegro]]]]
+W 2011 wartość [[produkt krajowy brutto|produktu krajowego brutto]] (PKB) wytworzonego w Poznaniu wyniosła 42,1 mld zł, co stanowiło piąty wynik w kraju, po [[Warszawa|Warszawie]] (204,1 mld), [[Kraków|Krakowie]] (45,6 mld), [[konurbacja górnośląska|podregionie katowickim]] (42,8 mld) i [[Trójmiasto|Trójmieście]] (42,5 mld). Wielkość ta większa jest od wartości PKB m.in. [[Wrocław]]ia (38,1 mld), [[Łódź|Łodzi]] (35,4 mld), czy [[Szczecin]]a (19,6 mld)<ref name="PKB 2011">GUS, Urząd Statystyczny w Katowicach, ''Produkt Krajowy Brutto. Rachunki Regionalne w 2011 r.'', Katowice 2013, http://old.stat.gov.pl/gus/5840_3594_PLK_HTML.htm.</ref>. W 2011 Poznań wytworzył 2,8% PKB Polski, co jednocześnie stanowiło 29,5% PKB wytworzonego w województwie wielkopolskim<ref name="PKB 2011" />.
+
+Poziom [[bezrobocie|bezrobocia]] w Poznaniu należy do najniższych w kraju. Pod koniec października 2013 [[stopa bezrobocia]] w mieście wyniosła 4,2% (13,8 tys. osób bez pracy); zbliżony współczynnik odnotowano w [[powiat poznański|powiecie poznańskim]] – 4,5% (7,1 tys. osób bezrobotnych). Podobnie niski poziom bezrobocia stwierdzono jedynie w [[Sopot|Sopocie]] (4,8%) i w [[Warszawa|Warszawie]] (również 4,8%)<ref>{{cytuj stronę |url=http://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5473/2/19/4/bezrobotni_stopa_wg_powiat_03m_2014.xls |tytuł=GUS, ''Bezrobotni oraz stopa bezrobocia według województw, podregionów i powiatów (Stan na koniec października 2013 r.)'' |język=pl |data dostępu=2016-01-01}}</ref>.
+
+W 2005 r. miasto było zaliczane do najbardziej atrakcyjnych miejsc do inwestowania w Polsce{{r|Wojciech Dziemianowicz Ranking}}. Według informacji podawanych przez inwestorów szacuje się, że wartość skumulowanych bezpośrednich inwestycji zagranicznych w latach 1990–2010 wyniosła w Poznaniu 6,6 mld [[dolar amerykański|USD]]{{r|poznan-1010-lang-parent}}.
+
+Budżet miasta w 2013 roku zamknął się dochodami w wysokości 2664 mln zł oraz wydatkami w wysokości 2693 mln zł. Deficyt budżetu wyniósł 29 mln zł. Zadłużenie miasta na koniec roku wyniosło 1849 mln zł, co stanowiło 69,41% dochodów miasta<ref>{{Cytuj stronę |url = http://www.bip.poznan.rio.gov.pl/?a=17440 |tytuł = Działalność informacyjna» Wykonanie budżetów js» 2013» IV kwartał» Zobowiązania (tabela9) |data = 2014-03-25 |opublikowany = Regionalna Izba Obrachunkowa w Poznaniu |data dostępu = 2016-01-01}}</ref><ref>{{Cytuj stronę |url = http://www.bip.poznan.rio.gov.pl/?a=17444 |tytuł = Działalność informacyjna» Wykonanie budżetów js» 2013» IV kwartał»Wydatki bieżące i majątkowe (tabela5) |data = 2014-03-25 |opublikowany = Regionalna Izba Obrachunkowa w Poznaniu |data dostępu = 2016-01-01}}</ref>.
+
+Według zewnętrznych ocen przeprowadzanych przez [[agencja ratingowa|agencję ratingową]] [[Moody's|Moody’s Investors Service]], pod względem wiarygodności dla inwestorów Poznań nieznacznie ustępuje znacznie większej Warszawie. W marcu 2013 miasto po raz kolejny otrzymało ocenę na poziomie A3 z prognozą stabilną. Oznacza ona, że Poznań posiada bardzo wysoką zdolność do wywiązywania się z zaciągniętych zobowiązań finansowych, a wiarygodność ta nie powinna ulec zmianie w najbliższym czasie. W listopadzie 2013 Poznań otrzymał ocenę wiarygodności finansowej agencji [[Fitch Ratings]] na poziomie A- z prognozą stabilną odpowiadającą ratingowi Polski. Ocena ta odpowiada wcześniej nadanemu [[rating kredytowy|ratingowi]] Moody’s A3. Rating miasta od 2006 utrzymuje się na niezmiennym poziomie<ref>Biuletyn Informacji Publicznej – Ocena ratingowa Poznania [http://bip.poznan.pl/bip/ocena-ratingowa-poznania,doc,291/ocena-ratingowa-poznania,1742.html Link].</ref>.
+
+=== Przedsiębiorstwa ===
+Pod koniec 2012 r. w Poznaniu zarejestrowanych było 102 513 [[podmiot gospodarczy|podmiotów gospodarczych]]. 3099 z nich to [[spółka handlowa|spółki handlowe]] z udziałem kapitału zagranicznego. W [[powiat poznański|powiecie poznańskim]] działało kolejne 50 810 firm z czego 947 to podmioty zagraniczne<ref name="GUS_Portret">GUS (Bank Danych Lokalnych – Portret terytorialny), 25.05.2013, http://www.stat.gov.pl/bdl/app/portret.dims.</ref>.
+
+=== Centrum targowe ===
+[[Plik:Targi z Dworcowego RB2.JPG|mały|240px|[[Międzynarodowe Targi Poznańskie]] – widok z [[Most Dworcowy w Poznaniu|Mostu Dworcowego]]]]
+[[Plik:BUDMA - Międzynarodowe Targi Budownictwa 2010.JPG|mały|240px|BUDMA 2010 – Międzynarodowe Targi Budownictwa]]
+{{Osobny artykuł|Międzynarodowe Targi Poznańskie}}
+Poznań jest najstarszym ośrodkiem wystawienniczym w Polsce. [[Międzynarodowe Targi Poznańskie|Targi Poznańskie]] powołano do życia w 1921 r. na wzór [[Targi Lipskie|targów lipskich]]. Osiem lat później odbyła się na nich największa wystawa [[Historia Polski (1918–1939)|dwudziestolecia międzywojennego w Polsce]] – [[Powszechna Wystawa Krajowa]]. Prezentowała ona dokonania pierwszego dziesięciolecia odrodzonego po zaborach kraju.
+
+Obecnie Międzynarodowe Targi Poznańskie to największy w kraju i jeden z większych w [[Europa|Europie]] ośrodków targowych. Dysponują one ponad 110 tys. m² powierzchni wystawienniczej zlokalizowanej w 16 pawilonach oraz blisko 35 tys. m² powierzchni ekspozycyjnej na terenie otwartym. Znajdujące się samym centrum miasta Targi zajmują 23 hektarów{{r|targi-mtp-o-firmie}}. Według międzynarodowego rankingu, przeprowadzonego przez niemieckie zrzeszenie przedsiębiorstw targowych, MTP zajmują 42. miejsce na świecie i 30. miejsce w Europie (według powierzchni wystawienniczej w styczniu 2012 r.){{r|targi-auma}}.
+
+W 2014 r. na terenie Międzynarodowych Targów Poznańskich odbyło się 69 imprez targowych, w których uczestniczyło 11,3 tys. wystawców z 67 krajów świata. Imprezy te odwiedziło łącznie 651 tys. osób{{r|ssgpoznań2014}}.
+
+Na Targach Poznańskich zlokalizowane jest Poznańskie Centrum Kongresowe (Poznań Congress Center). Głównym obiektem centrum jest trzypoziomowy Pawilon 15 o powierzchni 13 tys. m². Największe z pomieszczeń – reprezentacyjna Sala Ziemi – gościć może jednorazowo 2 tys. osób. PCC przystosowane jest do organizacji kongresów i eventów dla ponad 11 tys. uczestników{{r|targi-mtpPCC}}. W 2014 r. zorganizowano 199 wydarzeń, w których uczestniczyło ponad pół miliona osób z całego świata{{r|ssgpoznań2014}}.
+
+== Transport ==
+W Poznaniu zbiega się 5 [[droga krajowa|dróg krajowych]] (w tym [[autostrada]]) oraz 4 [[Drogi wojewódzkie w Polsce|drogi wojewódzkie]]. [[Transport kolejowy w Poznaniu|Poznański Węzeł Kolejowy]], przez który przebiega 8 [[linia kolejowa|linii kolejowych]], jest jednym z największych i najruchliwszych w kraju. Znajdujące się w mieście [[port lotniczy Poznań-Ławica|lotnisko]] obsłużyło w 2012 r. blisko 1,6 mln pasażerów.
+
+W obrębie miasta 44% podróży wykonywanych jest komunikacją miejską, 39% – samochodem, a 4% rowerem (najwyższy wskaźnik w Polsce)<ref>[http://www.money.pl/gospodarka/wiadomosci/artykul/warszawa-bije-w-tym-na-glowe-wiekszosc,121,0,1927289.html Warszawa bije w tym na głowę większość zachodnich metropolii], money.pl 13.10.2015.</ref>.
+
+=== Transport drogowy ===
+[[Plik:Węzeł Poznań-Wilda A2 i DW430 RB1.JPG|mały|240px|[[autostrada A2 (Polska)|Autostrada A2]] w pobliżu węzła „Poznań Luboń”]]
+W poznańskim węźle drogowym zbiega się 5 dróg o znaczeniu krajowym: [[droga krajowa nr 5 (Polska)|nr 5]], [[droga krajowa nr 11 (Polska)|nr 11]], [[droga krajowa nr 92 (Polska)|nr 92]], [[autostrada A2 (Polska)|autostrada A2]] oraz droga krajowa [[droga krajowa nr 32 (Polska)|nr 32]] kończąca swój bieg w podpoznańskim [[Stęszew]]ie. [[autostrada A2 (Polska)|Autostrada A2]] ma status [[E30 (trasa europejska)|trasy europejskiej E30]], natomiast [[droga krajowa nr 5 (Polska)|droga krajowa nr 5]] – trasy [[E261 (trasa europejska)|E261]]. Na terenie Poznania swój bieg kończy również 6 dróg wojewódzkich: [[droga wojewódzka nr 184|nr 184]], [[droga wojewódzka nr 194|nr 194]], [[droga wojewódzka nr 196|nr 196]], [[droga wojewódzka nr 307|nr 307]], [[droga wojewódzka nr 430|nr 430]] i [[droga wojewódzka nr 433|nr 433]]. Od 1 grudnia 2011 Poznań ma bezpośrednie połączenie autostradowe z krajami [[Europa Zachodnia|Europy Zachodniej]], a od 6 czerwca 2012 także ze stolicą kraju.
+
+4 czerwca 2012 otwarto [[Wschodnia obwodnica Poznania|Wschodnią obwodnicę Poznania]] w ciągu [[droga ekspresowa S5 (Polska)|drogi ekspresowej S5]] (od węzła „Poznań Wschód” do węzła „Gniezno Południe”). Od 19 grudnia 2014 [[Zachodnia obwodnica Poznania]] przebiega w sposób ciągły (od węzła „Poznań Zachód” do węzła „Poznań Północ”). Stanowi fragment [[Droga ekspresowa S11 (Polska)|drogi ekspresowej S11]].
+
+Układ drogowy miasta opiera się na promienisto-pierścieniowym systemie ulic. Składają się na niego pierścienie drogowe zwane ramami oraz promieniście rozchodzące się od centrum ulice wylotowe. W procesie kształtowania struktury urbanistycznej miasta wykształciły się trzy ramy komunikacyjne. Obecnie [[I rama komunikacyjna w Poznaniu|I rama]] oraz [[II rama komunikacyjna w Poznaniu|II rama]] istnieją w całości, zaś [[III rama komunikacyjna w Poznaniu|III rama]] fragmentarycznie. I rama ulokowana jest najbliżej centrum i pełni funkcję jego obwodnicy. II rama, na której opiera się większość ruchu tranzytowego oraz wewnątrzmiejskiego znajduje się na obierzach śródmieścia stanowiąc jego umowną granicę. Nieistniejąca jeszcze [[III rama komunikacyjna w Poznaniu|III rama komunikacyjna]] pomyślana została jako szybka wewnątrzmiejska obwodnica, która miałaby przejąć większość ruchu międzydzielnicowego oraz ciężki ruch docelowy{{r|bip.um.poznan-null2}}. Jej powstanie zostało odłożone w czasie ze względu na olbrzymie koszty inwestycji. Budowę 36-kilometrowej bezkolizyjnej trasy ekspresowej otaczającej miasto wyceniono w 2008 r. na 9,14 mld złotych{{r|drogi-inzynieria-11150}}.
+
+Wszystkie [[droga publiczna|drogi publiczne]] w Poznaniu, z wyjątkiem [[autostrada|autostrady]], zarządzane są przez Zarząd Dróg Miejskich – jednostkę budżetową podległą [[prezydent miasta|prezydentowi miasta]]. Instytucja ta sprawuje opiekę nad 1927 ulicami o łącznej długości 1040&nbsp;km, z których 86,3% (898&nbsp;km) posiada utwardzoną nawierzchnię. [[droga krajowa|Drogi krajowe]] mają długości 52&nbsp;km, [[Drogi wojewódzkie w Polsce|drogi wojewódzkie]] – 13&nbsp;km, a [[droga powiatowa|drogi powiatowe]] – 269&nbsp;km. Reszta to [[droga gminna|drogi gminne]] o całkowitej długości 706&nbsp;km. ZDM zarządza również 136 obiektami inżynierskimi (20 mostów, 69 wiadukty, 35 przejść podziemnych, 12 kładek dla pieszych), blisko 46 tys. punktów świetlnych oraz kanalizacją deszczową o długości 567&nbsp;km. Jednostka ta odpowiedzialna jest również za 304 sygnalizacje świetlne, z których większość podłączona jest do Centrum Sterowania Ruchem. Poznańska Strefa Płatnego Parkowania dysponuje 9,4 tys. miejsc parkingowych obsługiwanych przez 422 parkomaty{{r|ssgpoznań2014|zdmpoznan}}.
+
+Miejski odcinek autostrady [[Autostrada A2 (Polska)|A2]] mierzący 13&nbsp;km (tzw. południowa obwodnica Poznania) zarządzany jest przez spółkę [[Autostrada Wielkopolska]] w imieniu Skarbu Państwa. Ze względu na wzmożony ruch panujący na autostradowej obwodnicy, istnieje w planach dobudowanie trzeciego pasa jezdni w obydwu kierunkach{{r|wiadomosci.onet}}.
+[[Plik:Ulica Bułgarska w Poznaniu-1.jpg|mały|[[Ulica Bułgarska w Poznaniu|Ulica Bułgarska]]]]
+{| class="wikitable" style="font-size: 90%;"
+|+ Drogi przechodzące przez Poznań
+! Droga
+! Trasa
+|-
+| autostrada [[Autostrada A2 (Polska)|A2]] ([[E30 (trasa europejska)|E30]])
+| [[Świecko]] – Poznań – [[Stryków]] ([[Łódź]]) – [[Konotopa (powiat warszawski zachodni)|Konotopa]] ([[Warszawa]]) – dalej [[Droga krajowa nr 2 (Polska)|DK2]] do [[Terespol]]a (trasa [[E30 (trasa europejska)|E30]] prowadzi przez [[Berlin]] do [[Cork]] w [[Irlandia|Irlandii]] oraz przez [[Mińsk]] i [[Moskwa|Moskwę]] do [[Omsk]]a w [[Rosja|Rosji]])
+|-
+| droga krajowa nr [[Droga krajowa nr 5 (Polska)|5]] ([[E261 (trasa europejska)|E261]])
+| [[Nowe Marzy]] ([[Autostrada A1 (Polska)|A1]]) – [[Bydgoszcz]] – Poznań – [[Leszno]] – [[Wrocław]] – [[Lubawka]]
+|-
+| droga krajowa nr [[Droga krajowa nr 11 (Polska)|11]]
+| [[Kołobrzeg]] – [[Koszalin]] – [[Piła (miasto)|Piła]] – Poznań – [[Ostrów Wielkopolski|Ostrów]] – [[Kępno]] – [[Lubliniec]] – [[Bytom]]
+|-
+| droga krajowa nr [[Droga krajowa nr 32 (Polska)|32]]
+| [[Gubinek]] – [[Zielona Góra]] – [[Sulechów]] – [[Wolsztyn]] – [[Stęszew]] – [[Droga krajowa nr 5 (Polska)|5]] ([[E261 (trasa europejska)|E261]]) Poznań
+|-
+| droga krajowa nr [[Droga krajowa nr 92 (Polska)|92]]
+| [[Rzepin]] ([[Autostrada A2 (Polska)|A2]]) – [[Pniewy]] – Poznań – [[Września]] – [[Słupca]] – [[Konin]] – [[Kutno]] – [[Sochaczew]] – [[Mory (powiat warszawski zachodni)|Mory]] (A2, [[Droga ekspresowa S8 (Polska)|S8]], [[Droga krajowa nr 2 (Polska)|DK2]])
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 184|184]]
+| Poznań – [[Szamotuły]] – [[Ostroróg]]
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 194|194]]
+| Poznań – [[Pobiedziska]] – [[Gniezno]]
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 196|196]]
+| Poznań – [[Murowana Goślina]] – [[Wągrowiec]]
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 307|307]]
+| Poznań – [[Buk (województwo wielkopolskie)|Buk]] – [[Opalenica]] – [[Nowy Tomyśl]]
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 430|430]]
+| Poznań – [[Puszczykowo]] – [[Mosina]]
+|-
+| droga wojewódzka nr [[Droga wojewódzka nr 433|433]]
+| Poznań – [[Gądki]] – [[Tulce]] – [[Swarzędz]]
+|}
+
+Pod Poznaniem na terenie [[powiat poznański|powiatu poznańskiego]] przebiega również kilka dróg wojewódzkich które stanowią pewną alternatywę dla przejazdu przez miasto. Są to drogi: [[Droga wojewódzka nr 431|nr 431]] oraz [[Droga wojewódzka nr 434|nr 434]].
+
+=== Transport kolejowy ===
+[[Plik:Poznański Węzeł Kolejowy stan w VI 2012.png|mały|lewo|240px|Poznański Węzeł Kolejowy w 2012 roku]]
+[[Plik:New Poznań Główny (1).JPG|mały|240px|[[Poznań Główny|Dworzec Główny w Poznaniu]]]]
+[[Plik:Opening of new Poznan Central Station (2).jpg|mały|240px|[[Hol (architektura)|Hol]] dworca kolejowego Poznań Główny (otwarcie – 29.05.2012)]]
+{{Osobny artykuł|Transport kolejowy w Poznaniu}}
+Poznański Węzeł Kolejowy jest jednym z największych, najruchliwszych i mających największe znaczenie w kraju. W węźle zbiega się 8 [[linia kolejowa|linii kolejowych]] prowadzących w 9 kierunkach: do [[Warszawa|Warszawy]], [[Ostrów Wielkopolski|Ostrowa Wielkopolskiego]], [[Wrocław]]ia, [[Wolsztyn]]a, [[Berlin]]a, [[Szczecin]]a, [[Piła (miasto)|Piły]], [[Wągrowiec|Wągrowca]] i [[Gniezno|Gniezna]]. Pięć z nich to linie znaczenia państwowego. W samym Poznaniu znajduje się 12 czynnych stacji i przystanków osobowych{{r|rozkładpkp}}. Uzupełnieniem głównego układu torowego PWK jest system linii obwodowych pozwalający pociągom towarowym ominąć stacje Poznań Główny. We wschodniej części miasta, na obwodnicy kolejowej, znajduje się stacja towarowa [[Poznań Franowo]], będąca drugą najbardziej obciążoną ruchem pociągów [[stacja rozrządowa|stacją rozrządową]] w Polsce{{r|transport-Poznań-Franowo}}. W rejonie Poznania funkcjonuje również 6 [[intermodalny terminal przeładunkowy|kolejowych terminali przeładunkowych]].
+
+Centralnym puntem węzła jest stacja [[Poznań Główny]], gdzie krzyżuje się większość linii kolejowych przebiegających przez miasto. Odprawianych jest na niej średnio w ciągu doby 300 pociągów, a z dworca rocznie korzysta ok. 17,2 mln pasażerów. W połowie 2012 r. otwarto budynek nowego dworca zlokalizowany nad peronami wschodnimi (1–3). Jest on częścią tzw. zintegrowanego centrum komunikacyjnego, które (poza nowym dworcem kolejowym) składa się z terminala autobusowego, parkingów dla samochodów i rowerów oraz dużej galerii handlowej. Z połączonych dworców korzystać będzie rocznie ok. 24,5 mln pasażerów.
+
+Dzięki dogodnej lokalizacji Poznania w strukturze sieci kolejowej mieszkańcy miasta mają możliwość bezpośredniego dojazdu pociągami dalekobieżnymi do większości ważniejszych ośrodków w kraju. W stolicy Wielkopolski zatrzymują się pociągi międzynarodowe do [[Amsterdam]]u, [[Berlin]]a i [[Moskwa|Moskwy]]{{r|rozkładpkp}}, a także pociąg relacji [[Moskwa]]-Berlin-[[Paryż]] obsługiwany przez [[Koleje Rosyjskie]]{{r|epoznan}}. Do Poznania prowadzi sieć połączeń regionalnych i aglomeracyjnych dowożących mieszkańców województwa do pracy i szkoły. W godzinach szczytu pociągi te kursują co 30–60 minut. Większość składów regionalnych obsługiwana jest przez [[Przewozy Regionalne]]. Pociągi na trasach Poznań-[[Gołańcz]], Poznań-[[Wolsztyn]] oraz [[Zbąszynek]]-Poznań-[[Kutno]] uruchamiane są przez spółkę samorządową [[Koleje Wielkopolskie]]. W grudniu 2012 r. wprowadzony został bilet aglomeracyjny pod nazwą „Bus-Tramwaj-Kolej – Jeden Bilet” umożliwiający wykupienie wspólnego biletu okresowego na komunikację miejską oraz trasy kolejowe do 30&nbsp;km od Poznania.
+
+Początki kolei żelaznych w Poznaniu sięgają I połowy XIX w. Dnia 10 sierpnia 1848 r. uruchomiono linię kolejową [[Stargard]] – Poznań łączącą miasto ze [[Szczecin]]em i dalej z [[Berlin]]em. Jej końcowym punktem był dworzec [[Poznań Jeżyce]], który funkcjonował w rejonie dzisiejszych ul. Zwierzynieckiej i Gajowej (obecnie teren [[Stare Zoo w Poznaniu|Starego Zoo]]). W 1879 r. obiekt został zamknięty ze względu na powstanie Dworca Centralnego (przemianowanego później na [[Poznań Główny]]){{r|Ogólnopolska Baza Kolejowa}}.
+
+=== Transport lotniczy ===
+[[Plik:PoznanAirport 03.06.2012 3.JPG|mały|240px|Wnętrze terminala T2 na [[port lotniczy Poznań-Ławica|poznańskim lotnisku]]]]
+Miasto posiada międzynarodowy [[port lotniczy Poznań-Ławica]]. W marcu 2013 r. dolecieć można było z niego do 25 [[Lotnisko|lotnisk]] zlokalizowanych głównie w krajach [[Europa Zachodnia|Europy Zachodniej]]. Dodatkowo w sezonie letnim 2013 z Poznania odlatywały samoloty czarterowe do 36 popularnych kurortów{{r|Port-Lotniczy-Ławica}}. W 2012 r. Ławica obsłużyła blisko 1,6 mln pasażerów, dzięki czemu uplasowała się na 6. pozycji w Polsce pod względem wielkości ruchu lotniczego{{r|Port-Lotniczy-Ławica-statystyki}}.
+
+W latach 2011–2013 dzięki środkom europejskim Port Lotniczy na Ławicy został rozbudowany. Obecnie posiada zespół terminali pasażerskich mogący obsłużyć do 3,5 mln pasażerów rocznie. Odprawa regularnego ruchu pasażerskiego odbywa się w dwóch [[terminal pasażerski|terminalach pasażerskich]]: T2 – odloty i T3 – przyloty. Dodatkowo w starym terminalu pasażerki (T1) funkcjonuje wydzielony terminal [[lotnictwo ogólne|General Aviation]]. Lotnisko posiada również towarowy [[terminal cargo]]. Na Ławicy znajdują się dwie bazy, z których startują [[śmigłowiec|śmigłowce]] – [[Lotnicze Pogotowie Ratunkowe|Lotniczego Pogotowia Ratunkowego]] oraz Sekcji Lotnictwa Komendy Wojewódzkiej Policji w Poznaniu{{r|lotnictwo-policji}}. W działającym przy terminalu T1 ośrodku szkoleniowym Aero Poznań utworzono Europejskie Centrum Symulatorowe Cirrus Aircraft. Jest ono wyposażone w [[symulator lotu]], który oddaje warunki identyczne z prawdziwym pilotowaniem samolotu{{r|poznan-sim-pl}}. W północno-wschodniej części lotniska trwa budowa nowej 34-metrowej [[wieża kontroli lotów|wieży kontroli ruchu lotniczego]] wraz z ośrodkiem radiokomunikacyjnym. Obiekt zostanie uruchomiony na przełomie 2014 i 2015 r.{{r|poznan.gazeta}}
+
+Na poznańskich [[Krzesiny|Krzesinach]] znajduje się [[31 Baza Lotnictwa Taktycznego]], w której stacjonują [[Samolot myśliwski|myśliwce]] [[General Dynamics F-16 Fighting Falcon|F-16]]{{r|31blot.sp-struktura}}.
+
+Ponadto pod Poznaniem znajduje się lotnisko sportowe. W [[Kobylnica (województwo wielkopolskie)|Kobylnicy]] funkcjonuje ośrodek szkolenia [[Aeroklub Poznański|Aeroklubu Poznańskiego]] ([[lotnisko Poznań-Kobylnica]]){{r|aeroklub-poznan-artykuly}}, a w [[Gądki|Gądkach]] działa prywatny Airport Biernat ([[lądowisko Żerniki]]){{r|airport-biernat}}. W [[Pobiedziska (gmina)|gminie Pobiedziska]] (na byłym [[Lądowisko Poznań-Bednary|lotnisku wojskowym]]) powstało [[lądowisko Poznań-Bednary]].
+
+Historia lotnictwa w Poznaniu rozpoczęła się ponad 100 lat temu. Dnia 26 sierpnia 1913 r. w podpoznańskiej wówczas [[Ławica (Poznań)|Ławicy]] nastąpiło oficjalne otwarcie Stacji Lotniczej Poznań. Było to pruskie lotnisko wojskowe mające wzmocnić stacjonujący w mieście IV Korpus Armii. Na powierzchni ok. 300 ha znajdowało się trawiaste pole wzlotów, przy którym wzniesiono koszary, warsztaty oraz trzy hale mogące pomieścić 30 maszyn. Jedną z nich był samolot o nazwie Poznań, ufundowany w ramach publicznej zbiórki zorganizowanej przez gazetę „Posener Tageblatt”. W roku 1921 uruchomiono z Poznania pierwsze loty pasażerskie w ruchu komercyjnym (do [[Gdańsk]]a i [[Warszawa|Warszawy]]), które były realizowane przez przedsiębiorstwo „Aero-Targ”{{r|Port-Lotniczy-Ławica-historia}}.
+
+=== Publiczny transport zbiorowy ===
+{{Osobny artykuł|Tramwaje w Poznaniu|Autobusy miejskie w Poznaniu}}
+[[Plik:Otwarcie PST do Dworca Zachodniego 24.JPG|mały|240px|Poznański tramwaj [[Solaris Tramino]] na przystanku [[Poznański Szybki Tramwaj|PST]] Dworzec Zachodni]]
+Podstawą transportu publicznego na terenie miasta jest 18 linii tramwajowych, które uzupełniają 53 linie autobusowe normalne, 46 linii autobusowych podmiejskich oraz 1 pospieszna. W nocy komunikacja publiczna opiera się na 20 liniach autobusowych oraz jednej linii tramwajowej. Większość linii nocnych kursuje co 30 minut, a ich centralnymi punktami przesiadkowymi są [[Rondo Kaponiera]] i [[Poznań Główny]] (dworzec kolejowo-autobusowy){{r|ztm sieć}}.
+
+Jesienią 2013 r. trasy tramwajowe tworzyły siatkę połączeń o łącznej długości 70,5&nbsp;km{{r|ssgpoznań2012}}. Rozchodzą się one promieniście z centrum Poznania w kierunku 14 [[pętla (transport publiczny)|pętli tramwajowych]] zlokalizowanych w pobliżu większych osiedli mieszkaniowych, zakładów produkcyjnych, cmentarzy oraz centrów handlowych. W 2012 r. uruchomiono 2,5-kilometrową trasę tramwajową z [[Osiedle Lecha|Osiedla Lecha]] na [[Franowo]], natomiast w roku 2013 otwarto 2-kilometrowe przedłużenie [[Poznański Szybki Tramwaj|PST]] do [[Poznań Główny|Dworca Zachodniego]].
+[[Plik:Solaris Urbino 18 Poznań RB1.JPG|mały|240px|Poznański autobus [[Solaris Urbino 18]]]]
+Pod koniec 2012 r. trasy autobusowe w Poznaniu tworzyły siatkę połączeń o długości 296&nbsp;km{{r|ssgpoznań2012}}. Linie autobusowe przebiegają przez wszystkie dzielnice miasta, z największym zagęszczeniem w rejonie większych osiedli mieszkaniowych na [[Grunwald (część Poznania)|Grunwaldzie]], [[Piątkowo (Poznań)|Piątkowie]] i [[Rataje (Poznań)|Ratajach]]. Kończą one swój bieg na licznych [[pętla (transport publiczny)|pętlach autobusowych]] oraz w 4 nowoczesnych dworcach autobusowych stanowiących centra przesiadkowe{{r|ztm sieć|rynek-kolejowy}}.
+[[Plik:Trasa na Franowo - 12.JPG|mały|240px|Podziemny przystanek tramwajowy Piaśnicka/Kurlandzka w [[Tunel trasy tramwajowej os. Lecha-Franowo|tunelu trasy tramwajowej Osiedle Lecha-Franowo]]]]
+Z badań dostępności transportu publicznego w Poznaniu przeprowadzonych w 2008 r. wynika, że sieć połączeń komunikacji zbiorowej miasta należy uznać za stosunkowo dobrą, choć wymagającą pewnych usprawnień. Od tego czasu dokonano licznych zmian w siatce połączeń, a także zrealizowano wiele inwestycji. W chwili obecnej komunikacja autobusowa nadal nie obsługuje wszystkich obszarów, na których rozwija się zabudowa mieszkaniowa, w tym przede wszystkim budownictwo jednorodzinne. Problem ten dotyczy głównie [[Junikowo|Junikowa]], [[Krzyżowniki (Poznań)|Krzyżownik]], [[Naramowice|Naramowic]] / [[Umultowo|Umultowa]], [[Osiedle Warszawskie (Poznań)|Osiedla Warszawskiego]] / [[Antoninek (Poznań)|Antoninka]], [[Szczepankowo (Poznań)|Szczepankowa]] i [[Starołęka|Starołęki]]. Na mapie dostępności do tramwaju również występują tzw. „białe plamy”. Należą do nich m.in.: nowe osiedla na Naramowicach oraz [[Osiedle im. Mikołaja Kopernika (Poznań)|Osiedle Kopernika]]{{r|urbanistyka}}.
+
+Organizatorem lokalnego transportu zbiorowego na terenie Poznania jest [[Zarząd Transportu Miejskiego w Poznaniu|Zarząd Transportu Miejskiego]]. Większość linii komunikacyjnych obsługiwana jest przez [[Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu]]. Podstawą taryfy biletowej są bilety czasowe umożliwiające przesiadkę oraz bilety okresowe. Na liniach autobusowych obowiązują również bilety przystankowe. Taryfa biletowa komunikacji publicznej podzielona jest na trzy strefy – miejską ''A'' oraz obejmujące gminy podmiejskie ''B'' i ''C''{{r|ztm.poznan-cennik}}. Bilety można zakupić: w 70 biletomatach stojących przy najruchliwszych przystankach komunikacji miejskiej{{r|ztm.poznan-biletomaty}}, w 25 punktach sprzedaży (punkty ZTM i kioski [[Ruch (przedsiębiorstwo)|Ruch]]-u), w mobilnych biletomatach montowanych w autobusach oraz poprzez telefon komórkowy.
+
+W listopadzie 2010 r. powołano Związek Międzygminny „Transport Aglomeracji Poznańskiej” który zajmuje się organizacją wspólnego transportu publicznego w podpoznańskich gminach. Obecnie trwa proces integracji podmiejskich linii autobusowych z systemem miejskim. Miasto Poznań na podstawie porozumień międzygminnych przejmuje odpowiedzialność za kolejne linie autobusowe – [[Zarząd Transportu Miejskiego w Poznaniu|ZTM]] obsługuje m.in. wszystkie połączenia w [[Luboń|Luboniu]] oraz gminach [[Komorniki (gmina)|Komorniki]] i [[Suchy Las (gmina)|Suchy Las]]. Zimą 2013 r. funkcjonowało 29 linii aglomeracyjnych (27 dziennych i 2 nocne), które wybiegały poza obszar stolicy Wielkopolski. Gminy graniczące z Poznaniem posiadają również własnych przewoźników{{r|ztm-poznan-oztm-o-ztm}}.
+
+Na początku 2013 r. po Poznaniu kursowało 227 składów tramwajowych oraz 320 autobusów{{r|mpk.poznan2}}. Stolica Wielkopolski była pierwszym dużym miastem, które masowo zaczęło kupować nowoczesny niskopodłogowy tabor autobusowy. Obecnie wszystkie autobusy jeżdżące liniowo w barwach [[Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu|MPK]] są niskopodłogowe{{r|ssgpoznań2012|mpk.poznan|Seweryn Lipoński2010}}. Tabor tramwajowy również wymieniany jest na niskopodłogowy – w styczniu 2013 r. po poznańskich torowiskach jeździło 70 pojazdów niskopodłogowych oraz 13 pojazdów w części niskopodłogowych{{r|mpk.poznan2}}.
+
+Jesienią 2013 r. poznańskie [[Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu|MPK]] posiadało 5 [[zajezdnia|zajezdni]]: Głogowska (dla ok. 85 tramwajów), Madalińskiego (dla ok. 45 tramwajów), Forteczna (dla ok. 60 tramwajów), Pusta (dla ok. 195 autobusów) i Kacza (dla ok. 125 autobusów). Od 2011 r. trwa budowa nowej zajezdni na [[Franowo|Franowie]], która pomieści 150 tramwajów. Po jej całkowitym uruchomieniu w 2014 r. zamknięte zastaną zajezdnia przy ul. Madalińskiego oraz tory odstawcze przy ul. Budziszyńskiej{{r|kmpk-cba|mpk.poznan3}}.
+
+Początki zorganizowanej komunikacji miejskiej w Poznaniu sięgają końca XIX wieku. Dnia 30 lipca 1880 r. na poznańskich ulicach pojawił się pierwszy [[tramwaj konny]] obsługujący linię z [[Poznań Główny|Dworca Centralnego]] do [[Stary Rynek w Poznaniu|Starego Rynku]]. Tego samego roku Poznańskie Towarzystwo Kolei Konnej uruchomiło zajezdnię tramwajową przy dzisiejszych ul. Zwierzynieckiej i Gajowej. Składała się ona z wozowni, stajni, kuźni z podkowalnią oraz budynku mieszkalnego. W 1898 roku tramwaj konny został zastąpiony [[tramwaj|tramwajem elektrycznym]]. Kursowały wówczas 3 linie. W 1925 r. uruchomiono w Poznaniu miejską komunikację autobusową na liniach o niewielkim ruchu pasażerskim, na których komunikacja tramwajowa nie opłacała się. Linia [[trolejbus]]owa, która powstała w 1930 roku (ze [[Śródka (Poznań)|Śródki]] do ul. Wiejskiej), była pierwszą w Polsce i zarazem jedyną w kraju do 1939 r.{{r|komunikacja_historia}}
+
+=== Transport rowerowy ===
+{{Osobny artykuł|Transport rowerowy w Poznaniu}}
+[[Plik:Poznanski Rower Miejski 9.jpg|mały|Stacja bazowa Poznańskiego Roweru Miejskiego przy Starym Browarze]]
+Poznań leży na europejskiej sieci szlaków rowerowych [[EuroVelo]] zaprojektowanej przez [[Europejska Federacja Cyklistów|Europejską Federację Cyklistów]]. Przebiega tędy trasa EV9 z [[Gdańsk]]a nad [[Morze Bałtyckie|Morzem Bałtyckim]] do [[Pula|Puli]] nad [[Morze Adriatyckie|Morzem Adriatyckim]]{{r|roweryzdm}}.
+
+Pod koniec 2014 na terenie Poznania znajdowało się 134&nbsp;km dróg rowerowych, co stanowiło 12,9% łącznej długości ulic w mieście{{r|ssgpoznań2014}}.
+
+Drogi rowerowe, pieszo-rowerowe oraz wyznaczone specjalne pasy ruchu łączą ze sobą dwie największe dzielnice mieszkaniowe leżące po przeciwnych stronach śródmieścia – [[Rataje (Poznań)|Rataje]] i [[Piątkowo (Poznań)|Piątkowo]]. Stolica Wielkopolski posiada sieć tras bezkolizyjnie wyprowadzających rowerzystów z miasta. Można nimi dojechać m.in. nad jeziora [[Jezioro Rusałka (Poznań)|Rusałka]] i [[Jezioro Strzeszyńskie|Strzeszyńskie]], a dalej do [[Szamotuły|Szamotuł]] i [[Międzychód|Międzychodu]]; do [[Rezerwat przyrody Meteoryt Morasko|rezerwatu Meteoryt Morasko]]; [[Piastowski Trakt Rowerowy|Piastowskim Traktem Rowerowym]] do [[Gniezno|Gniezna]]; a [[Ziemiański Szlak Rowerowy|Ziemiańskim Szlakiem Rowerowym]] do [[Wielkopolski Park Narodowy|Wielkopolskiego Parku Narodowego]] oraz dalej do [[Kościan]]a i [[Rawicz]]a. Z [[Malta (Poznań)|Malty]] dotrzeć można do [[Kalisz]]a i [[Ostrów Wielkopolski|Ostrowa Wielkopolskiego]]. Ze Starołęki dojechać można natomiast do [[Kórnik]]a i [[Rogalin]]a, a z ul. Bukowskiej – do [[Lusowo (województwo wielkopolskie)|Lusowa]]{{r|roweryzdm}}.
+
+W mieście wisi ok. 700 znaków prowadzących szlaki rowerowe do centralnego punktu, którym jest skrzyżowanie ul. Jana Pawła II i Abpa Baraniaka nad [[Jezioro Maltańskie|Jeziorem Maltańskim]]. Miejsce to nazwano [[Transport rowerowy w Poznaniu#Poznański Węzeł Rowerowy|Poznańskim Węzłem Rowerowym]]{{r|roweryzdm}}.
+
+W stolicy Wielkopolski zamontowano 14 publicznych stojaków rowerowych. Darmowe parkingi strzeżone dla rowerzystów znajdują się na 8 parkingach buforowych Poznańskiej Strefy Płatnego Parkowania{{r|srm.eco-article-Itemid}}.
+
+W sezonie letnim 2017 działać będzie w Poznaniu 88 wypożyczalni rowerów: 15 należących do systemu [[Poznański Rower Miejski]] zarządzanego przez firmę Nextbike{{r|ztm.poznan}}, 2 wypożyczalnie MaltaBike{{r|maltabike-wypozyczalnia}}, wypożyczalnia [[Malta Ski]]{{r|maltaski}}, wypożyczalnia [[Zarząd Transportu Miejskiego w Poznaniu|ZTM]]{{r|ztm.poznan2}}, darmowa wypożyczalnia [[Enea]]{{r|epoznan2}} oraz wypożyczalnia rowerów elektrycznych domu towarowego [[Kupiec Poznański]]{{r|kupiecpoznanski}}.
+
+== Administracja ==
+Poznań jest [[miasto na prawach powiatu|miastem na prawach powiatu]]. Mają w nim siedzibę władze województwa oraz [[powiat poznański|powiatu poznańskiego]]. Miasto jest centrum administracyjnym dla Wielkopolski, zlokalizowana jest w nim urzędów o zasięgu regionalnym. Poznań pełni również część ponadregionalnych funkcji administracyjnych dla Polski północno-zachodniej.
+
+=== Administracja samorządowa ===
+{{Osobny artykuł|prezydenci Poznania|Rada Miasta Poznania}}
+[[Plik:Poznan 10-2013 img11 Jesuit College.jpg|mały|240px|Urząd Miasta Poznania – dawne [[Kolegium jezuickie w Poznaniu|kolegium jezuickie]]]]
+Poznań posiada status miasta na prawach powiatu. Oznacza to, że gmina miejska wykonuje zadania powiatu. Organem stanowiącym samorządu jest [[Rada Miasta Poznania]], składająca się z 37 radnych, którzy są wybierani w 7 okręgach wyborczych{{r|Dz.Urz.2010.55.1239|Dz.Urz.2012.5042}}<ref>{{Cytuj stronę | url = http://edziennik.poznan.uw.gov.pl/WDU_P/2014/4922/akt.pdf | tytuł = Uchwała nr LXXII/1135/VI/2014 Rady Miasta Poznania z dnia 2 września 2014 r. zmieniająca uchwałę w sprawie podziału miasta Poznania na okręgi wyborcze dla wyboru Rady Miasta Poznania, ustalenia granic i numerów tych okręgów oraz liczby radnych wybieranych w każdym okręgu. | autor = [[Grzegorz Ganowicz]] | data = 2014-09-22 | język = pl | data dostępu = 2018-06-16}}</ref>. Organem wykonawczym samorządu jest [[prezydent miasta]]. Obecnie w kadencji 2014–2018 funkcję tę sprawuje [[Jacek Jaśkowiak]].
+
+Miasto jest siedzibą władz [[województwo wielkopolskie|województwa wielkopolskiego]]. Mieszkańcy wybierają 6 z 39 radnych do [[Sejmik Województwa Wielkopolskiego|Sejmiku Województwa Wielkopolskiego]]. Poznań jest też siedzibą władz [[powiat poznański|powiatu poznańskiego]].
+
+Poznań jest członkiem [[Związek Miast Polskich|Związku Miast Polskich]] i [[Unia Metropolii Polskich|Unii Metropolii Polskich]].
+
+==== Podział administracyjny ====
+{{Osobny artykuł|Podział administracyjny Poznania}}
+[[Plik:Poznań - jednostki pomocnicze od 2011.png|mały|upright=1.2|240px|[[Podział administracyjny Poznania]]]]
+Od 2011 obszar Poznania jest podzielony na 42 [[jednostka pomocnicza gminy|jednostki pomocnicze miasta]], zwane [[osiedle|osiedlami]]. Mieszkańcy każdej jednostki pomocniczej wybierają [[rada dzielnicy|radę osiedla]], a ich organem wykonawczym jest zarząd osiedla. Reprezentują one lokalne wspólnoty mieszkańców przy realizacji zadań samorządu miejskiego. Do zadań własnych osiedli należy dbanie o ład i porządek przestrzeni lokalnej oraz utrzymanie lokalnej infrastruktury miejskiej. W celu obsługi działalności osiedli w strukturach Urzędu Miasta powołano Wydział Wspierania Jednostek Pomocniczych Miasta. Sprawuje on również nadzór nad ich działalnością{{r|Wydział Wspierania Jednostek}}.
+
+W latach 1954–1976 oraz 1984–90 miasto było podzielone na 5 dużych dzielnic: [[Grunwald (dzielnica Poznania 1954–1990)|Grunwald]], [[Jeżyce (dzielnica Poznania 1954–1990)|Jeżyce]], [[Nowe Miasto (Poznań)|Nowe Miasto]], [[Stare Miasto (dzielnica Poznania 1954–1990)|Stare Miasto]], [[Wilda (dzielnica Poznania 1954–1990)|Wilda]]. Pomimo nieaktualności podział ten bywa stosowany przez mieszkańców. Występuje również w statystyce oraz działalności niektórych urzędów.
+
+==== Współpraca międzynarodowa ====
+{{Osobny artykuł|Konsulaty w Poznaniu}}
+W Poznaniu znajduje się 30 [[urząd konsularny|urzędów konsularnych]]. Większość z nich to [[Konsul honorowy|instytucje honorowe]]. Jedyną regularną placówką jest Konsulat Generalny Federacji Rosyjskiej. W mieście ulokowane są również 3 konsulaty kierowane przez honorowych konsulów generalnych. Są to placówki [[Albania|Albanii]], [[Filipiny|Filipin]] i [[Turcja|Turcji]]. Natomiast [[Stany Zjednoczone]] posiadają agencję konsularną, która zastąpiła istniejący do 1989 roku konsulat generalny.
+
+Samorząd miasta nawiązał szereg bliskich, bezpośrednich kontaktów z miastami partnerskimi. Pierwsze porozumienia o współpracy Poznań zawarł z czeskim [[Brno|Brnem]] w 1966 roku. W 1979 roku miasto zawarło dwie kolejne umowy o współpracy z fińskim [[Jyväskylä]] oraz niemieckim [[Hanower]]em, jednak większość porozumień partnerskich Poznań zawarł w latach 90 XX wieku. Obecnie posiada 14 miast partnerskich oraz jedno miasto zaprzyjaźnione – gruzińskie [[Kutaisi]]. Poznań utrzymuje najbliższe partnerstwo z Hanowerem, [[Rennes]] i [[Nottinghamshire]]<ref>[http://www.poznan.pl/mim/main/wprowadzenie,p,19.html Miasta partnerskie – wprowadzenie], Poznan.pl.</ref>.
+
+{| class="wikitable"
+|- bgcolor=#e6e6e6
+! Miasta i samorządy partnerskie
+! Kraj
+! Data podpisania umowy
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Assen]] || {{Państwo|NLD}} ||align="center"| 22 października 1992{{r|Miasta partnerskie Assen}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Brno]] || {{Państwo|CZE}} ||align="center"| 16 września 1966{{r|Miasta partnerskie Brno Republika}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Charków]] || {{Państwo|UKR}} ||align="center"| 24 września 1998{{r|Miasta partnerskie Charków}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Győr]] || {{Państwo|HUN}} ||align="center"| 23 stycznia 2008{{r|Miasta partnerskie Győr Węgry}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Hanower]] || {{Państwo|DEU}} ||align="center"| 29 października 1979{{r|Miasta partnerskie Hanower}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Jyväskylä]] || {{Państwo|FIN}} ||align="center"| 30 czerwca 1979{{r|Miasta partnerskie Jyväskylä}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Kutaisi]] || {{Państwo|GEO}} ||align="center"| 6 lipca 2009{{r|Miasta partnerskie Kutaisi}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Nablus]] || {{Państwo|PSE}} ||align="center"| 22 maja 1997{{r|Miasta partnerskie Nablus}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Nottinghamshire]] ([[hrabstwo]]) || {{Państwo|GBR}} ||align="center"| 23 maja 1994{{r|Miasta partnerskie hrabstwo}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Pozuelo de Alarcón]] || {{Państwo|ESP}} ||align="center"| 9 października 1992{{r|Miasta partnerskie Pozuelo}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Ra’ananna]] || {{Państwo|ISR}} ||align="center"| 21 czerwca 2010{{r|Miasta partnerskie Ra anana}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Rennes]] || {{Państwo|FRA}} ||align="center"| 4 kwietnia 1998{{r|Miasta partnerskie Rennes}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Shenzhen]] || {{Państwo|CHN}} ||align="center"| 30 lipca 1993{{r|Miasta partnerskie Shenzhen}}
+|- align="left" style="font-size: 90%;background:#ffffff;"
+| [[Toledo (Ohio)|Toledo]] || {{Państwo|USA}} ||align="center"| 6 kwietnia 1991{{r|Miasta partnerskie Toledo}}
+|}
+
+=== Administracja rządowa ===
+{{Osobny artykuł|wojewodowie poznańscy i wielkopolscy}}
+W Poznaniu siedzibę ma Wojewoda Wielkopolski, który jest [[Wojewoda#Dzisiejsza Polska|przedstawicielem administracji rządowej]] w regionie. Podległy mu urząd wojewódzki wraz z jednostkami administracji zespolonej szczebla wojewódzkiego tworzy regionalny kompleks administracji rządowej. Od 9 grudnia 2015 roku urząd wojewody sprawuje Zbigniew Hoffmann.
+
+W wyborach parlamentarnych poznaniacy wybierają w [[Okręg wyborczy nr 39 do Sejmu Rzeczypospolitej Polskiej|okręgu wyborczym nr 39]] 10 posłów do Sejmu RP. Miasto stanowi samodzielny jednomandatowy okręg wyborczy do senatu{{r|Ustawa z dnia 5 stycznia}}. Poznaniacy wybierają posłów do [[Parlament Europejski|Parlamentu Europejskiego]] z [[okręg wyborczy nr 7 do Parlamentu Europejskiego w Polsce|okręgu wyborczego nr 7]].
+
+=== Wymiar sprawiedliwości ===
+[[Plik:Poznan ratajczaka wojewodzki sad administracyjny.jpg|mały|240px|Wojewódzki Sąd Administracyjny w Poznaniu]]
+Obszar miasta podzielony jest pomiędzy 3 różne [[sąd rejonowy|sądy rejonowe]]{{r|lex-serwis-2007-1161}}. Są to sądy rejonowe dla dzielnic: Grunwald i Jeżyce, Nowe Miasto i Wilda oraz Stare Miasto. Ich właściwość miejscowa poza tytularnymi dzielnicami wychodzi poza granice miasta obejmując gminy ościenne. Sąd Rejonowy Grunwald i Jeżyce zajmuje się sprawami z gmin (lub ich części) [[Dopiewo (gmina)|Dopiewo]], [[Komorniki (gmina)|Komorniki]] oraz [[Tarnowo Podgórne (gmina)|Tarnowo Podgórne]]. Sąd Rejonowy Nowe Miasto i Wilda odpowiada za sprawy z gmin [[Czerwonak (gmina)|Czerwonak]], [[Luboń]], [[Puszczykowo]] i [[Swarzędz (gmina)|Swarzędz]]. Natomiast Sąd Rejonowy Stare Miasto jest właściwy dla spraw z gmin [[Murowana Goślina (gmina)|Murowana Goślina]] oraz części gminy [[Suchy Las (gmina)|Suchy Las]].
+
+W Poznaniu znajduje się [[sąd okręgowy]] w którego okrąg właściwości to 12 sądów rejonowych z centralnej i północno-zachodniej Wielkopolski<ref>{{Cytuj stronę | url = http://www.poznan.so.gov.pl/strony/1/i/62.php | tytuł = Sąd okręgowy w Poznaniu - właściwość miejscowa | autor = Agnieszka Weichert | data = 2006-12-04 | język = pl | data dostępu = 2018-03-30 | archiwum = http://web.archive.org/web/20131017000514/http://www.poznan.so.gov.pl/strony/1/i/62.php | zarchiwizowano = 2013-10-17}}</ref>. W mieście zlokalizowany jest również [[sąd apelacyjny]] którego obszar apelacji obejmuje sądy okręgowe w Poznaniu, [[Konin]]ie i [[Zielona Góra|Zielonej Górze]]. Mieści się tutaj również [[wojewódzki sąd administracyjny]], który jest pierwszą instancją w postępowaniach sądowo-aministracyjnych dla całej Wielkopolski.
+
+Granicom właściwości sądów odpowiada struktura [[Prokuratura w Polsce|prokuratur powszechnych]]. Utworzono cztery [[prokuratura rejonowa|prokuratury rejonowe]]: Grunwald i Jeżyce, Nowe Miasto, Stare Miasto oraz Wilda. Prokuratury [[Prokuratura okręgowa|okręgowa]] i [[Prokuratura apelacyjna|apelacyjna]] mają zasięg działania zgodny z właściwością odpowiadających im sądów.
+
+Poznań jest jedynym obok [[Warszawa|Warszawy]] centrum [[sądy wojskowe (Polska)|sądownictwa wojskowego]]. Znajduje się tutaj wojskowy sąd garnizonowy (odpowiednik sądu rejonowego) oraz wojskowy sąd okręgowy posiadający zwierzchnictwo nad sądami garnizonowymi w [[Gdynia|Gdyni]], Poznaniu, [[Szczecin]]ie i [[Wrocław]]iu. Sądom wojskowym towarzyszy odpowiadająca im organizacja prokuratury wojskowej: [[wojskowa prokuratura garnizonowa]] oraz [[wojskowa prokuratura okręgowa]].
+
+Przy ul. Młyńskiej, znajduje się [[Areszt Śledczy Poznań|areszt śledczy]]. Posiada on oddziały znajdujące się przy ul. Nowosolskiej oraz w [[Baranowo (gmina Tarnowo Podgórne)|Baranowie]] i [[Komorniki (gmina Komorniki)|Komornikach]]. Natomiast tuż przy granicy miasta w podpoznańskich [[Koziegłowy (powiat poznański)|Koziegłowach]] zlokalizowany jest [[zakład karny]].
+
+== Ludność ==
+[[Plik:Poznan-cityplan 1888.jpg|mały|240px|Plan Poznania z 1888 r.]]
+[[Plik:WIG Mapa Operacyjna Polski - 53 Poznań 1935 (Poznań).jpg|mały|240px|Wojskowa mapa Poznania z 1935 r.]]
+[[Plik:Poznań, os. Lecha - os. Czecha.JPG|mały|240px|Panorama [[Chartowo (Poznań)|Chartowa]]]]
+[[Plik:Panorama os. M. Kopernika w Poznaniu.jpg|mały|240px|Panorama [[Osiedle im. Mikołaja Kopernika (Poznań)|Osiedla Mikołaja Kopernika]]]]
+[[Plik:Poznań Piątkowo from Góra Moraska skyline 2005-04.jpg|mały|240px|Panorama poznańskiego [[Piątkowo (Poznań)|Piątkowa]]]]
+[[Plik:Widok na os. Orła Białego, Stare Żegrze, Armii Krajowej, Bohaterów II Wojny Światowej..jpg|mały|240px|Panorama [[Żegrze|Żegrza]] i [[Rataje (Poznań)|Rataj]]]]
+[[Plik:Winogrady.JPG|mały|240px|Panorama [[Winogrady|Winograd]]]]
+''Dane historyczne w artykule [[Ludność Poznania]]''
+Według stanu w dniu 31 grudnia 2012 r. Poznań zamieszkiwało 550&nbsp;742 osoby (piąte miejsce w kraju), a gęstość zaludnienia wynosiła 2103 osoby na kilometr kwadratowy{{r|ludność_31_12_2012}}. W Poznaniu mieszkało 15,9% ludności [[województwo wielkopolskie|województwa wielkopolskiego]], co jednocześnie stanowiło 1,4% mieszkańców [[Polska|Polski]]{{r|ludność_31_12_2012_polska}}.
+
+Pod koniec grudnia 2012 r. całą [[aglomeracja poznańska|aglomerację poznańską]] (Poznań, [[powiat poznański]] oraz gminy [[Oborniki (gmina)|Oborniki]], [[Skoki (gmina)|Skoki]], [[Szamotuły (gmina)|Szamotuły]] i [[Śrem (gmina)|Śrem]]) zamieszkiwały łącznie 1&nbsp;009&nbsp;028 osoby{{r|ludność_31_12_2012_polska}}.
+
+Z badań przeprowadzonych w 2011 r. wynika, że średnia długość życia mężczyzn zamieszkujących Poznań wynosi 74,9 lat. Przeciętna poznanianka żyje dłużej od mężczyzny o 6,5 roku umierając w wieku 81,4 lat. Długość trwania życia mieszkańców Poznania jest zbliżona do długości dożywania ludności [[Warszawa|Warszawy]] (75,4/82,0), [[Kraków|Krakowa]] (75,6/81,9), [[Trójmiasto|Trójmiasta]] (75,1/81,8) i [[Wrocław]]ia (74,0/81,6), wyższa natomiast od przeciętnej długości życia w [[Szczecin]]ie (72,8/81,1), [[konurbacja górnośląska|konurbacji katowickiej]] (70,6/78,5), czy [[Łódź|Łodzi]] (70,1/78,4){{r|stat-trwanie-życia}}.
+
+W latach 2008–2011 przychodziło na świat rocznie ok. 5,8–6,2 tys. dzieci urodzonych przez poznanianki{{r|stat-strona-p-name-indeks}}.
+
+W 2011 r. [[współczynnik dzietności]] dla Poznania wynosił 1,24. Podobne wyniki odnotowano w konurbacji katowickiej (1,26) i Warszawie (1,26); niższe natomiast w Trójmieście (1,20), Krakowie (1,16), Wrocławiu (1,16), Łodzi (1,14) czy Szczecinie (1,10). Dla zastępowalności pokoleń współczynnik ten powinien wynosić 2,10–2,15{{r|stat-strona-p-name-indeks2}}.
+
+Struktura demograficzna mieszkańców Poznania według danych [[Główny Urząd Statystyczny|GUS]] z dnia 31 grudnia 2012 r.{{r|ludność_31_12_2012}}:
+{| class="wikitable" style="text-align:left"
+! Opis
+! Ogółem
+! Mężczyźni
+! Kobiety
+|-
+| style="text-align:right"| Ogółem
+| style="text-align:center"| <sup>550 742</sup> (100%)
+| style="text-align:center"| <sup>256 499</sup> '''(46,6%)'''
+| style="text-align:center"| <sup>294 243</sup> '''(53,4%)'''
+|-
+| style="text-align:right"| Wiek przedprodukcyjny (0–17 lat)
+| style="text-align:center" colspan="3" rowspan="1"| <sup>84 664</sup> '''(15,4%)'''
+|-
+| style="text-align:right"| Wiek produkcyjny (mężczyźni 18–64 lata, kobiety 18–59 lat)
+| style="text-align:center" colspan="3" rowspan="1"| <sup>352 652</sup> '''(64,0%)'''
+|-
+| style="text-align:right"| Wiek poprodukcyjny (mężczyźni 65 lat i więcej, kobiety 60 lat i więcej)
+| style="text-align:center" colspan="3" rowspan="1"| <sup>113 426</sup> '''(20,6%)'''
+|}
+
+Najwyższa jak dotąd liczba ludzi mieszkała w Poznaniu na początku lat 90. Według danych [[Główny Urząd Statystyczny|GUS]] z 1990 r. w mieście zameldowanych było wówczas 590,1 tys. mieszkańców. Od tego momentu liczba ta wolno i stopniowo maleje. Ma to związek z przenoszeniem się mieszkańców do miejscowości w podpoznańskich gminach, a także z ogólnym trendem ujemnego [[przyrost naturalny|przyrostu naturalnego]]. Odwrotna sytuacja ma miejsce w [[powiat poznański|powiecie poznańskim]] – tam w ciągu ostatnich 17 lat liczba mieszkańców wzrosła o 43,2% z poziomu 240,7 tys. osób w 1995 r. do 344,7 tys. w roku 2012{{r|BDL_ludność lata}}.
+
+Wykres liczby ludności miasta Poznań na przestrzeni ostatnich 4 stuleci{{r|BDL_ludność lata|Fakty i liczby Statystyki}}:
+<timeline>
+ImageSize = width:650 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:600000
+ScaleMajor = unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:25000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:left
+ bar:1600 from:0 till:20000
+ bar:1732 from:0 till:4000
+ bar:1794 from:0 till:12358
+ bar:1824 from:0 till:22000
+ bar:1848 from:0 till:42000
+ bar:1885 from:0 till:68315
+ bar:1900 from:0 till:110000
+ bar:1910 from:0 till:156696
+ bar:1925 from:0 till:220023
+ bar:1939 from:0 till:274155
+ bar:1946 from:0 till:267978
+ bar:1965 from:0 till:438209
+ bar:1980 from:0 till:552938
+ bar:1990 color:cobar2 from:0 till:590101
+ bar:1995 color:red from:0 till:581171
+ bar:2000 color:red from:0 till:574896
+ bar:2005 color:red from:0 till:567882
+ bar:2010 color:red from:0 till:551627
+ bar:2014 color:red from:0 till:545680
+PlotData=
+ textcolor:black fontsize:S
+ bar:1600 at: 20000 text: 20.000 shift:(-14,5)
+ bar:1732 at: 4000 text: 4.000 shift:(-11,5)
+ bar:1794 at: 12358 text: 12.358 shift:(-14,5)
+ bar:1824 at: 22000 text: 22.000 shift:(-14,5)
+ bar:1848 at: 42000 text: 42.000 shift:(-14,5)
+ bar:1885 at: 68315 text: 68.315 shift:(-14,5)
+ bar:1900 at: 110000 text: 110.000 shift:(-17,5)
+ bar:1910 at: 156696 text: 156.696 shift:(-17,5)
+ bar:1925 at: 220023 text: 220.023 shift:(-17,5)
+ bar:1939 at: 274155 text: 274.155 shift:(-23,5)
+ bar:1946 at: 267978 text: 267.978 shift:(-15,5)
+ bar:1965 at: 438209 text: 438.209 shift:(-19,5)
+ bar:1980 at: 552938 text: 552.938 shift:(-19,5)
+ bar:1990 at: 590101 text: 590.101 shift:(-30,5)
+ bar:1995 at: 581171 text: 581.171 shift:(-23,5)
+ bar:2000 at: 574896 text: 574.896 shift:(-17,5)
+ bar:2005 at: 567882 text: 567.882 shift:(-10,5)
+ bar:2010 at: 551627 text: 551.627 shift:(-6,5)
+ bar:2014 at: 545680 text: 545.680 shift:(-6.5)
+</timeline>
+
+Piramida wieku mieszkańców Poznania w 2014 roku<ref>[http://www.polskawliczbach.pl/Poznan http://www.polskawliczbach.pl/Poznan]</ref>.
+<br />[[Plik:Piramida wieku Poznan.png|690x480px]]
+
+== Turystyka ==
+[[Plik:Ayuntamiento, Poznan, Polonia, 2014-09-18, DD 64-66 HDR.jpg|mały|upright|240px|Renesansowy [[Ratusz w Poznaniu|ratusz]]]]
+Poznań jest na czwartym miejscu pod względem odwiedzin przez turystów miastem w Polsce. W 2012 r. z zarejestrowanych obiektów noclegowych skorzystało tu łącznie 621,8 tys. turystów, w tym z zagranicy – 175,0 tys. osób{{r|bdl_turystyka}}.
+
+Z badań ruchu turystycznego wynika, że ok. 38% turystów przyjeżdża do miasta w celach biznesowych – osoby te uczestniczą w targach, konferencjach, spotkaniach biznesowych i szkoleniach. Kolejną najliczniejszą grupę tworzą turyści odwiedzający Poznań w celu zwiedzania, wypoczynku i rekreacji – stanowią oni ok. 30–35% ruchu turystycznego{{r|poznan-pl-turystyka-2004}}.
+
+Pod koniec lipca 2012 r. na terenie Poznania i [[powiat poznański|powiatu poznańskiego]] znajdowały się 154 całoroczne obiekty noclegowe (w tym 77 hoteli). Dysponowały one łącznie 11,7 tys. miejsc noclegowych (w hotelach – 7,7 tys. miejsc){{r|bdl_turystyka}}.
+
+W Poznaniu znajduje się 6 punktów informacji turystycznej (m.in. na [[Poznań Główny|dworcu kolejowym]] i [[Port lotniczy Poznań-Ławica|lotnisku]] oraz na [[Międzynarodowe Targi Poznańskie|targach]]){{r|poznan-class-id-klasy}}. Dodatkowo w mieście zainstalowano 7 turystycznych infokiosków multimedialnych{{r|poznan-news-print-44592}}.
+
+=== Atrakcje turystyczne ===
+{{Osobny artykuł|Zabytki Poznania}}
+[[Plik:Poznan - most sw. Rocha - Ostrow Tumski.JPG|mały|240px|[[Ostrów Tumski w Poznaniu|Ostrów Tumski]] z perspektywy Warty i [[Most św. Rocha w Poznaniu|Mostu Rocha]]]]
+[[Plik:Imperial Castle Poznan.jpg|mały|240px|[[Zamek Cesarski w Poznaniu|Zamek Cesarski]]]]
+[[Plik:Poznan 10-2013 img19 Old Brewery.jpg|mały|240px|[[Stary Browar (Poznań)|Stary Browar]] (''[[ulica Półwiejska w Poznaniu|ul. Półwiejska]]'') w Poznaniu]]
+[[Plik:Swietoslawska.jpg|mały|240px|Barokowa [[Bazylika Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny w Poznaniu|Bazylika Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny]] – ''Fara Poznańska'']]
+[[Plik:The Palm House in Poznan.jpg|mały|240px|[[Palmiarnia Poznańska]] w [[Park Wilsona w Poznaniu|Parku Wilsona]]]]
+[[Plik:Słoniarnia w Poznaniu - Panorama 4.JPG|mały|240px|[[Słoniarnia w Poznaniu|Słoniarnia]] w [[Nowe Zoo w Poznaniu|Nowym Zoo]] (2008)]]
+[[Plik:Termy Maltańskie - rekreacja.JPG|mały|240px|Park wodny [[Termy Maltańskie]]]]
+Przez Poznań przebiegają [[szlak turystyczny|trasy turystyczne]]: [[Trakt Królewsko-Cesarski w Poznaniu|Trakt Królewsko-Cesarski]], [[Szlak Piastowski]], [[Szlak Romański w Polsce|Szlak Romański]], [[Trasa Kórnicka]] oraz [[Wielkopolska Droga św. Jakuba]]. Wokół miasta wytyczono tzw. [[Pierścień Rowerowy dookoła Poznania|Pierścień Rowerowy Dookoła Poznania]], połączony z centrum siedmioma szlakami dojazdowymi{{r|poznan-turystyka-lang}}.
+
+W mieście wdrażany jest nowy produkt turystyki kulturowej – [[Trakt Królewsko-Cesarski w Poznaniu|Trakt Królewsko-Cesarski]] – wiodący przez miejsca związane z osobami władców (królami i cesarzami). Trasę poprowadzono tak aby pokazać zmiany w architekturze i rozwoju Poznania na przestrzeni wieków{{r|poznan-pl-trakt}}. Trakt jest oznakowany na całej długości – zarówno dla pieszych, jak i podróżujących tramwajem (do obsługi ruchu turystycznego na tej trasie dostosowana została linia tramwajowa nr 17){{r|poznan-51637}}
+
+Głównym deptakiem prowadzącym na [[Stare Miasto w Poznaniu|Stare Miasto]] jest [[ulica Półwiejska w Poznaniu|ulica Półwiejska]]. Znajduje się przy niej centrum handlu i sztuki [[Stary Browar (Poznań)|Stary Browar]] uznane w 2008 r. przez Międzynarodową Radę Centrów Handlowych (ICSC) za „najlepsze centrum handlowe na świecie”{{r|starybrowar5050-nagrody}}.
+
+Na [[Stary Rynek w Poznaniu|Starym Rynku]] można znaleźć wzorcowy przykład architektury renesansowej – [[Ratusz w Poznaniu|ratusz]] z trykającymi się na jego wieży koziołkami. Z wieży ratusza miejskiego, codziennie o godz. 1200 jest odgrywany na trąbce [[hejnał]] Poznania.
+
+{{Główny artykuł|Hejnał Poznania}}
+
+Innymi ciekawymi budynkami na rynku są m.in. [[Domki budnicze w Poznaniu|domki budnicze]], [[Waga miejska w Poznaniu|waga miejska]], czy [[Odwach w Poznaniu|odwach]]. Kolejnym cennym zabytkiem jest barokowa [[Bazylika Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny w Poznaniu|fara]] i przylegający do niej dawny kompleks [[Kolegium jezuickie w Poznaniu|kolegium jezuickiego]]. Na wzgórzu nad Starym Rynkiem góruje [[Zamek Królewski w Poznaniu|Zamek Królewski]] wraz z fragmentem [[Mury miejskie w Poznaniu|murów obronnych]]. Od 2011 roku trwa odbudowa historycznego kompleksu. Obiekt zostanie udostępniony zwiedzającym latem 2015 r. Na szczycie zamkowej wieży powstaną dwa tarasy widokowe (kryty dolny i otwarty górny), z których zobaczyć można będzie panoramę [[Stare Miasto w Poznaniu|Starego Miasta]]{{r|zamek-krolewski-poznan}}.
+
+Najstarszą częścią Poznania jest [[Ostrów Tumski w Poznaniu|Ostrów Tumski]], będący dawniej jednym z ośrodków władzy polskiego państwa. Znajduje się tam najstarsza w kraju [[bazylika archikatedralna Świętych Apostołów Piotra i Pawła w Poznaniu|katedra]] będąca miejscem pochówku pierwszych [[władcy Polski|władców Polski]] oraz domniemanym miejscem chrztu Polski. Na wyspie archeolodzy odkryli pozostałości książęcego [[palatium w Poznaniu|palatium]] z X wieku oraz kaplicę [[Dobrawa Przemyślidka|Dąbrówki]]{{r|palatium}}. W 2012 r. otwarto tam [[Rezerwat Archeologiczny Genius Loci|Rezerwat Archeologiczny „Genius Loci”]], w którym zobaczyć można m.in. jedyny na świecie zachowany fragment wału obronnego z X wieku (wał grodu [[Mieszko I|Mieszka I]]){{r|epoznan3}}.
+
+W 2014 roku zakończyła się budowa centrum [[Brama Poznania ICHOT|ICHOT „Brama Poznania”]], które powstało na poznańskiej [[Śródka (Poznań)|Śródce]], nad brzegiem [[Warta|Warty]]. Jest to multimedialne muzeum prezentujące wirtualnie wykreowaną przeszłość grodu na Ostrowie Tumskim oraz ponad tysiącletnią historię państwa polskiego{{r|trakt.poznan}}.
+
+W mieście zobaczyć można liczne zabytkowe kościoły, [[secesja (sztuka)|secesyjne]] kamienice, pomniki, a także monumentalne budowle dawnej [[Dzielnica Cesarska w Poznaniu|Dzielnicy Cesarskiej]] wzniesione wokół [[Park Henryka Wieniawskiego w Poznaniu|Parku Wieniawskiego]] – m.in. [[Zamek Cesarski w Poznaniu|Zamek Cesarski]], [[Aula Uniwersytecka w Poznaniu|Aula]] i [[Collegium Minus w Poznaniu|Collegium Minus UAM]] oraz [[Teatr Wielki im. Stanisława Moniuszki w Poznaniu|opera]]. Dla osób spragnionych obcowania z przyrodą swoje podwoje otwierają dwa [[ogród zoologiczny|ogrody zoologiczne]] ([[Stare Zoo w Poznaniu|Stare]] i [[Nowe Zoo w Poznaniu|Nowe Zoo]]), [[Ogród Botaniczny Uniwersytetu im. Adama Mickiewicza w Poznaniu|ogród botaniczny]], [[Park Wilsona w Poznaniu|park Wilsona]] z [[Palmiarnia Poznańska|palmiarnią]] oraz inne zabytkowe parki.
+
+Do dnia dzisiejszego na terenie Poznania zachowało się 15 fortów wzniesionych przez Niemców w XIX wieku. Są one pozostałością systemu [[fortyfikacja|fortyfikacji]] dawnej [[Twierdza Poznań|Twierdzy Poznań]]{{r|fortyfikacje-poznan.yoyo}}. Obecnie turyści zwiedzać mogą trzy obiekty – [[Fort Va w Poznaniu|Fort Va]] przy ul. Lechickiej{{r|kernwerk}}, [[Fort III w Poznaniu|Fort III]] w [[Nowe Zoo w Poznaniu|Nowym Zoo]] na [[Malta (Poznań)|Malcie]]{{r|fort3}} oraz [[Fort VII w Poznaniu|Fort VII]], w którym funkcjonuje [[Muzeum Martyrologii Wielkopolan]]. Na terenie dawnego [[Fort Winiary|Fortu Winiary]] odbywają się co roku inscenizacje historyczne upamiętniające [[Bitwa o Poznań|wyzwolenie Poznania]]. To plenerowe widowisko organizowane jest przy współudziale kilkudziesięciu grup rekonstrukcyjnych z całego kraju{{r|inscenizacje}}.
+
+Wiosną 2013 r. udostępniony został dla zwiedzających [[prezydencki schron przeciwatomowy w Poznaniu|prezydencki schron przeciwatomowy]] z lat 60. Obiekt ten, należący do [[Wielkopolskie Muzeum Walk Niepodległościowych w Poznaniu|Wielkopolskiego Muzeum Walk Niepodległościowych]], znajduje się na poznańskich [[Krzyżowniki (Poznań)|Krzyżownikach]]{{r|schronatomowy}}.
+
+W północnej części Poznania odwiedzić można [[rezerwat przyrody Meteoryt Morasko]]. Znajduje się tam 7 [[Krater uderzeniowy|kraterów]] powstałych w wyniku upadku [[meteoryt]]ów (największy z nich ma średnicę 85–95 m). Jest to także miejsce występowania rzadkich odmian roślin i zwierząt{{r|meteoryt_morasko}}.
+
+Wizytówką miasta są tereny rekreacyjne wokół [[Jezioro Maltańskie|Jeziora Maltańskiego]]. Oprócz licznych tras rowerowych i spacerowych wokół toru regatowego zlokalizowano tam m.in.: całoroczny stok narciarski [[Malta Ski]] wzniesiony na [[Kopiec Wolności|Kopcu Wolności]], pole do [[minigolf]]a, Bula Park, 2 parki linowe (Pyrland Park i Explorer Park), całoroczną [[kolejka górska|kolejkę górską]] Adrenaline, ogród zoologiczny (Nowe Zoo), park wodny [[Termy Maltańskie]] ([[aquapark]], baseny sportowe, kompleks saun i centrum Spa), centrum handlowe [[Galeria Malta]] oraz place zabaw i punkty gastronomiczne. W sezonie letnim po akwenie pływa podświetlana [[Fontanna na Malcie w Poznaniu|fontanna]] tryskająca na wysokość 60 m, wzdłuż północnego brzegu jeziora kursuje kolejka wąskotorowa [[Kolejka Parkowa Maltanka|Maltanka]], a przy stoku narciarskim działają – letni tor saneczkowy, kino letnie oraz kąpielisko. Zimą natomiast od strony ul. Jana Pawła II funkcjonuje kryte lodowisko{{r|malta-lodowisko}}.
+
+W Poznaniu znajdują się także zabytki architektury przemysłowej (m.in. [[Stary Browar (Poznań)|Stary Browar]], [[Gazownia przy ul. Grobla w Poznaniu|Stara Gazownia]], czy [[Rzeźnia na Garbarach w Poznaniu|Stara Rzeźnia]]) oraz nowoczesne obiekty sportowe (m.in. piłkarski [[Stadion Miejski w Poznaniu|Stadion Miejski]], [[Jezioro Maltańskie|tor regatowy Malta]], kompleks basenów sportowych w [[Termy Maltańskie|Termach Maltańskich]], czy wyścigowy [[Tor Poznań]]). Odwiedzić tu można również najstarsze i zarazem największe centrum wystawiennicze w Polsce – [[Międzynarodowe Targi Poznańskie]].
+
+W sezonie letnim po mieście kursują zabytkowe pojazdy – tramwaj turystyczny [[Konstal N]] na linii nr 0 oraz autobusy turystyczne [[Jelcz 043]] (tzw. „ogórek”), [[Jelcz PR110]], [[Ikarus 280]], [[Ikarus 260]] i [[DAF MB200]] na linii nr 100{{r|mpk-poznan-turystyka}}. Zainteresowani mogą również skorzystać z lotów widokowych nad Poznaniem samolotem [[An-2]]. Popularny „Antek” startuje z lotniska [[Aeroklub Poznański|Aeroklubu Poznańskiego]] w [[Kobylnica (województwo wielkopolskie)|Kobylnicy]]{{r|aeroklub-poznan-artykuly2}}.
+
+Każdego roku odbywają się w Poznaniu liczne festyny i jarmarki, w których uczestniczą tłumy mieszkańców oraz turystów. Do imprez, które na stałe wpisane są do kalendarza, należą m.in.: [[Kaziuk]] (marzec), [[Dni Ułana w Poznaniu|Dni Ułana]] (kwiecień), [[Jarmark Świętojański (Poznań)|Jarmark Świętojański]] (czerwiec), [[Warkocz Magdaleny (festyn farny)|Warkocz Magdaleny]] (lipiec), [[Ogólnopolski Festiwal Dobrego Smaku]] (sierpień), [[Dni Pyrlandii]] (wrzesień), [[Jarmark Franciszkański w Poznaniu|Jarmark Franciszkański]] (wrzesień), [[Święto Chleba w Poznaniu|Święto Chleba]] (wrzesień), [[Imieniny ulicy Święty Marcin]] (listopad) i [[Betlejem Poznańskie]] (grudzień){{r|poznan-events-index-lang|poznan-gdzieco}}.
+
+W podpoznańskich gminach na turystów również czekają liczne atrakcje. Należą do nich m.in.: park linowy Cascader Park w [[Kobylnica (województwo wielkopolskie)|Kobylnicy]], baza Moto-Armii w [[Golęczewo|Golęczewie]] (przejażdżki pancernym sprzętem militarnym po poligonie), [[Skansen miniatur w Pobiedziskach|skansen miniatur Szlaku Piastowskiego]] oraz zrekonstruowana drewniana forteca z okresu wczesnego średniowiecza w [[Pobiedziska]]ch, kompleks pałacowy w [[Rogalin]]ie (pałac, [[wozownia]], galeria malarstwa, park ze słynnymi „dębami rogalińskimi”), [[Zamek w Kórniku|kompleks zamkowy w Kórniku]] (zamek, [[oficyna|oficyny]], wozownia, największe w Polsce [[Arboretum w Kórniku|arboretum]]), [[Wielkopolski Park Etnograficzny w Dziekanowicach]], [[Park Krajobrazowy Puszcza Zielonka]] z wieżą widokową na [[Dziewicza Góra (Pojezierze Wielkopolskie)|Dziewiczej Górze]], [[Park Orientacji Przestrzennej w Owińskach]], [[Wielkopolski Park Narodowy]], [[Muzeum Narodowe Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie]] ze swoimi oddziałami – Muzeum Przyrodniczo-Łowieckim w [[Uzarzewo|Uzarzewie]] oraz [[Skansen Pszczelarski w Swarzędzu|Skansenem i Muzeum Pszczelarstwa w Swarzędzu]], a także zabytkowe kościoły, w tym obiekty drewniane (powstałe między XIII, a XIX wiekiem).
+
+=== Rekreacja ===
+[[Plik:Kopiec Wolności i Malta-Ski Poznań RB1.JPG|mały|240px|Tereny rekreacyjne nad [[Jezioro Maltańskie|Jeziorem Maltańskim]] w Poznaniu]]
+W Poznaniu wyznaczono cztery letnie [[kąpielisko|kąpieliska]]{{r|Uchwała Nr XI 118 VI 2011}}:
+* kąpielisko Malta na [[Jezioro Maltańskie|Jeziorze Maltańskim]] (obejmujące 200 m linii brzegowej),
+* kąpielisko Krzyżowniki, na [[Jezioro Kierskie|Jeziorze Kierskim]] (75 m linii brzegowej),
+* kąpielisko Strzeszynek, na [[Jezioro Strzeszyńskie|Jeziorze Strzeszyńskim]] (50 m linii brzegowej),
+* kąpielisko Rusałka, na [[Jezioro Rusałka (Poznań)|jeziorze Rusałka]] (100 m linii brzegowej).
+
+Od 2012 r. w starym korycie [[Warta|Warty]] (przy ul. Ewangelickiej, w sąsiedztwie KontenerArt) uruchamiana jest [[plaża]] miejska. Oprócz korzystania z leżaków, można tam zagrać w siatkówkę plażową, czy badmintona. Dostępne są piłki, deski i fresbiee. Na plaży odbywają się wystawy, warsztaty oraz imprezy muzyczne{{r|plaza_miejska}}.
+
+== Oświata i wychowanie ==
+{{Kategoria główna|Edukacja w Poznaniu}}
+[[Plik:A221-mns-design-gimnazjum-sw.marii-magdaleny-3.jpg|mały|240px|[[Liceum Ogólnokształcące św. Marii Magdaleny w Poznaniu|Liceum Ogólnokształcące św. Marii Magdaleny]]]]
+W 2012 r. działało w Poznaniu 116 [[przedszkole|przedszkoli]] ogólnodostępnych, 5 przedszkoli specjalnych oraz 60 szkół podstawowych prowadzących oddziały przedszkolne. Placówki te zapewniały opiekę dla 15,6 tys. dzieci. W mieście funkcjonowało również 14 [[Żłobek (edukacja)|żłobków]] publicznych (1,2 tys. miejsc) oraz 3 kluby dziecka i 17 żłobków niepublicznych (0,5 tys. miejsc){{r|ssgpoznań2012}}.
+
+Na terenie miasta znajdowało się również (IX 2012){{r|ssgpoznań2012}}:
+* 68 [[szkoła podstawowa|szkół podstawowych]],
+* 49 [[pedagogika specjalna|szkół specjalnych]]
+* 48 [[gimnazjum|gimnazjów]],
+* 38 [[liceum ogólnokształcące|liceów ogólnokształcących]], {{Kategoria główna|Licea ogólnokształcące w Poznaniu}}
+* 25 [[technikum|techników]],
+* 11 [[zasadnicza szkoła zawodowa|branżowych szkół I stopnia]],
+* 6 [[szkoła policealna|szkół policealnych]],
+* 4 [[szkoła artystyczna|szkoły artystyczne]] (m.in. [[Liceum Plastyczne im. Piotra Potworowskiego w Poznaniu|liceum plastyczne]]),
+
+Do szkół podstawowych uczęszczało łącznie 25,1 tys. uczniów, do gimnazjów – 11,2 tys. uczniów, do szkół ponadgimnazjalnych – 22,6 tys. uczniów, do szkół artystycznych – 1,0 tys. uczniów, a do szkół policealnych – 0,4 tys. uczniów{{r|ssgpoznań2012}}.
+
+W Poznaniu działa [[Szkoła Podoficerska Wojsk Lądowych w Poznaniu|Szkoła Podoficerska Wojsk Lądowych]] oraz [[Szkoła Aspirantów Państwowej Straży Pożarnej w Poznaniu|Szkoła Aspirantów Państwowej Straży Pożarnej]].
+
+== Uczelnie ==
+{{Osobny artykuł|Uczelnie w Poznaniu}}
+[[Plik:Poznań Collegium Minus 24 09 2011 P9240311.jpg|mały|240px|[[Aula Uniwersytecka w Poznaniu|Aula Uniwersytecka]] i [[Collegium Minus w Poznaniu|''Collegium Minus'']] [[Uniwersytet im. Adama Mickiewicza w Poznaniu|UAM]] w Poznaniu]]
+W roku akademickim 2012/2013 w Poznaniu działało 28 uczelni (8 publicznych i 20 niepublicznych), na których studiowało łącznie 128,9 tys. osób. W okresie tym absolwentami poznańskich uczelni zostało 36,0 tys. studentów. W stolicy Wielkopolski funkcjonuje pięć [[uniwersytet]]ów. Największymi uczelniami są: [[Uniwersytet im. Adama Mickiewicza w Poznaniu|Uniwersytet im. Adama Mickiewicza]] (39,3 tys. studentów), [[Politechnika Poznańska]] (20,6 tys. studentów), [[Uniwersytet Przyrodniczy w Poznaniu|Uniwersytet Przyrodniczy]] (11,8 tys. studentów) i [[Uniwersytet Ekonomiczny w Poznaniu|Uniwersytet Ekonomiczny]] (10,8 tys. studentów){{r|ssgpoznań2012}}. W Poznaniu studiuje ponad 1,7 tys. obcokrajowców, najwięcej z nich na [[Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu|Uniwersytecie Medycznym im. Karola Marcinkowskiego]]{{r|stat-szkoły-wyższe}}.
+
+W rankingu uczelni akademickich przeprowadzonym w 2012 r. przez miesięcznik edukacyjny [[Perspektywy]] najwyżej ocenione zostały: [[Uniwersytet im. Adama Mickiewicza w Poznaniu|Uniwersytet im. Adama Mickiewicza]] (3. miejsce), [[Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu|Uniwersytet Medyczny im. Karola Marcinkowskiego]] (10. miejsce), [[Politechnika Poznańska]] (21. miejsce) i [[Uniwersytet Ekonomiczny w Poznaniu|Uniwersytet Ekonomiczny]] (23. miejsce). W badaniu uwzględniono 88 uczelni z całego kraju{{r|perspektywy-5074-Itemid}}.
+
+W rejonie Poznania działa 18 placówek naukowo-badawczych [[Polska Akademia Nauk|Polskiej Akademii Nauk]], które zatrudniają łącznie 1,1 tys. pracowników. Należą do nich m.in.: [[Instytut Chemii Bioorganicznej PAN]] wraz z [[Poznańskie Centrum Superkomputerowo-Sieciowe|Poznańskim Centrum Superkomputerowo-Sieciowym]], [[Instytut Dendrologii PAN]], [[Instytut Fizyki Molekularnej PAN]], [[Instytut Genetyki Człowieka PAN]], [[Instytut Genetyki Roślin PAN]], [[Instytut Środowiska Rolniczego i Leśnego PAN]], czy [[Centrum Badań Kosmicznych PAN]] z towarzyszącym mu [[Obserwatorium Astrogeodynamiczne Centrum Badań Kosmicznych PAN|Obserwatorium Astrogeodynamicznym]] w [[Borówiec (powiat poznański)|Borówcu]]{{r|pan-poznan-placowki-index}}.
+
+== Kultura i sztuka ==
+[[Plik:Poznan Opera House.jpg|mały|240px|[[Park Adama Mickiewicza w Poznaniu|Park Mickiewicza]] i poznańska [[Teatr Wielki im. Stanisława Moniuszki w Poznaniu|opera]]]]
+[[Plik:Poznan 10-2013 img03 Polish Theatre.jpg|mały|240px|[[Teatr Polski w Poznaniu]]]]
+[[Plik:Poznan 10-2013 img01 National Museum.jpg|mały|240px|Gmach [[Galeria Malarstwa i Rzeźby Muzeum Narodowego w Poznaniu|Galerii Malarstwa i Rzeźby]] [[Muzeum Narodowe w Poznaniu|Muzeum Narodowego w Poznaniu]]]]
+W Poznaniu działają liczne instytucje kulturalne, w tym m.in.{{r|kultura-instytucje}}:
+* opera ([[Teatr Wielki im. Stanisława Moniuszki w Poznaniu|Teatr Wielki im. Stanisława Moniuszki]]),
+* 8 teatrów z własną sceną (m.in. [[Teatr Animacji w Poznaniu|Teatr Animacji]], [[Teatr Nowy w Poznaniu|Teatr Nowy]] i [[Teatr Polski w Poznaniu|Teatr Polski]]),
+* 8 teatrów bez profesjonalnej sceny (m.in. [[O.B.O.R.A.|Platforma Artystyczna O.B.O.R.A.]], [[Teatr Biuro Podróży]], czy [[Teatr Strefa Ciszy]]),
+** w baraku przy ul. Grunwaldzkiej działa [[Centrum Rezydencji Teatralnej „Scena Robocza”]] powstałe z inicjatywy Teatru Strefa Ciszy – jest to miejsce realizacji repertuaru teatrów nie posiadających własnej sceny{{r|scenarobocza-od-nas}}
+** przy ul. Za Cytadelą otwarto [[Ośrodek Edukacji Teatralnej w Poznaniu|Ośrodek Edukacji Teatralnej]] dla dzieci – znajduje się tam sala widowiskowo-edukacyjna, której gospodarzami są [[Łejery]] oraz [[Centrum Sztuki Dziecka w Poznaniu]]{{r|budujemyteatr.lejery}}
+* [[Filharmonia Poznańska im. Tadeusza Szeligowskiego]],
+* 12 kin (w tym 5 [[multipleks kinowy|wielosalowych multipleksów]] oraz kino [[IMAX]] 3D)
+* 28 muzeów (m.in. [[Makieta Dawnego Poznania|Makiety Dawnego Poznania]], [[Muzeum Bambrów Poznańskich]], [[Muzeum Narodowe w Poznaniu|Galeria Malarstwa i Rzeźby Muzeum Narodowego]], [[Muzeum Instrumentów Muzycznych w Poznaniu|Muzeum Instrumentów Muzycznych]], [[Muzeum Powstania Poznańskiego – Czerwiec 1956|Muzeum Powstania Poznańskiego]], czy [[Lech Browary Wielkopolski|Centrum Wycieczkowe Lech]]),
+* ponad 40 galerii sztuki (z największą – [[Galeria Miejska Arsenał w Poznaniu|Galerią Miejską Arsenał]]),
+* 20 chórów (m.in. [[Chór Akademicki Uniwersytetu im. Adama Mickiewicza|Chór Akademicki UAM]], [[Poznańskie Słowiki]], czy [[Poznański Chór Katedralny]]).
+
+W mieście funkcjonują również liczne orkiestry, zespoły muzyczne i folklorystyczne{{r|kultura-chóry}}.
+Działa tu m.in. [[Orkiestra Kameralna Polskiego Radia „Amadeus”]] pod dyrekcją [[Agnieszka Duczmal|Agnieszki Duczmal]], reprezentacyjna [[Orkiestra Miasta Poznania|Orkiestra Miasta Poznania przy MPK]], a także balet ([[Polski Teatr Tańca – Balet Poznański|Polski Teatr Tańca]]) prezentujący swoje spektakle widzom na całym świecie{{r|kultura|ptt-poznan-podroze}}. W stolicy Wielkopolski mieści się również [[TV Studio Filmów Animowanych Sp. z o.o.|TV Studio Filmów Animowanych]] produkujące animowane filmy lalkowe i rysunkowe{{r|tvsfa-index-o-nas-2}}.
+
+Instytucje kulturalne w Poznaniu:
+* [[muzea w Poznaniu]]
+* [[teatry w Poznaniu]]
+* [[kina w Poznaniu]]
+* [[chóry w Poznaniu]]
+
+W zabytkowym gmachu [[Drukarnia Concordia|Drukarni Concordia]] powstało pierwsze w Polsce centrum designu i kreatywności – Concordia Design{{r|concordiadesign}}.
+
+W Poznaniu działa najstarszy w kraju [[squat]] – [[Rozbrat]]. Jest to centrum kultury alternatywnej oraz miejsce spotkań aktywistów poznańskiej sekcji [[Federacja Anarchistyczna|Federacji Anarchistycznej]], grup [[Rytmy Oporu]] i [[Jedzenie Zamiast Bomb]]. W ramach funkcjonowania tego ośrodka organizowane są liczne koncerty, dyskusje i spotkania z działaczami społecznymi oraz happeningi i protesty społeczne. Wśród imprez cyklicznych odbywających się na Rozbracie wyróżnić można m.in. [[Festiwal Sztuki DIY]] (Do It Yourself){{r|strona squatu Rozbrat}}.
+
+W stolicy Wielkopolski odbywają się liczne festiwale, w tym najbardziej rozpoznawalne – [[Malta Festival Poznań|Malta Festival]] (teatralny), [[Ale Kino! (festiwal)|Ale Kino!]] (filmów dla dzieci i młodzieży), [[Animator (festiwal)|Animator]] (filmów animowanych), [[Off Cinema]] (filmów niezależnych), [[Art & Fashion Festival]] (mody i sztuki), [[Pyrkon]] (fantastyki), czy [[Międzynarodowy Festiwal Rzeźby Lodowej w Poznaniu|Międzynarodowy Festiwal Rzeźby Lodowej]]{{r|kultura}}.
+
+Co 5 lat organizowane są w Poznaniu międzynarodowe konkursy [[Międzynarodowy Konkurs Skrzypcowy im. Henryka Wieniawskiego|skrzypcowe]] oraz [[Międzynarodowy Konkurs Lutniczy im. Henryka Wieniawskiego|lutnicze]] im. [[Henryk Wieniawski|Henryka Wieniawskiego]]{{r|kultura}}, a co dwa lata międzynarodowy festiwal chóralny [[Universitas Cantat]].
+
+Poznań kandydował do tytułu [[Europejska Stolica Kultury|Europejskiej Stolicy Kultury 2016]], jednak w 2010 r. nie został zakwalifikowany do II etapu konkursu.
+
+<center><gallery>
+Plik:Poznańskie słowiki.jpg|Chór [[Poznańskie Słowiki]] w [[Aula Uniwersytecka w Poznaniu|Auli UAM]]
+Plik:Poznań Pyrkon 2016 StarGate Scifi.JPG|[[Pyrkon]]
+Plik:Muzeum Instrumentów Muzycznych w Poznaniu (5).JPG|Muzeum Instrumentów Muzycznych
+Plik:Otwarcie trasy przez most św. Rocha RB8.JPG|Orkiestra Miasta Poznania
+Plik:Kino Apollo Poznań.JPG|Kino Apollo
+Plik:Arsenal BWA Poznan.jpg|Galeria miejska Arsenał
+Plik:Rzeźby lodowe 2013 002.jpg|Międzynarodowy Festiwal Rzeźby Lodowej
+Plik:Poznan szkola baletowa-1.jpg|Polski Teatr Tańca – Balet Poznański
+</gallery></center>
+
+=== Historia kultury muzycznej w Poznaniu ===
+Powstanie biskupstwa uczyniło z Poznania pierwszy ośrodek [[chorał]]u, wprowadzonego tu przez [[benedyktyni|benedyktynów]]. Jednym z biskupów poznańskich był [[Jan Łodzia]], uważany za bardzo muzykalnego, twórca polskiej [[sekwencja|sekwencji]]. W 1400 roku po raz pierwszy wzmiankowano o organach w Poznaniu. Z XV wieku istnieją przekazy o wykonywaniu [[misterium|misteriów]] w kościele Bożego Ciała.
+W XVI wieku głównymi ośrodkami muzyki religijnej były katedra i kolegiata. Muzykę świecką pielęgnowała rodzina [[Górkowie herbu Łodzia|Górków]], której członkowie byli mecenasami [[Hermann Finck|Hermanna Fincka]]. Zadedykował on im swój traktat ''Musica practica'' (1556). Przedstawiany jako wybitny kompozytor tego okresu jest [[Jan Brant]] zw. „Posnaniensis”. Przed 1650 powstał stały zespół muzyczny w katedrze, złożony z 5 śpiewaków i 8 instrumentalistów. W najbogatszych kościołach działały kapele, np. w 1774 roku 12-osobowa kapela kolegiacka. W latach 1783–1784 w budynku [[Kolegium jezuickie w Poznaniu|kolegium jezuickiego]] odbyły się pierwsze przedstawienia operowe, wykonane przez zespół [[Wojciech Bogusławski|Wojciecha Bogusławskiego]]{{r|Oprac na podstawie hasła Mirosława}}.
+
+Od wczesnych lat 90. XX w. Poznań, obok takich miast jak [[Katowice]], [[Szczecin]], [[Warszawa]], czy [[Kielce]] jest ważnym ośrodkiem kultury i muzyki [[hip-hop]]owej w kraju. Ogólnopolską popularność zyskali liczni wykonawcy, w tym, m.in. [[Slums Attack]], [[Nagły Atak Spawacza]], [[Peja (raper)|Peja]], [[Pięć Dwa|Pięć Dwa Dębiec]], [[Killaz Group]], [[Ski Skład]], [[WSRH]], [[K.A.S.T.A.]], [[Beat Squad]], [[Shellerini]], [[Rafi (raper)|Rafi]], [[Paluch (raper)|Paluch]], [[Mezo]] oraz [[Medi Top Glon]].
+
+== Sport ==
+{{Commonscat|Sports in Poznań|Sport w Poznaniu}}
+[[Plik:Towarzystwo Gimnastyczne Sokół Poznań.jpg|mały|240px|[[Towarzystwo Gimnastyczne „Sokół” w Poznaniu|Poznańskie gniazdo Towarzystwa Gimnastycznego „Sokół”]] na paradzie w 1932 roku]]
+[[Plik:Stadion Miejski Poznan, 2011-08-23.jpg|mały|240px|[[Stadion Miejski w Poznaniu]]]]
+[[Plik:Malta Trybuny Poznań RB1.JPG|mały|240px|Trybuny [[Jezioro Maltańskie|Toru Regatowego Malta]] w Poznaniu]]
+[[Plik:Termy Maltańskie - basen sportowy.JPG|mały|240px|Baseny sportowe w [[Termy Maltańskie|Termach Maltańskich]]]]
+{{Osobny artykuł|Sport w Poznaniu}}
+
+Jedną z pierwszych organizacji sportowych w mieście było [[Towarzystwo Gimnastyczne „Sokół” w Poznaniu]] założone 2 czerwca 1886 roku z inicjatywy Ignacego Andrzejewskiego<ref>„Złota księga Sokoła poznańskiego”, Praca zbiorowa, Towarzystwo Gimnastyczne „Sokół” w Poznaniu, Poznań 1936.</ref>.
+
+W stolicy województwa organizowane są liczne międzynarodowe i ogólnopolskie imprezy sportowe. Na poznańskim [[Jezioro Maltańskie|Torze Regatowym Malta]] cyklicznie odbywają się zawody Pucharu Świata, Mistrzostw Europy i Świata w [[wioślarstwo|wioślarstwie]], [[kajakarstwo|kajakarstwie]] oraz [[kajak-polo]], a także ogólnopolskie zawody [[smocze łodzie|smoczych łodzi]]. Na stałe do kalendarza tenisistów wpisał się [[Poznań Open|Międzynarodowy Turniej Tenisowy ATP Poznań Open]]. Na basenie olimpijskim [[Termy Maltańskie|Term Maltańskich]] organizowane są [[pływanie|zawody pływackie]], a w halach [[Międzynarodowe Targi Poznańskie|MTP]] oraz na [[Hipodrom Wola|Hipodromie Wola]] odbywają się międzynarodowe i krajowe [[skoki przez przeszkody|zawody konne w skokach przez przeszkody]]. Na [[Tor Poznań|Torze Poznań]] organizowane są natomiast zawody [[Wyścigowe Samochodowe Mistrzostwa Polski|Wyścigowych Samochodowych Mistrzostw Polski]] oraz [[Wyścigowe Motocyklowe Mistrzostwa Polski|Wyścigowych Motocyklowych Mistrzostw Polski]]{{r|sport-informator}}.
+
+Każdej jesieni w Poznaniu odbywa się [[bieg maratoński]] [[Poznań Maraton]] im. [[Maciej Frankiewicz|Macieja Frankiewicza]]. W 2012 na starcie biegu stanęło 5,7 tys. osób z 31 krajów. Zmierzyli się oni z dystansem 42,2&nbsp;km{{r|marathon.poznan}}. W 2015 ruszyła pierwsza edycja zawodów [[Triathlon|triatlonowych]] Challenge Poznań{{r|poznan.triathlon}}.
+
+Wybrane imprezy sportowe zorganizowane w Poznaniu:
+* [[Mistrzostwa Europy U-19 w piłce nożnej|Mistrzostwa Europy U-19 w Piłce Nożnej 2006]]
+* [[Akademickie Mistrzostwa Świata]] w [[Futsal]]u 2006
+* Młodzieżowe Mistrzostwa Europy w [[Szermierka|Szermierce]] 2006
+* Mistrzostwa Europy Weteranów w [[lekkoatletyka|Lekkiej Atletyce]] 2006
+* Akademickie Mistrzostwa Europy w Tenisie 2009
+* [[Mistrzostwa Europy w Koszykówce Mężczyzn 2009|Mistrzostw Europy w Koszykówce Mężczyzn 2009]]
+* Akademickie Mistrzostwa Europy w Koszykówce 2010
+* [[Mistrzostwa Świata w Kajakarstwie 2010]]
+* [[Halowe Mistrzostwa Świata w Hokeju na Trawie 2011]]
+* Światowe Regaty Wioślarskie Masters 2011
+* Mistrzostwa Świata w Kajakarstwie Niepełnosprawnych 2012
+* [[Mistrzostwa Europy w Piłce Nożnej 2012]]
+* GAC World Tour – Polish Open 2012 (''międzynarodowy turniej tenisa stołowego z cyklu ITTF Pro Tour'')
+* IV Memoriał Macieja Frankiewicza 2013 (''międzynarodowe zawody w skokach przez przeszkody o randze CSI4*'')
+* Puchar Świata w Kajakarstwie 2013
+* [[Mistrzostwa świata bezdomnych w piłce nożnej|Mistrzostwa Świata Bezdomnych w Piłce Nożnej]] 2013
+
+W 2006 i 2007 r. przez Poznań przebiegała trasa [[kolarstwo szosowe|wyścigu kolarskiego]] [[Tour de Pologne]]{{r|sport-2006|sport-2007}}.
+
+Stolica Wielkopolski ubiegała się o organizację [[Letnie Igrzyska Olimpijskie Młodzieży 2010|Letnich Igrzysk Olimpijskich Młodzieży 2010]] oraz Letniej [[Uniwersjada|Uniwersjady]] w [[Letnia Uniwersjada 2007|2007]], [[Letnia Uniwersjada 2009|2009]] i [[Letnia Uniwersjada 2011|2011]] r. Miasto przegrało jednak rywalizację z [[Singapur]]em, [[Bangkok]]iem, [[Belgrad]]em oraz chińskim [[Shenzhen]].
+
+W 2011 r. funkcjonowało w Poznaniu 105 młodzieżowych centrów sportu, które skupiały 4,5 tys. młodych sportowców{{r|sport-dzieci}}. Poznański oddział [[Akademicki Związek Sportowy|Akademickiego Związku Sportowego]] tworzyło 26 klubów mających ponad 300 sekcji sportowych, rekreacyjnych i turystycznych. Zrzeszonych w nich było ponad 6 tys. studentów{{r|sport-akademicki}}.
+
+Najbardziej utytułowaną drużyną w mieście jest [[Lech Poznań|KKS Lech Poznań]] – siedmiokrotny [[Mistrzostwa Polski w piłce nożnej mężczyzn|Mistrz Polski w piłce nożnej]], pięciokrotny zdobywca [[Puchar Polski w piłce nożnej|Pucharu Polski]] i czterokrotny [[Superpuchar Polski w piłce nożnej|Superpucharu Polski]]. Drużyna [[Warta Poznań (piłka nożna)|Warty Poznań]] zdobyła dwukrotnie tytuł Mistrza Polski w piłce nożnej. Pozostałymi I-ligowymi zespołami sportowymi z Poznania są{{r|sport-wyczynowy}}:
+* [[Polonia Poznań]] ([[piłka nożna]] kobiet),
+* [[AZS Poznań|Inea AZS Poznań]] ([[koszykówka]] kobiet),
+* [[MUKS Poznań]] (koszykówka kobiet),
+* [[AZS Politechnika Poznańska (koszykówka)|AZS Politechnika Poznań]] (koszykówka mężczyzn),
+* WKS [[Grunwald Poznań]] ([[piłka ręczna]] mężczyzn),
+* KS [[AZS-AWF Poznań]] (piłka ręczna kobiet),
+* WKS [[Grunwald Poznań]] ([[hokej na trawie]]),
+* [[AZS Politechnika Pocztowiec Poznań]] (hokej na trawie),
+* KS [[AZS-AWF Poznań]] (hokej na trawie),
+* KS [[KS Warta Poznań#Hokej na trawie|Warta Poznań]] (hokej na trawie),
+* [[Alstal Waterpolo Poznań]] ([[piłka wodna]]),
+* KS [[Posnania (rugby)|Posnania]] Poznań ([[Rugby (sport)|rugby]]),
+* [[Kozły Poznań]] ([[futbol amerykański]]),
+* [[Kadet Futsal Team Poznań]] ([[futsal]] mężczyzn)
+* AZS UAM Poznań (futsal kobiet).
+
+=== Euro 2012 ===
+[[Plik:Poznan logo.png|mały|Logo miasta Poznania]]
+Poznań był jednym z miast-gospodarzy [[Mistrzostwa Europy w Piłce Nożnej 2012|Mistrzostw Europy w Piłce Nożnej „Euro 2012”]], które odbyły się w dniach od 8 czerwca do 1 lipca 2012 r.{{r|2012-miasta-gospodarze}}
+
+Podczas turnieju [[Reprezentacja Portugalii w piłce nożnej mężczyzn|piłkarska reprezentacja Portugalii]] korzystała z centrum pobytowego w podpoznańskiej [[Opalenica|Opalenicy]]. Wśród mieszkających tam piłkarzy był m.in. [[Cristiano Ronaldo]].
+
+Na [[Stadion Miejski w Poznaniu|Stadionie Miejskim w Poznaniu]] zorganizowano trzy mecze fazy grupowej turnieju: [[Irlandia]]-[[Chorwacja]] (10 czerwca), [[Włochy]]-Chorwacja (14 czerwca) oraz Włochy-Irlandia (18 czerwca). Spotkania te obejrzało na trybunach 106,4 tys. osób (34% stanowili Polacy, 29% – Irlandczycy, 15% – Chorwaci, 12% – Włosi, a 3% – Niemcy){{r|2012a}}.
+
+Władze miasta szacują, że podczas trwania fazy grupowej turnieju Poznań odwiedziło ok. 125 tys. zagranicznych turystów – 70 tys. Irlanczyków, 40 tys. Chorwatów oraz 15 tys. Włochów. W centrum prasowym akredytowało się ponad 400 dziennikarzy z całego świata. Gościom pomagało 540 wolontariuszy, a porządku strzegło każdego dnia blisko 1,4 tys. policjantów. W poznańskiej strefie kibica zlokalizowanej na [[Plac Wolności w Poznaniu|pl. Wolności]] wystąpiło ponad 60 artystów. Przez cały okres mistrzostw bawiło się tam łącznie 705 tys. osób (2. miejsce w kraju), najwięcej w dniu meczu Polski z [[Rosja|Rosją]] – 60,5 tys. osób. Tysiące ludzi kibicowały i bawiły się również na pobliskim [[Stary Rynek w Poznaniu|Starym Rynku]], wokół [[Hala widowiskowo-sportowa Arena|hali Arena]] (w [[Carlsberg Group|Carlsberg]] FanCamp) oraz nad [[Jezioro Maltańskie|Jeziorem Maltańskim]] (w Malta Fun Zone){{r|wiadomosci.onet2|gloswielkopolski}}.
+
+== Media ==
+{{Osobny artykuł|Media w Poznaniu}}
+[[Plik:Piatkowo wieze RTV.jpg|mały|Wieże radiowo-telewizyjne [[SLR Piątkowo|Stacji Linii Radiowych Piątkowo]]]]
+[[Plik:Radio Merkury budynek.jpg|mały|Siedziba rozgłośni Radia Poznań mieści się w [[Willa Paula Ueckera w Poznaniu|willi Paula Ueckera]]]]
+
+=== Stacje telewizyjne ===
+* [[TVP3 Poznań]] (''Telewizja Poznań'')
+* [[Lech TV]]
+* TV SM GRUNWALD<ref>{{Cytuj |url=http://www.lazarz.pl/index.php?id=2&nr=11021 |tytuł=Program lokalny w transmisji cyfrowej - ale tylko z wiadomościami o grunwaldzkiej spółdzielni - LAZARZ.PL - poznański portal dzielnicowy – Łazarz w z@sięgu myszki |opublikowany=www.lazarz.pl |język=pl |data dostępu=2017-11-26}}</ref>
+
+=== Stacje telewizyjne kablowe ===
+* [[Telewizja WTK]]
+* [[TVK Winogrady]] (dawniej ''Winogradzka Telewizja Kablowa'')
+* [[Ratajska Telewizja Kablowa]]
+* [[ONTV]]<ref>{{Cytuj |url=http://www.ontv.pl/ |tytuł=Strona główna :: ONTV<!-- Tytuł wygenerowany przez bota --> |opublikowany=www.ontv.pl |data dostępu=2017-11-26}}</ref>
+
+=== Stacje radiowe ===
+* [[Radio Poznań]] (dawna nazwa: Radio Merkury)
+* [[Radio Afera]]
+* [[Radio Eska]]
+* [[Radio Emaus]]
+* [[Radio Złote Przeboje]]
+* [[Meloradio]]
+* [[Rock Radio]]
+* [[MC Radio]]
+
+=== Prasa ===
+* [[Głos Wielkopolski]]
+* [[Kwartalnik Językoznawczy]]
+* [[Poradnik Gospodarski]]
+* [[Króluj nam Chryste]]
+* [[Przewodnik Katolicki]]
+* [[Życie Uniwersyteckie]]
+* [[Wydawnictwo Miejskie Posnania|IKS]] Poznański Informator Kulturalny, Sportowy i Turystyczny
+
+== Religia ==
+[[Plik:Katedra nocna.jpg|mały|upright|lewo|160px|[[Bazylika archikatedralna Świętych Apostołów Piotra i Pawła w Poznaniu|Bazylika archikatedralna Świętych Apostołów Piotra i Pawła]]]]
+[[Plik:Poznań Św Wojciech 382-60.jpg|mały|200px|Msza św. w [[kościół św. Wojciecha w Poznaniu|kościele św. Wojciecha]]]]
+[[Plik:Cerkiew Poznań RB1 (cropped).JPG|mały|200px|[[cerkiew św. Mikołaja w Poznaniu|Prawosławna cerkiew konkatedralna św. Mikołaja]]]]
+Poznań jest siedzibą kurii [[archidiecezja poznańska|archidiecezji poznańskiej]] [[Kościół katolicki w Polsce|Kościoła rzymskokatolickiego]], która powstała z pierwszego [[Biskupstwo misyjne|biskupstwa misyjnego]] w Polsce, ustanowionego w 968 roku. Główną świątynią tego Kościoła w mieście jest [[bazylika archikatedralna Świętych Apostołów Piotra i Pawła w Poznaniu|bazylika archikatedralna Świętych Apostołów Piotra i Pawła]], położona na Ostrowie Tumskim. Drugą świątynią w Poznaniu jest [[Bazylika Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny w Poznaniu|kolegiata MB Nieustającej Pomocy i św. Marii Magdaleny]], zwana również poznańską [[kościół farny|farą]].
+{{Zobacz też|biskupi poznańscy}}
+
+W Poznaniu znajduje się [[Parafia Opieki Matki Bożej w Poznaniu|parafia greckokatolicka pw. Opieki Matki Bożej]], która należy do [[eparchia wrocławsko-gdańska|eparchii wrocławsko-gdańskiej]]. Nabożeństwa tej parafii odbywają się w [[Kościół Najświętszej Krwi Pana Jezusa w Poznaniu|kościele rzymskokatolickim pw. Przenajświętszej Krwi Pana Jezusa]].
+
+Miasto posiada dwie wspólnoty [[starokatolicyzm|starokatolickie]]: [[Kościół Polskokatolicki w Rzeczypospolitej Polskiej|polskokatolicką]] [[Parafia św. Kazimierza w Poznaniu|parafię św. Kazimierza]] (powstała w 1947 i odbywa swoje nabożeństwa w [[kościół św. Kazimierza w Poznaniu|kościele św. Kazimierza]]) oraz parafię reformowanych katolików pod wezwaniem Świętych Cyryla i Metodego (powstałą w 2007 roku, nabożeństwa odbywają się w kaplicy przy ul. Święty Wojciech 25/7)
+
+[[Polski Autokefaliczny Kościół Prawosławny]] posiada w Poznaniu [[cerkiew św. Mikołaja w Poznaniu|cerkiew pw. św. Mikołaja]] ([[konkatedra]]lną i jednocześnie [[Parafia św. Mikołaja w Poznaniu|parafialną]]), która należy do [[diecezja łódzko-poznańska|diecezji łódzko-poznańskiej]].
+
+[[Kościół Ewangelicko-Augsburski w RP|Kościół ewangelicko-augsburski]] ma 1 parafię, skupioną wokół [[kościół Łaski Bożej w Poznaniu|kościoła Łaski Bożej]]. Na terenie tej parafii w zielonym pawilonie przy ul. Obozowej 5 odbywają się niektóre nabożeństwa [[Kościół Ewangelicko-Reformowany w RP|Kościoła ewangelicko-reformowanego]].
+
+[[Kościół Świętego Krzyża w Poznaniu (metodystyczny)|Kościół Świętego Krzyża przy ul. Ogrodowej]] jest świątynią [[Kościół Ewangelicko-Metodystyczny w RP|Kościoła ewangelicko-metodystycznego]].
+
+W Poznaniu znajduje się [[Zbór Kościoła Zielonoświątkowego w Poznaniu|zbór]] [[Kościół Zielonoświątkowy w RP|Kościoła Zielonoświątkowego w RP]]{{r|Kościół-Zielonoświątkowy}}.
+
+[[Kościół Chrześcijan Baptystów w RP|Kościół Chrześcijan Baptystów]] posiada w Poznaniu 4 zbory, które mają swoje kaplice: [[kaplica I Zboru Chrześcijan Baptystów „Wspólnota Nowego Narodzenia” w Poznaniu|kaplica I Zboru Chrześcijan Baptystów „Wspólnota Nowego Narodzenia”]] oraz [[Kaplica II Zboru Chrześcijan Baptystów „Koinonia” w Poznaniu|kaplica II Zboru Chrześcijan Baptystów „Koinonia”]].
+
+W Poznaniu swoje zbory posiadają takie kościoły [[protestantyzm|protestanckie]] jak: [[Konfederacja Ewangelicznych Kościołów Reformowanych w Polsce|Ewangeliczny Kościół Reformowany]], Kościół Chrześcijański Arka, Zbór Ewangeliczny „Agape”, [[Kościół Adwentystów Dnia Siódmego]], [[Kościół Reformowany Adwentystów Dnia Siódmego]]. W mieście działają także [[bracia polscy]] oraz kongregacja [[Religijne Towarzystwo Przyjaciół|Towarzystwa Przyjaciół (kwakrzy)]].
+
+W dniach 29 grudnia 2009 do 2 stycznia 2010 Poznań stał się etapem Pielgrzymki Zaufania przez Ziemię, której organizatorem była ekumeniczna [[Wspólnota Taizé]].
+
+Z pozostałych wyznań w Poznaniu działają: [[chrystadelfianie]], [[Kościół Jezusa Chrystusa Świętych w Dniach Ostatnich]], [[Kościół Nowoapostolski]], zbór [[Świecki Ruch Misyjny „Epifania”|Świeckiego Ruchu Misyjnego „Epifania”]] oraz 24 [[Zbór#Zbór u Świadków Jehowy|zbory]] [[Świadkowie Jehowy|Świadków Jehowy]] (w tym dwa zbory obcojęzyczne: rosyjski i angielski, oraz grupa chińska i ukraińska<ref>{{Cytuj |url=http://apps.jw.org/ui/P/meeting-search.html#/weekly-meetings |tytuł=Znajdź zebranie<!-- Tytuł wygenerowany przez bota --> |opublikowany=apps.jw.org |język=pl |data dostępu=2017-12-21}}</ref>)<ref>{{Cytuj |tytuł = wyszukiwarka zebrań www.jw.org |data =}}</ref> z ośmioma [[Sala królestwa|Salami Królestwa]]<ref>Dane według raportów [http://apps.jw.org/P_SRCHMTGMAPS wyszukiwarki zborów] (www.jw.org) z 6 stycznia 2015.</ref>.
+
+W mieście znajduje się dom modlitw [[Muzułmański Związek Religijny w Rzeczypospolitej Polskiej|Muzułmańskiego Związku Religijnego]]. Drugą muzułmańską grupą wyznaniową w Poznaniu jest [[Liga Muzułmańska w RP]]{{r|islam-info-pl}} mająca swój [[meczet w Poznaniu]].
+
+Działa tu również [[filia ZGWŻ w Poznaniu|filia]] [[Związek Gmin Wyznaniowych Żydowskich w RP|Związku Gmin Wyznaniowych Żydowskich]], która posiada w mieście swoją [[Synagoga w Poznaniu|synagogę]].
+
+Co tydzień w Poznaniu odbywają się praktyki [[Związek Garuda w Polsce|Związku Garuda w Polsce]]{{r|a-bongaruda-local-poznan}}. W mieście znajduje się także świątynia buddyjska Engakuin ([[Sōtō|Sōtō Zen]] i [[Ningma]]) oraz ośrodek buddyzmu [[Buddyjski Związek Diamentowej Drogi Linii Karma Kagyu|Diamentowej Drogi]]{{r|buddyzm-osrodki}}.
+
+<center><gallery>
+Kościół NNMP na Ratajach.jpg|[[Kościół Nawiedzenia Najświętszej Maryi Panny w Poznaniu|Kościół Nawiedzenia NMP]] – największa rzymskokatolicka świątynia w Poznaniu
+Kościół Łaski Bożej Poznań RB2 (cropped).JPG|[[Kościół Łaski Bożej w Poznaniu|Kościół ewangelicki Łaski Bożej]]
+Plik:Kaplica baptystów Poznań RB1.JPG|Kaplica baptystów
+Plik:Kosciol sw Kazimierza parafia polsko-katolicka.jpg|Polskokatolicki [[Kościół św. Kazimierza w Poznaniu|kościół św. Kazimierza]]
+Plik:Greek Catholic church in Poznań.png|Greckokatolicka [[Cerkiew Opieki Matki Bożej w Poznaniu|świątynia Opieki Matki Bożej]]
+Plik:Metodystyczny Kościół Krzyża Świętego Poznań RB1.JPG|Metodystyczny [[Kościół Świętego Krzyża w Poznaniu (metodystyczny)|kościół św. Krzyża]]
+Plik:Poznan Stawna 425-18.jpg|Synagoga
+Plik:Mcko.JPG|Muzułmańskie Centrum Kulturalno-Oświatowe w Poznaniu
+</gallery></center>
+
+== Bezpieczeństwo publiczne ==
+Poznań oraz [[powiat poznański]] posiadają wspólne jednostki organizacyjne [[Policja|Policji]] i [[Państwowa Straż Pożarna|Państwowej Straż Pożarnej]] – działają one na obszarze 2161&nbsp;km² zamieszkałym przez blisko 900 tys. osób.
+
+Komenda Miejska PSP w Poznaniu zatrudnia łącznie 495 funkcjonariuszy. Zabezpieczenie operacyjne miasta i powiatu poznańskiego stanowi 9 jednostek ratowniczo-gaśniczych (JRG), których większość posiada własną specjalizację. Działania ratownicze wspomaga również 68 [[Ochotnicza straż pożarna|ochotniczych straży pożarnych]], wśród których jest grupa ratownictwa specjalistycznego oraz jednostka ratownictwa wodnego działająca w [[krajowy system ratowniczo-gaśniczy|krajowym systemie ratowniczo-gaśniczym]]. Ponadto funkcjonują tu 2 zakładowe jednostki ochrony przeciwpożarowej (przy [[Port lotniczy Poznań-Ławica|porcie lotniczym]] i w [[Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu|Miejskim Przedsiębiorstwie Komunikacyjnym]]) oraz jednostka [[Wojskowa Straż Pożarna|Wojskowej Ochrony Przeciwpożarowej]] w [[Krzesiny|Krzesinach]]. Przy ul. Bobrzańskiej w Poznaniu (JRG 7) mieści się nowoczesne Stanowisko Analizowania i Prognozowania Zagrożeń Komendy Miejskiej PSP, które pełni funkcje w obszarze ratownictwa, ochrony ludności i [[zarządzanie kryzysowe|zarządzania kryzysowego]]. Jest ono połączone siecią teleinformatyczną z podobnymi placówkami w [[Kalisz]]u, [[Konin]]ie, [[Leszno|Lesznie]] i [[Piła (miasto)|Pile]]{{r|Organizacja Obszar chroniony}}. W 2012 r. na terenie Poznania straż pożarna odnotowała 4249 zdarzeń, spośród których wyróżnić można było 1656 pożarów, 2154 miejscowe zagrożenia oraz 439 fałszywych alarmów{{r|ssgpoznań2012}}.
+[[Plik:Komenda Miejska Policji w Poznaniu.JPG|mały|250px|Komenda Miejska Policji w Poznaniu]]
+Komenda Miejska Policji w Poznaniu zatrudnia ok. 1800 policjantów, posiada 7 komisariatów zlokalizowanych w mieście oraz 15 komisariatów i 2 rewiry dzielnicowe obsługujące gminy powiatu poznańskiego{{r|Komisariaty}}. W 2014 r. na terenie Poznania policja odnotowała 22,7 tys. [[przestępstwo|przestępstw]]. W badanym okresie dominowały przestępstwa kryminalne (84,1%), w tym głównie kradzieże, włamania i przestępstwa narkotykowe. Na kolejnych miejscach uplasowały się przestępstwa gospodarcze (10,6%) oraz drogowe (3,5%) – stwierdzono m.in. 298 wypadków drogowych. Wskaźnik wykrywalności sprawców poznańskich przestępstw w 2014 r. wynosił 52,1% i jest niższy niż w latach 2013 i 2012{{r|ssgpoznań2014}}.
+
+Przy urzędzie miejskim działa komenda [[Straż Miejska Miasta Poznania|Straży Miejskiej Miasta Poznania]], której podlega 5 referatów dzielnicowych. Jednostki te zatrudniają ok. 300 strażników{{r|Straż Miejska Referaty}}. W 2012 r. instytucja ta ukarała mandatami karnymi 43,1 tys. osób na łączną kwotę 4,5 mln zł. Wylegitymowano również 58,7 tys. osób, udzielono 11,5 tys. upomnień-pouczeń, założono 19,4 tys. blokad na koła niewłaściwie zaparkowanych pojazdów, usunięto 119 wraków samochodowych, a także skierowano 599 osób do Izby Wytrzeźwień{{r|ssgpoznań2012}}.
+
+Z funduszy Urzędu Miasta Poznania od 2000 r. wdrażany jest system [[monitoring]]u wizyjnego, mający poprawić bezpieczeństwo oraz wykrywalność przestępstw. W połowie 2013 r. w użyciu było 395 kamer. Obraz z monitoringu oglądają i analizują pracownicy 6 Centrów Dozoru utworzonych w komisariatach policji. Dodatkowo obraz z kamer dociera do: Komendy Miejskiej Policji, Centrum Sterowania Ruchem ZDM, dyspozytorni MPK, Centrum Zarządzania Kryzysowego oraz do siedziby Straży Miejskiej{{r|Zarządzanie bezpieczeństwem}}.
+
+W 2011 r. uruchomiono w Poznaniu SMS-owy system przekazywania ostrzeżeń o sytuacjach kryzysowych zagrażających zdrowiu i życiu oraz konieczności ewakuacji z określonych rejonów miasta{{r|system-sms}}.
+
+W Poznaniu znajduje się [[centrum powiadamiania ratunkowego]], które obsługuje zgłoszenia alarmowe kierowane do [[Numer alarmowy|numerów alarmowych]] [[112 (numer alarmowy)|112]], [[Policja (Polska)|997]], [[Państwowa Straż Pożarna|998]] i [[Państwowe Ratownictwo Medyczne|999]]<ref>{{Cytuj stronę |url=http://bip.uke.gov.pl/download/gfx/bip/pl/defaultaktualnosci/38/4/1/aus__al_112_tab_2_ed_36.pdf |tytuł=Wykaz NKA dla lokalizacji Ab. Służb Alarmowych 112 |opublikowany=uke.gov.pl |język=pl |data dostępu=2016-01-01}}</ref>.
+
+=== Szpitale ===
+{{Kategoria główna|Szpitale w Poznaniu}}
+[[Plik:Poznań, Heliodor Święcicki Hospital - 16.jpg|mały|250px|[[Szpital Kliniczny im. Heliodora Święcickiego w Poznaniu|Szpital Kliniczny im. Heliodora Święcickiego]] [[Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu|UM]] w Poznaniu]]
+[[Plik:Szpital Szwajcarska 08.jpg|mały|250px|[[Wielospecjalistyczny Szpital Miejski im. J. Strusia w Poznaniu|Wielospecjalistyczny Szpital Miejski im. J. Strusia]] – widok od strony lądowiska i podjazdu [[szpitalny oddział ratunkowy|SOR]]]]
+Pod koniec 2014 r. w Poznaniu działało 19 [[szpital]]i cywilnych dysponujących łącznie 5,7 tys. łóżek. Nad zdrowiem pacjentów czuwało m.in. 3,4 tys. [[lekarz]]y, 4,2 tys. [[pielęgniarka|pielęgniarek]] oraz 0,8 tys.[[położna|położnych]]{{r|ssgpoznań2014}}.
+
+Poznańskie szpitale mają znaczenie ponadlokalne – hospitalizowani są tu także mieszkańcy Wielkopolski oraz pozostałej części kraju. W 2012 r. leczyło się tutaj 303,1 tys. osób, a przeciętny okres pobytu wynosił 4,4 doby{{r|ssgpoznań2012}}.
+
+W Poznaniu funkcjonuje 5 [[szpital kliniczny|szpitali klinicznych]] (przy ulicach: Długiej, Przybyszewskiego, Polnej, 28 Czerwca 1956 r., Szpitalnej). Zapewniają one zabezpieczenie potrzeb zdrowotnych mieszkańców w zakresie najbardziej specjalistycznych usług i procedur medycznych. Są one zapleczem dydaktycznym i naukowym dla [[Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu|Uniwersytetu Medycznego]], który jest jednocześnie ich organem założycielskim{{r|Szpitale kliniczne|ssgpoznań2014}}.
+
+Podstawę ochrony zdrowia na teranie miasta zapewniają 4 szpitale ogólne, w tym dwa podległe samorządowi miasta – [[Szpital im. Franciszka Raszei w Poznaniu|im. Fr. Raszei]] przy ul. Mickiewicza i [[Wielospecjalistyczny Szpital Miejski im. J. Strusia w Poznaniu|im. J. Strusia przy ul. Szwajcarskiej]], a także [[Szpital Wojewódzki w Poznaniu|Szpital Wojewódzki]] przy ul. Juraszów oraz prywatny szpital [[Centrum Medyczne HCP w Poznaniu|Centrum Medyczne HCP]] przy ul. 28 Czerwca 1956 r.{{r|ssgpoznań2012}}
+
+Przy ul. Dojazd znajduje się ogólny [[Szpital MSWiA w Poznaniu|szpital resortowy MSWiA]]. Zabezpieczenie medyczne uzupełniają szpitale specjalistyczne, w tym: [[Specjalistyczny Zespół Opieki nad Matką i Dzieckiem w Poznaniu|szpital dziecięcy]], [[Szpital Rehabilitacyjny dla Dzieci w Poznaniu|szpital rehabilitacyjny dla dzieci]], [[Wielkopolskie Centrum Onkologii]] oraz [[Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii Janusza Zeylandów|Wielkopolskie Centrum Pulmonologii i Torakochirurgii]], które posiada oddziały w Poznaniu i [[Ludwikowo (gmina Mosina)|Ludwikowie koło Mosiny]]. W [[Puszczykowo|Puszczykowie]] działa podległy samorządowi [[Powiat poznański|powiatu poznańskiego]] wieloprofilowy [[Szpital w Puszczykowie im. prof. Stefana Tytusa Dąbrowskiego|Szpital im. T. Dąbrowskiego]]{{r|ssgpoznań2012|centrum-medyczne-hcp}}.
+
+W Poznaniu istnieje 7 szpitali prywatnych – Centrum Medyczne HCP, Certus, Klinika Grunwaldzka, Klinika Promienista, Klinika Pro Bono, Med-Polonia i Medica Celsus{{r|ssgpoznań2012}}.
+
+W 4 szpitalach – im. J. Strusia, Wojewódzkim, HCP oraz im. T. Dąbrowskiego (Puszczykowo) – funkcjonują [[szpitalny oddział ratunkowy|Szpitalne Oddziały Ratunkowe]] (tzw. SOR-y). Dodatkowo w Szpitalu Miejskim im. Strusia utworzono jedno z czternastu w kraju Centrów Urazowych{{r|ssgpoznań2012|wzk-poznan-uw-node}}.
+
+=== Ratownictwo medyczne ===
+[[Państwowe Ratownictwo Medyczne]] świadczy w stolicy Wielkopolski usługi medyczne poprzez niesienie [[pierwsza pomoc|pierwszej pomocy]], prowadzi również [[ambulatorium|ambulatoria]] oraz transporty chorych. Rejonowa Stacja Pogotowia Ratunkowego w Poznaniu dysponuje 8 podstacjami i miejscami wyczekiwania na terenie miasta oraz 9 podstacjami i miejscami wyczekiwania na obszarze powiatu poznańskiego. Instytucja ta podlega [[Sejmik Województwa Wielkopolskiego|Samorządowi Województwa Wielkopolskiego]]{{r|ratownictwo-medyczne}}. W mieście działa również prywatne pogotowie ratunkowe MediFast obsługujące przede wszystkim klientów prywatnych ubezpieczalni, centrów medycznych i szpitali. Na poznańskim [[Port lotniczy Poznań-Ławica|lotnisku Ławica]] znajduje się regionalna baza [[Lotnicze Pogotowie Ratunkowe|Lotniczego Pogotowia Ratunkowego]] (baza [[Śmigłowcowa Służba Ratownictwa Medycznego|HEMS]]){{r|Bazy HEMS}}. W rejonie Poznania działają 3 profesjonalne [[lądowisko|lądowiska]] dla helikopterów LPR ([[lądowisko Poznań-Szpital Wojewódzki]], [[lądowisko Poznań-Szwajcarska]] przy Szpitalu im. J. Strusia oraz [[Lądowisko Puszczykowo|lądowisko]] przy Szpitalu im. T. Dąbrowskiego w Puszczykowie){{r|lądowiska-medyczne}}, kolejne zostanie otwarte przy Centrum Medycznym HCP{{r|lądowisko-medyczne-HCP}}. Powstanie lądowisk w tych czterech placówkach jest warunkiem koniecznym do funkcjonowania w nich Szpitalnych Oddziałów Ratunkowych obsługujących mieszkańców Poznania i powiatu poznańskiego{{r|ssgpoznań2012}}.
+
+W 2012 r. opiekę ambulatoryjną w ramach kontraktów z [[Narodowy Fundusz Zdrowia|NFZ]] świadczyło 677 placówek zlokalizowanych w Poznaniu{{r|ssgpoznań2012}}.
+
+Bezpieczeństwa nad zbiornikami wodnymi w rejonie Poznania strzegą 3 drużyny ratownicze należące do Wielkopolskiego Ochotniczego Pogotowia Ratunkowego ([[Wodne Ochotnicze Pogotowie Ratunkowe|WOPR]]){{r|WOPR Wielkopolska}}.
+
+== Różności ==
+=== Ludzie związani z Poznaniem ===
+{{Wikisłownik|poznaniak}}
+{{Wikisłownik|poznańczyk}}
+{{Wikisłownik|poznanianin}}
+{{Wikisłownik|pyra}}
+{{Kategoria główna|Ludzie związani z Poznaniem}}
+
+* W Poznaniu urodził się prezydent [[Republika Weimarska|Republiki Weimarskiej]], [[Paul von Hindenburg]].
+
+=== Odznaczenia i nagrody ===
+* [[Order Budowniczych Polski Ludowej]] przyznany miastu 16 kwietnia 1966 roku<ref>{{Cytuj|autor = [[Włodzimierz Łęcki]];; [[Franciszek Jaśkowiak]]; |tytuł = Przewodnik po Poznaniu |data = 1991 |isbn = 83-217-2827-8 |miejsce = Warszawa |wydawca = Wydawnictwo „Sport i Turystyka” |s = 27 |oclc = 750906166 }}</ref>.
+* [[Order Krzyża Grunwaldu|Krzyż Grunwaldu I klasy]] przyznany 18 grudnia 1978 roku podczas obchodów rocznicy [[Powstanie wielkopolskie|powstania wielkopolskiego]]<ref>{{Cytuj|autor = [[Włodzimierz Łęcki]];; [[Franciszek Jaśkowiak]]; |tytuł = Przewodnik po Poznaniu |data = 1991 |isbn = 83-217-2827-8 |miejsce = Warszawa |wydawca = Wydawnictwo „Sport i Turystyka” |s = 28 |oclc = 750906166 }}</ref>.
+* Nagroda [[Ministerstwo Środowiska|Ministra Środowiska]] i [[Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej|Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej]] „Lider Polskiej Ekologii” w roku 2002 i 2009; Poznań jest jedynym miastem, które zostało dwukrotnie uhonorowane tą nagrodą.
+
+== Zobacz też ==
+* [[Poznaniacy]]
+* [[gwara poznańska]]
+* [[Bambrzy]]
+* [[Poznańska legenda o skradzionych hostiach]]
+* [[synagogi Poznania]]
+* [[15 Pułk Ułanów Poznańskich]]
+* [[poznańskie osiedla sprzed 1945]]
+
+== Przypisy ==
+{{Przypisy|
+<ref name="mtp-o-firmie">{{Cytuj stronę | url = http://www.mtp.pl/all/pl/o_firmie/ | tytuł = Międzynarodowe Targi Poznańskie (O firmie) | data dostępu = 2015-12-27}}</ref>
+<ref name="2012-miasta-gospodarze">{{Cytuj stronę |url = http://www.2012.org.pl/pl/euro-2012/miasta-gospodarze.html |tytuł = Jak współpracujemy z miastami |data = 2011-04-07 |opublikowany = Ministerstwo Sportu i Turystyki – PL.2012 |archiwum = http://web.archive.org/web/20140104070007/http://www.2012.org.pl/pl/euro-2012/miasta-gospodarze.html |zarchiwizowano = 2014-01-04}}</ref>
+<ref name="2012a">{{Cytuj stronę |url = http://biznes.onet.pl/podsumowanie-fazy-grupowej-i-cwiercfinalow-euro-2012-w-polsce/ggcdv |tytuł = Podsumowanie fazy grupowej i ćwierćfinałów Euro 2012 w Polsce |data = 2012-06-25 |opublikowany = Onet Biznes |data dostępu = 2016-01-01}}</ref>
+<ref name="31blot.sp-struktura">{{Cytuj stronę |url = http://www.31blot.sp.mil.pl/31blot.php?m=31blot&str=struktura |tytuł = O nas – Struktura i zadania bazy |opublikowany = 31 Baza Lotnictwa Taktycznego Poznań Krzesiny |archiwum = http://web.archive.org/web/20120120170202/http://www.31blot.sp.mil.pl/31blot.php?m=31blot&str=struktura |zarchiwizowano = 2012-01-20}}</ref>
+<ref name="a-bongaruda-local-poznan">{{Cytuj stronę |url = http://new.ligmincha.pl/pl/osrodki/poznan.html |tytuł = Ośrodki: Poznań |opublikowany = Ligmincha Polska |data dostępu = 2016-01-01}}</ref>
+<ref name="aeroklub-poznan-artykuly">{{Cytuj stronę |url = http://www.aeroklub.poznan.pl/artykuly.php?id=42 |tytuł = Lotnisko Kobylnica EPPK |opublikowany = Aeroklub Poznański |data dostępu = 2016-01-01}}</ref>
+<ref name="aeroklub-poznan-artykuly2">{{Cytuj stronę |url = http://www.aeroklub.poznan.pl/artykuly.php?id=256 |tytuł = Lotnisko Kobylnica: loty widokowe |opublikowany = Aeroklub Poznański |data dostępu = 2016-01-01}}</ref>
+<ref name="airport-biernat">{{Cytuj stronę |url = http://airport-biernat.pl/lotnisko/ |tytuł = Airport Biernat: Lotnisko |data dostępu = 2016-01-01}}</ref>
+<ref name="Bazy HEMS">{{cytuj stronę |url = http://www.lpr.com.pl/pl/bazy.html?info=87 |tytuł = Bazy HEMS |opublikowany = Lotnicze Pogotowie Ratunkowe |data dostępu = 2016-01-01}}</ref>
+<ref name="BBC Weather">{{cytuj stronę |url = http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT004120 |tytuł = BBC Weather Average conditions for Poznan, Poland |język = en |archiwum=http://web.archive.org/web/20051201064732/http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT004120 |zarchiwizowano=2005-12-01}}</ref>
+<ref name="BDL_ludność lata">{{cytuj stronę |url = http://www.stat.gov.pl/bdl/app/wykresy_cechczas.hier?p_id=100748&p_token=303801464 |tytuł = Zmiana cechy na przestrzeni lat – Stan ludności i ruch naturalny – Ludność według miejsca zameldowania/zamieszkania i płci (1995–2010 r.) |praca = Główny Urząd Statystyczny – Bank Danych Lokalnych |data = 2011-10-20 |język = pl}}</ref>
+<ref name="bdl_turystyka">GUS – Bank Danych Lokalnych (Turystyka), 06.06.2013, http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks.</ref>
+<ref name="statut">[http://bip.city.poznan.pl/bip/public/bip/documents.html?co=print&id=1468&parent=595&instance=1001&lang=pl&lhs=bip_home&rhs=null Statut Miasta Poznania].</ref>
+<ref name="bip.poznan-38893">Uchwała Nr XV/146/VI/2011 Rady Miasta Poznania z dnia 12-07-2011 w sprawie ustanowienia użytku ekologicznego „Traszki Ratajskie” [http://bip.poznan.pl/bip/uchwaly/xv-146-vi-2011-z-dnia-2011-07-12,38893/ link].</ref>
+<ref name="bip.poznan-40914">Uchwała Nr XXIII/304/VI/2011 Rady Miasta Poznania z dnia 20-12-2011 w sprawie ustanowienia użytku ekologicznego „Bogdanka I” [http://bip.poznan.pl/bip/uchwaly/xxiii-304-vi-2011-z-dnia-2011-12-20,40914/ link].</ref>
+<ref name="bip.poznan-40915">Uchwała Nr XXIII/305/VI/2011 Rady Miasta Poznania z dnia 20-12-2011 w sprawie ustanowienia użytku ekologicznego „Bogdanka II” [http://bip.poznan.pl/bip/uchwaly/xxiii-305-vi-2011-z-dnia-2011-12-20,40915/ link].</ref>
+<ref name="bip.um.poznan-null2">Urząd Miasta Poznania – Wydział Gospodarki Komunalnej i Mieszkaniowej, ''Program drogowy miasta Poznania na lata 2008–2015'', Poznań 2008, [http://bip.um.poznan.pl/bip/public/bip/documents.html?co=print&id=23486&parent=2016&instance=1001&lang=pl&lhs=bip_home&rhs=null].</ref>
+<ref name="buddyzm-osrodki">{{Cytuj stronę |url = http://buddyzm.pl/pl/osrodki |tytuł = Ośrodki |opublikowany = Buddyjski Związek Diamentowej Drogi: Linii Karma Kagyu |język = pl en |data dostępu = 2016-01-01}}</ref>
+<ref name="budujemyteatr.lejery">Łejery – Budujemy Teatr (Teatr – Wizja), 18.09.2012, [http://www.budujemyteatr.lejery.pl/ budujemyteatr.lejery.pl]; Centrum Sztuki Dziecka w Poznaniu (Ośrodek Edukacji Teatralnej), 18.09.2012, [http://www.csdpoznan.pl/osrodek-edukacji-teatralnej-scena-wspolna-teatr-lejery-centrum-sztuki-dziecka www.csdpoznan.pl].</ref>
+<ref name="centrum-medyczne-hcp">Strony internetowe szpitali, 28.08.2012: Centrum Medyczne HCP – [http://centrum-medyczne-hcp.pl/ centrum-medyczne-hcp.pl]; Szpital im. Franciszka Raszei – [http://www.raszeja.poznan.pl/ raszeja.poznan.pl]; Szpital im. Józefa Strusia – [http://www.szpital-szwajcarska.poznan.pl/ szpital-szwajcarska.poznan.pl]; Specjalistyczny Zespół Opieki Zdrowotnej nad Matką i Dzieckiem w Poznaniu – [http://www.szoz.pl/ szoz.pl]; Szpital Rehabilitacyjny dla Dzieci – [http://www.kiekrz.com/kontakt/ kiekrz.com]; Wielkopolskie Centrum Onkologii – [http://www.wco.pl/pl/ wco.pl]; Szpital Wojewódzki w Poznaniu „Lutycka” – [http://www.lutycka.pl/page.php/1/0/show/195 lutycka.pl]; Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Poznaniu im. prof. Ludwika Bierkowskiego – [http://www.szpitalmsw.poznan.pl/ szpitalmsw.poznan.pl/]; Wielkopolskie Centrum Pulmonologii i Torakochirurgii im. Eugenii Janusza Zeylandów – [http://wcpit.pl/ wcpit.pl]; Szpital w Puszczykowie im. prof. Stefana Tytusa Dąbrowskiego – [http://www.szpitalwpuszczykowie.com.pl/ szpitalwpuszczykowie.com.pl].</ref>
+<ref name="concordiadesign">{{Cytuj stronę |url = http://www.concordiadesign.pl/pl/o-nas |tytuł = O nas |opublikowany = Concordia Design |język = pl en |data dostępu = 2016-01-01}}</ref>
+<ref name="drogi-inzynieria-11150">{{Cytuj stronę |url = http://drogi.inzynieria.com/cat/5/art/11150 |tytuł = Obwodnica Poznania za 9 miliardów? |data = 2008-09-01 |opublikowany = drogi.inzynieria.com |data dostępu = 2016-01-24}}</ref>
+<ref name="epoznan">{{Cytuj stronę |url = http://epoznan.pl/news-news-32802-Poznan_pociag_Moskwa-Paryz_juz_nie_widmo |tytuł = Poznań: pociąg Moskwa-Paryż już nie widmo |data = 2012-05-25 |opublikowany = epoznan.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="epoznan2">{{Cytuj stronę |url = http://epoznan.pl/news-news-34384-Nowa_wypozyczalnia_rowerow_uruchomiona_w_Poznaniu |tytuł = Nowa wypożyczalnia rowerów uruchomiona w Poznaniu |data = 2012-08-09 |opublikowany = epoznan.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="epoznan3">{{Cytuj stronę |url = http://epoznan.pl/news-news-33531-Otwarcie_rezerwatu_archeologicznego_na_Ostrowie_Tumskim |tytuł = Otwarcie rezerwatu archeologicznego na Ostrowie Tumskim |data = 2012-06-28 |opublikowany = epoznan.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="Fakty i liczby Statystyki">{{cytuj stronę |url = http://www.poznan.pl/mim/public/s8a/folders.html?parent=263&instance=1009&lang=pl |tytuł = Fakty i liczby – Statystyki, wykresy – Dawny Poznań |praca = Urząd Miasta Poznania (www.poznan.pl) |opublikowany = 2011-10-20}}</ref>
+<ref name="fort3">{{Cytuj stronę |url = http://www.fort3.pl |tytuł = Poznańskie Towarzystwo Przyjaciół Fortyfikacji (Fort 3) |data dostępu = 2016-01-01}}</ref>
+<ref name="fortyfikacje-poznan.yoyo">{{Cytuj stronę |url = http://www.fortyfikacje-poznan.yoyo.pl/forty.html |tytuł = Fortyfikacje Poznań |opublikowany = |archiwum = http://web.archive.org/web/20120912075500/http://www.fortyfikacje-poznan.yoyo.pl/forty.html |zarchiwizowano = 2012-09-12}}</ref>
+<ref name="gloswielkopolski">{{Cytuj stronę |url = http://www.gloswielkopolski.pl/artykul/600563,euro-2012-kibice-wyjezdzaja-z-poznania-pierwsze-podsumowania,2,id,t,sa.html |tytuł = Euro 2012: Kibice wyjeżdżają z Poznania. Pierwsze podsumowania |autor = Maciej Roik |data = 2012-06-19 |opublikowany = Polska Głos Wielkopolski |data dostępu = 2016-01-01}}</ref>
+<ref name="inscenizacje">{{Cytuj stronę |url = http://poznan.naszemiasto.pl/artykul/bitwa-o-poznan-2015-historyczne-widowisko-na-cytadeli,3289759,artgal,t,id,tm.html |tytuł = Bitwa o Poznań 2015: Historyczne widowisko na Cytadeli |data = 2015-02-22 |opublikowany = naszemiasto.pl |data dostępu = 2016-01-24}}</ref>
+<ref name="islam-info-pl">{{Cytuj stronę |url = http://islam.info.pl/?page_id=135 |tytuł = Muzułmańskie Centrum Kulturalno-Oświatowe w Poznaniu |opublikowany = islam.info.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="kernwerk">{{Cytuj stronę |url = http://kernwerk.pl/ |tytuł = Kernwerk – Stowarzyszenie Miłośników Fortyfikacji |data dostępu = 2016-01-01}}</ref>
+<ref name="kmpk-cba">{{Cytuj stronę |url = http://www.kmpk.cba.pl/ |tytuł = Strona o poznańskiej komunikacji „www.kmpk.cba.pl” |data dostępu = 2016-09-14}}, {{Cytuj stronę |url = http://www.pectrans.com.pl/index.php?showtopic=11331 |tytuł = forum transportowe pectrans.com.pl |archiwum = http://web.archive.org/web/20150721221323/http://www.pectrans.com.pl/index.php?showtopic=11331|zarchiwizowano=2015-07-21| data dostępu =}}, {{Cytuj stronę |url = http://www.zabikowo.net/~kmpoznan/old/zaj.htm |tytuł = Portal „zabikowo.net” |data dostępu = 2016-09-14}}</ref>
+<ref name="Komisariaty">{{cytuj stronę |url = http://www.poznan.policja.gov.pl//index.php?option=com_content&task=blogcategory&id=47&Itemid=61 |tytuł = Komisariaty |opublikowany = Komenda Miejska Policji w Poznaniu |data dostępu = 2016-01-01}}</ref>
+<ref name="komunikacja_historia">{{Cytuj stronę |url = http://www.mpk.poznan.pl/o-mpk/historia/11-historia |tytuł = MPK Poznań (O MPK – Historia) |data dostępu = 2016-09-14}}; {{Cytuj stronę |url = http://www.kmpk.cba.pl/zajezdnia-gajowa.html |tytuł = portal „kmpk.cba.pl” (Zajezdnia przy ulicy Gajowej) |data dostępu = 2016-09-14}}</ref>
+<ref name="Kościół-Zielonoświątkowy">{{cytuj stronę |url = http://www.poznan.kz.pl |tytuł = Kościół Zielonoświątkowy w Poznaniu |data dostępu = 2016-01-01}}</ref>
+<ref name="kultura">{{cytuj stronę |url= http://kultura.poznan.pl/mim/kultura |tytuł = Kultura |opublikowany = kultura.poznan.pl |data dostępu = 2016-02-06}}</ref>
+<ref name="kultura-chóry">{{cytuj stronę |url= http://kultura.poznan.pl/mim/kultura/chory,poi,185,15/ |tytuł = Chóry w Poznaniu |opublikowany = kultura.poznan.pl |data dostępu = 2016-02-02}}</ref>
+<ref name="kultura-instytucje">{{cytuj stronę |url= http://kultura.poznan.pl/mim/kultura/spectacles/ |tytuł = Repertuar teatrów |opublikowany = kultura.poznan.pl |data dostępu = 2016-02-02}}, {{cytuj stronę |url= http://kultura.poznan.pl/mim/kultura/muzea-w-poznaniu,poi,202,12/ |tytuł = Muzea w Poznaniu |opublikowany = kultura.poznan.pl |data dostępu = 2016-02-02}}, {{cytuj stronę |url= http://kultura.poznan.pl/mim/kultura/galerie,poi,198,13/ |tytuł = Galerie w Poznaniu |opublikowany = kultura.poznan.pl |data dostępu = 2016-02-02}}</ref>
+<ref name="kupiecpoznanski">{{Cytuj stronę |url = http://kupiecpoznanski.pl/aktualnosci/swiatowy-przeboj-rowerowy-teraz-w-poznaniu.html |tytuł = Światowy przebój rowerowy teraz w Poznaniu! |data = 2012-08-12 |opublikowany = Kupiec Poznański (Aktualności – Archiwum)}}</ref>
+<ref name="lądowiska-medyczne">{{cytuj stronę |url = http://www.poznan.pl/mim/s8a/news/w-poznaniu-powstaja-nowe-ladowiska-dla-helikopterow-medycznych,51599.html |tytuł = W Poznaniu powstają nowe lądowiska dla helikopterów medycznych |data = 2012-04-23 |opublikowany = Urząd Miasta Poznania (www.poznan.pl) |data dostępu = 2016-02-06}}</ref>
+<ref name="lądowisko-medyczne-HCP">{{cytuj stronę |url= http://www.codziennypoznan.pl/artykul/2015-06-25/ladowisko-przy-szpitalu-hcp-bedzie-ale-nie-w-parku |tytuł = Lądowisko przy szpitalu HCP - będzie, ale... nie w parku |opublikowany = codziennyPoznan.pl |data = 2015-06-25| data dostępu = 2016-02-06}}</ref>
+<ref name="lex-serwis-2007-1161">Rozporządzenie Ministra Sprawiedliwości z dnia 28 sierpnia 2007 ({{Dziennik Ustaw|2007|163|1161}}).</ref>
+<ref name="lotnictwo-policji">{{Cytuj stronę |url = http://www.magnum-x.pl/artykul/lotnictwopolicji |tytuł = Lotnictwo Policji |nazwisko = Bera |imię = Bartosz |nazwisko2 = Rams |imię2 = Piotr |opublikowany = Magnum-X |data dostępu = 2016-01-01}}</ref>
+<ref name="ludność_2012-1-1">{{cytuj pismo |tytuł=Powierzchnia i ludność w przekroju terytorialnym w 2012 r |czasopismo= |wydawca=Główny Urząd Statystyczny |miejsce=Warszawa |data=2012-12-28 |issn=1505-5507|http://www.stat.gov.pl/cps/rde/xbcr/gus/L_powierzchnia_ludnosc_teryt_2012.pdf}}</ref>
+<ref name="ludność_31_12_2012">{{Cytuj stronę |url = http://www.stat.gov.pl/poznan/69_750_PLK_HTML.htm |tytuł = Biuletyn statystyczny województwa wielkopolskiego – I kwartał 2013 |opublikowany = GUS, Urząd Statystyczny w Poznaniu |archiwum = http://web.archive.org/web/20131105141154/http://www.stat.gov.pl:80/poznan/69_750_PLK_HTML.htm |zarchiwizowano = 2013-11-05}}</ref>
+<ref name="ludność_31_12_2012_polska">GUS, ''Stan i struktura ludności oraz ruch naturalny w przekroju terytorialnym w 2012 r. Stan w dniu 31 XII'', 2013-06-05, [http://stat.gov.pl/cps/rde/xbcr/gus/LU_ludnosc_stan_struktura_31_12_2012.pdf link].</ref>
+<ref name="maltabike-wypozyczalnia">{{Cytuj stronę |url = http://sklep.maltabike.pl/wypozyczalnia,20 |tytuł = Wypożyczalnia |opublikowany = MaltaBike |data dostępu = 2016-01-01}}</ref>
+<ref name="malta-lodowisko">{{Cytuj stronę |url = http://malta.poznan.pl/atrakcje/obiekty-posir/lodowisko/ |tytuł = Lodowisko Malta |data dostępu = 2016-01-01}}</ref>
+<ref name="maltaski">{{Cytuj stronę |url = http://maltaski.pl/Wypozyczalnia_sprzetu.html |tytuł = Wypożyczalnia Sprzętu |opublikowany = Malta Ski |data dostępu = 2016-01-01}}</ref>
+<ref name="marathon.poznan">{{Cytuj stronę |url = http://marathon.poznan.pl/2012-2/ |tytuł = Centrum prasowe: edycja 2012 |opublikowany = Poznań Maraton im. Macieja Frankiewicza |data dostępu = 2016-01-01}}</ref>
+<ref name="meteoryt_morasko">Meteoryt Morasko (Miejsce, Kratery, Meteoryty), 06.06.2013, http://www.morasko2.republika.pl/.</ref>
+<ref name="Miasta partnerskie Assen">{{cytuj stronę |url = http://www.poznan.pl/mim/main/assen,p,19,56.html |tytuł = Miasta partnerskie, Assen (Holandia) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Brno Republika">{{cytuj stronę |url = http://www.poznan.pl/mim/main/brno,p,19,58.html |tytuł = Miasta partnerskie, Brno (Republika Czeska) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Charków">{{cytuj stronę |url = http://www.poznan.pl/mim/main/charkow,p,19,60.html |tytuł = Miasta partnerskie, Charków (Ukraina) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Győr Węgry">{{cytuj stronę |url = http://www.poznan.pl/mim/main/gy-r,p,19,9748.html |tytuł = Miasta partnerskie, Győr (Węgry) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Hanower">{{cytuj stronę |url = http://www.poznan.pl/mim/main/hanower,p,19,64.html |tytuł = Miasta partnerskie, Hanower (Republika Federalna Niemiec) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie hrabstwo">{{cytuj stronę |url = http://www.poznan.pl/mim/main/hrabstwo-nottinghamshire,p,19,70.html |tytuł = Miasta partnerskie, hrabstwo Nottinghamshire (Wielka Brytania) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Jyväskylä">{{cytuj stronę |url = http://www.poznan.pl/mim/main/jyv-skyl,p,19,62.html |tytuł = Miasta partnerskie, Jyväskylä (Finlandia) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Kutaisi">{{cytuj stronę |url = http://www.poznan.pl/mim/main/kutaisi,p,19,15511.html |tytuł = Miasta partnerskie, Kutaisi |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Nablus">{{cytuj stronę |url = http://www.poznan.pl/mim/main/nablus,p,19,66.html |tytuł = Miasta partnerskie, Nablus (Palestyna) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Pozuelo">{{cytuj stronę |url = http://www.poznan.pl/mim/main/pozuelo-de-alarcon,p,19,68.html |tytuł = Miasta partnerskie, Pozuelo de Alarcon (Hiszpania) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Ra anana">{{cytuj stronę |url = http://www.poznan.pl/mim/main/ra-anana,p,19,18304.html |tytuł = Miasta partnerskie, Ra’ananna |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Rennes">{{cytuj stronę |url = http://www.poznan.pl/mim/main/rennes,p,19,72.html |tytuł = Miasta partnerskie, Rennes (Francja) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Shenzhen">{{cytuj stronę |url = http://www.poznan.pl/mim/main/shenzhen,p,19,74.html |tytuł = Miasta partnerskie, Shenzhen (Chiny) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="Miasta partnerskie Toledo">{{cytuj stronę |url = http://www.poznan.pl/mim/main/toledo,p,19,76.html |tytuł = Miasta partnerskie, Toledo (Ohio, USA) |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="mpk-poznan-turystyka">Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu (Turystyka – Linie Turystyczne), 21.03.2012, http://www.mpk.poznan.pl/turystyka.</ref>
+<ref name="mpk.poznan">{{Cytuj stronę |url = http://www.mpk.poznan.pl/o-mpk/tabor/120-tabor-autobusowy |tytuł = Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu (O MPK – Tabor – Tabor autobusowy) |data dostępu = 2016-01-01}}</ref>
+<ref name="mpk.poznan2">{{Cytuj stronę |url = http://www.mpk.poznan.pl/o-mpk/tabor/63-tabor-tramwajowy |tytuł = Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu (O MPK – Tabor – Tabor tramwajowy) |data dostępu = 2016-01-01}}</ref>
+<ref name="mpk.poznan3">{{Cytuj stronę |url = http://www.mpk.poznan.pl/aktualnosci/1749-wmurowanie-kamienia-wegielnego-pod-budowe-zajezdni-na-franowie |tytuł = Wmurowanie kamienia węgielnego pod budowę zajezdni na Franowie |data = 2011-09-06 |opublikowany = MPK Poznań |data dostępu = 2016-01-01}}</ref>
+<ref name="mpu-index-studium">[http://www.mpu.pl/studium2008/index.php?studium=137 Studium uwarunkowań i kierunków zagospodarowania przestrzennego, Tom 1 Uwarunkowania, 2.4. TERENY ZIELENI].</ref>
+<ref name="natura2000.gdos-zbiorniki">PLH300005 Fortyfikacje w Poznaniu, [http://natura2000.gdos.gov.pl/natura2000/pl/jednostki.php?KodOstoi=PLH300005&NazwaOstoi=Fortyfikacje%20w%20Poznaniu&OSO=Y&SOO=Y&miasta=Y&wojewodztwa=Y&zbiorniki=Y Linki http://natura2000.gdos.gov.pl/].</ref>
+<ref name="natura2000.gdos-zbiorniki2">PLH300001 Biedrusko, [http://natura2000.gdos.gov.pl/natura2000/pl/jednostki.php?KodOstoi=PLH300001&NazwaOstoi=Biedrusko&OSO=Y&SOO=Y&miasta=Y&wojewodztwa=Y&zbiorniki=Y Link http://natura2000.gdos.gov.pl].</ref>
+<ref name="natura2000.gdos-zbiorniki3">PLH300038 Dolina Cybiny, [http://natura2000.gdos.gov.pl/natura2000/pl/jednostki.php?KodOstoi=PLH300038&NazwaOstoi=Dolina%20Cybiny&OSO=Y&SOO=Y&miasta=Y&wojewodztwa=Y&zbiorniki=Y Link http://natura2000.gdos.gov.pl/].</ref>
+<ref name="natura2000.gdos-zbiorniki4">PLB300013 Dolina Samicy, [http://natura2000.gdos.gov.pl/natura2000/pl/jednostki.php?KodOstoi=PLB300013&NazwaOstoi=Dolina%20Samicy&OSO=Y&SOO=Y&miasta=Y&wojewodztwa=Y&zbiorniki=Y Link http://natura2000.gdos.gov.pl/].</ref>
+<ref name="nazwy_miast">{{cytuj książkę |autor = Kazimierz Rymut |tytuł = Nazwy Miast Polski |wydawca = Zakład Narodowy im. Ossolińskich |miejsce = Wrocław |rok = 1987 |isbn = 83-04-02436-5}}</ref>
+<ref name="Ogólnopolska Baza Kolejowa">{{cytuj stronę |url = http://www.kolej.one.pl/index.php?dzial=linie&id=593&okno=historia&od=0&do=128 |tytuł = Ogólnopolska Baza Kolejowa |data dostępu = 2016-01-01}}</ref>
+<ref name="Oprac na podstawie hasła Mirosława">Oprac. na podstawie hasła Mirosława Perza „Poznań” w ''The Grove Dictionary of Music and Musicians'', wyd. 2, London 2001.</ref>
+<ref name="Organizacja Obszar chroniony">{{Cytuj stronę |url = http://www.kmpsp.poznan.pl/ |tytuł = Komenda Miejska Państwowej Straży Pożarnej w Poznaniu |opublikowany = |data dostępu = 2016-01-24}}</ref>
+<ref name="palatium">{{Cytuj stronę |url = http://www.poznan.pl/palatium/ |tytuł = Odkrycie Palatium Mieszka I |opublikowany = Poznań – Miejski Informator Multimedialny |data dostępu = 2016-01-24}}</ref>
+<ref name="pan-poznan-placowki-index">{{Cytuj stronę |url = http://www.pan.poznan.pl/placowki.htm |tytuł = Oddział w Poznaniu: placówki |opublikowany = Polska Akademia Nauk |data dostępu = 2016-01-01}}</ref>
+<ref name="perspektywy-5074-Itemid">Portal „perspektywy.pl”, ''Ranking uczelni akademickich 2012'', 15.06.2012, http://www.perspektywy.pl/index.php?option=com_content&task=view&id=5074&Itemid=909.</ref>
+<ref name="plaza_miejska">Polska Głos Wielkopolski, Klaudia Buchwald, ''Poznań: Plaża miejska już otwarta!'', 2013-05-10, http://www.gloswielkopolski.pl/artykul/890569,poznan-plaza-miejska-juz-otwarta-zdjecia,id,t.html.</ref>
+<ref name="pomnik historii">Internetowy System Aktów Prawnych, ''Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 28 listopada 2008 r. w sprawie uznania za pomnik historii „Poznań – historyczny zespół miasta”'', Dz.U. 2008 nr 219, poz. 1401, [http://isap.sejm.gov.pl/DetailsServlet?id=WDU20082191401 link].</ref>
+<ref name="Port-Lotniczy-Ławica">{{cytuj stronę |url=http://www.airport-poznan.com.pl/pl/polaczenia-lotnicze/mapa-polaczen |tytuł = Strona główna |opublikowany = Port Lotniczy Poznań – Ławica im. Henryka Wieniawskiego |data dostępu = 2016-01-01}}</ref>
+<ref name="Port-Lotniczy-Ławica-historia">{{cytuj stronę |url=http://www.airport-poznan.com.pl/pl/port-lotniczy/historia |tytuł = Historia |opublikowany = Port Lotniczy Poznań – Ławica im. Henryka Wieniawskiego |data dostępu = 2016-01-01}}</ref>
+<ref name="Port-Lotniczy-Ławica-statystyki">{{cytuj stronę |url=http://www.airport-poznan.com.pl/pl/port-lotniczy/statystyki |tytuł = Statystyki |opublikowany = Port Lotniczy Poznań – Ławica im. Henryka Wieniawskiego |data dostępu = 2016-01-01}}</ref>
+<ref name="portal">[http://plus-info.url.ph/ Portal „plus-info.com.pl”], 2016-05-04.</ref>
+<ref name="poznan.triathlon">{{cytuj stronę |url=http://www.poznan.sport.pl/sport-poznan/1,124485,16730085,Poznan_zorganizuje_trathlonowe_zawody_Challenge_zamiast.html |tytuł = Poznań zorganizuje trathlonowe zawody Challenge zamiast eliminacji Ironmana |opublikowany = poznan.sport.pl |data = 2014-09-30| data dostępu = 2016-05-04}}</ref>
+<ref name="poznan-1010-lang-parent">Urząd Miasta Poznania (www.poznan.pl), ''Inwestycje zagraniczne w Poznaniu'', 27 listopada 2010, http://www.poznan.pl/mim/public/s8a/news.html?co=print&id=41361&instance=1010&lang=pl&parent=0.</ref>
+<ref name="poznan-30203-lang-61473">{{cytuj książkę |tytuł=Program Ochrony Środowiska dla miasta Poznania na lata 2009–2012 |url=http://www.poznan.pl/mim/public/wos/attachments.html?co=show&instance=1039&parent=30203&lang=pl&id=61473 |wydawca=Urząd Miasta Poznania |data=2009 |strony=30–31}} (Uchwała Nr LIV/729/V/2009 Rady Miasta Poznania z dnia 12 maja 2009 r.).</ref>
+<ref name="poznan-51637">Urząd Miasta Poznania (www.poznan.pl), ''Innowacje na Trakcie: zwiedź Trakt Królewsko-Cesarski tramwajem lub pieszo!'', 2012-04-24, http://www.poznan.pl/mim/trakt/news/innowacje-na-trakcie-zwiedz-trakt-krolewsko-cesarski-tramwajem-lub-pieszo,51637.html.</ref>
+<ref name="poznan-class-id-klasy">Urząd Miasta Poznania (www.poznan.pl) – Turystyka (Punkty informacji), 2011-10-23, http://www.poznan.pl/mim/public/turystyka/class.html?id_klasy=55&typ=M.</ref>
+<ref name="poznan-events-index-lang">Urząd Miasta Poznania (www.poznan.pl), Co? Gdzie? Kiedy?, 04.11.2011, http://www.poznan.pl/mim/public/events/index.html?lang=pl.</ref>
+<ref name="poznan-gdzieco">Portal „poznan.gdzieco.pl”, 04.11.2011, http://poznan.gdzieco.pl/.</ref>
+<ref name="poznan-news-print-44592">Urząd Miasta Poznania (www.poznan.pl), ''Infokioski – nowa jakość obsługi turystów'', 2011-05-20, [http://www.poznan.pl/mim/info/news/infokioski-nowa-jakosc-obslugi-turystow,44592.html Infokioski – nowa jakość obsługi turystów].</ref>
+<ref name="poznan-pl-turystyka-2004">{{Cytuj stronę |url = http://www.poznan.pl/mim/s8a/raporty-i-analizy,doc,111/raporty-i-analizy,50857.html |tytuł = Ruch turystyczny przyjazdowy krajowy i zagraniczny oraz wykorzystanie bazy konferencyjnej Poznania i aglomeracji |data = 2004-10 |opublikowany = Poznan.pl, Q – Market Research |data dostępu = 2016-01-01}}</ref>
+<ref name="poznan-pl-trakt">{{Cytuj stronę |url = http://www.poznan.pl/mim/trakt/ |tytuł = Trakt Królewsko-Cesarski |opublikowany = Poznan.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="poznan-sim-pl">Aero Poznań, ''Europejskie Centrum Symulatorowe Cirrusa zaprasza do Poznania'', 08.04.2011, http://www.poznan.aero/sim_pl.</ref>
+<ref name="poznan-turystyka-lang">Urząd Miasta Poznania (www.poznan.pl), Turystyka – Poznaj Poznań, 20 października 2011, http://www.poznan.pl/mim/public/turystyka/?lang=pl.</ref>
+<ref name="poznan.gazeta">Gazeta Wyborcza, ''Będzie nowa wieża na Ławicy. Jest pozwolenie'', 05.04.2012, [http://poznan.wyborcza.pl/poznan/1,36037,11490299,Bedzie_nowa_wieza_na_Lawicy__Jest_pozwolenie.html poznan.gazeta.pl].</ref>
+<ref name="poznan.dziennik-168-08">Rozporządzenie wojewody wielkopolskiego nr 22/08 z dnia 4 września 2008 r. w sprawie ustanowienia obszaru chronionego krajobrazu „[[Cybina|Dolina Cybiny w Poznaniu]]” {{Cytuj stronę |url = http://www.poznan.uw.gov.pl/dzienniki-urzedowe/dziennik-nr-168-2008 |tytuł = 22/08 |data dostępu = 2016-01-01}}</ref>
+<ref name="ptt-poznan-podroze">{{Cytuj stronę |url = http://www.ptt-poznan.pl/teatr/polski-teatr-tanca/podroze-ptt/ |tytuł = Polski Teatr Tańca: Podróże |data dostępu = 2016-01-01}}</ref>
+<ref name="Raport o stania miasta Poznania-s16">{{cytuj stronę |url = http://bip.city.poznan.pl/bip/public/bip/attachments.html?co=show&instance=1001&parent=1024&lang=pl&id=5112 |tytuł = Raport o stania miasta Poznania |data = 2003 |opublikowany = Urząd Miasta Poznania, Wydział Rozwoju Miasta |strony = 16 |data dostępu = 2016-01-01}}</ref>
+<ref name="Raport o stanie środowiska">{{cytuj książkę |tytuł = Raport o stanie środowiska w Wielkopolsce w roku 2000 |url = http://web.archive.org/web/20090715082201/http://www.poznan.pios.gov.pl:80/publikacje/raport2000/63.html| wydawca = Wojewódzki Inspektorat Ochrony Środowiska w Poznaniu |miejsce = Poznań |data = 2001 |rozdział = 6.3.3. Warunki meteorologiczne kształtujące proces rozprzestrzeniania się zanieczyszczeń}}</ref>
+<ref name="raport2003">{{cytuj książkę |tytuł = Raport o stanie miasta 2003 |url = http://bip.city.poznan.pl/bip/public/bip/documents.html?co=print&id=1024&parent=290&instance=1001&lang=pl&lhs=bip_home&rhs=null| wydawca = Urząd Miasta Poznania Wydział Rozwoju Miasta |strony = 10–11 |rozdział = Środowisko naturalne}}</ref>
+<ref name="ratownictwo-medyczne">{{cytuj stronę |url = http://rsprn.ratownictwo.med.pl/o-nas/ |tytuł = O nas |opublikowany = Rejonowa Stacja Pogotowia Ratunkowego w Poznaniu |data dostępu = 2016-01-01}}</ref>
+<ref name="roweryzdm">Zarząd Dróg Miejskich w Poznaniu, ''Rowerem po Poznaniu'', Wydanie III poszerzone, Poznań 2011, http://www.zdm.poznan.pl/content/pliki/przewodnik_rowerowy-poznan_2011.pdf.</ref>
+<ref name="rozkładpkp">Dworzec Polski S.A. – Rozkład jazdy pociągów, 23.10.2011, http://rozklad-pkp.pl/.</ref>
+<ref name=rynek-kolejowy>Rynek Kolejowy, ''[http://www.rynek-kolejowy.pl/wiadomosci/poznan-inwestuje-w-transport-publiczny-49110.html Poznań inwestuje w transport publiczny]'', 2011-05-27.</ref>
+<ref name=schronatomowy>Wielkopolskie Muzeum Walk Niepodległościowych, ''Stan wojenny w bunkrze'', 13 grudnia 2012, http://www.muzeumniepodleglosci.poznan.pl/modules.php?op=modload&name=News&file=article&sid=246&mode=thread&order=0&thold=0; TVN24 (Poznań), ''Pokażą schron prezydencki w rocznicę stanu wojennego'', 5 grudnia 2012, http://www.tvn24.pl/wiadomosci-poznan,43/pokaza-schron-prezydencki-w-rocznice-stanu-wojennego,292788.html.</ref>
+<ref name=scenarobocza-od-nas>{{Cytuj stronę |url = http://www.scenarobocza.pl|tytuł = Centrum Rezydencji Teatralnej Scena Robocza |data dostępu = 2018-03-30}}</ref>
+<ref name="Seweryn Lipoński2010">{{cytuj stronę |url = http://poznan.wyborcza.pl/poznan/1,36037,7473174,I_tak_sie_trudno_rozstac__czyli_ikarusy_zawracaja.html |tytuł = I tak się trudno rozstać, czyli ikarusy zawracają |autor = Seweryn Lipoński |data = 2010-01-19 |opublikowany = gazeta.pl |archiwum = http://web.archive.org/web/20100124013031/http://poznan.gazeta.pl/poznan/1,36037,7473174,I_tak_sie_trudno_rozstac__czyli_ikarusy_zawracaja.html |zarchiwizowano = 2010-01-24}}</ref>
+<ref name="sport-2006">{{Cytuj stronę |url = http://www.sport.pl/sport/1,67926,3600253.html |tytuł = Czwarty etap Tour de Pologne finiszuje w Poznaniu |data = 2006-09-06 |opublikowany = sport.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="sport-2007">{{Cytuj stronę |url = http://www.sport.pl/sport/1,65025,4483001.html |tytuł = Dramatyczny finisz Tour de Pologne w Poznaniu |data = 2007-09-12 |opublikowany = sport.pl |data dostępu = 2016-01-01}}</ref>
+<ref name="sport-akademicki">{{cytuj stronę |url= http://www.poznan.pl/mim/main/sport-akademicki,p,161,168.html |tytuł = Sport akademicki| opublikowany = poznan.pl > Sport i rekreacja |data dostępu = 2016-02-06}}</ref>
+<ref name="sport-dzieci">{{cytuj stronę |url= http://www.poznan.pl/mim/main/sport-dzieci-i-mlodziezy,p,161,164.html |tytuł = Pewna lokata - sport dzieci i młodzieży |opublikowany = poznan.pl > Sport i rekreacja |data dostępu = 2016-02-06}}</ref>
+<ref name="sport-informator">{{cytuj stronę |url= http://www.poznan.pl/mim/public/studia/pages.html?lang=pl&co=list&ch=16524&id=16033&instance=1017 |tytuł = Informator akademicki |opublikowany = poznan.pl > Sport i rekreacja |data dostępu = 2016-02-06}}</ref>
+<ref name="sport-wyczynowy">{{cytuj stronę |url= http://www.poznan.pl/mim/main/sport-wyczynowy,p,161,170.html |tytuł = Sport wyczynowy |opublikowany = poznan.pl > Sport i rekreacja |data dostępu = 2016-02-06}}</ref>
+<ref name="srm.eco-article-Itemid">Stowarzyszenie „Sekcja Rowerzystów Miejskich – Poznań” (Rowerem po Poznaniu), 12.08.2012, [http://www.srm.eco.pl/index.php?option=com_content&view=article&id=563&Itemid=61 srm.eco.pl].</ref>
+<ref name="ssgpoznań2014">{{Cytuj stronę |url = http://www.poznan.pl/mim/s8a/raporty-i-analizy,doc,111/2014-sytuacja-spoleczno-gospodarcza,70938.html |tytuł = 2014. Sytuacja społeczno-gospodarcza |opublikowany = Wydział Rozwoju Miasta Urzędu Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="ssgpoznań2012">{{Cytuj stronę |url = http://www.poznan.pl/mim/s8a/raporty-i-analizy,doc,111/2012-sytuacja-spoleczno-gospodarcza,60974.html |tytuł = 2012. Sytuacja społeczno-gospodarcza |opublikowany = Wydział Rozwoju Miasta Urzędu Miasta Poznania |data dostępu = 2016-05-04}}</ref>
+<ref name="starybrowar5050-nagrody">{{cytuj stronę |url= http://www.starybrowar5050.com.pl/miejsce/starybrowar/nagrody |tytuł = Stary Browar (Nagrody i wyróżnienia) |opublikowany = StaryBrowar5050.com.pl |data dostępu = 2016-05-04}}</ref>
+<ref name="stat-strona-p-name-indeks">GUS, Bank Danych Lokalnych (Ludność – Stan ludności i ruch naturalny – Urodzenia żywe według pojedynczych roczników wieku matki), dane za lata 2008–2011, 19.09.2012, http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks.</ref>
+<ref name="stat-strona-p-name-indeks2">GUS, Bank Danych Lokalnych (Ludność – Stan ludności i ruch naturalny – Współczynnik dzietności i reprodukcji brutto), dane za 2011 r., 10.09.2012, http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks.</ref>
+<ref name="stat-szkoły-wyższe">{{Cytuj stronę |url = http://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/szkoly-wyzsze-i-ich-finanse-w-2013-r-,2,10.html |tytuł = Szkoły wyższe i ich finanse w 2013 r. |opublikowany = GUS |język = pl en |data dostępu = 2016-01-01}}</ref>
+<ref name="stat-trwanie-życia">{{Cytuj stronę |url = http://stat.gov.pl/obszary-tematyczne/ludnosc/trwanie-zycia/trwanie-zycia-w-2013-r-,2,8.html |tytuł = Trwanie życia w 2013 r. |opublikowany = GUS |język = pl en |data dostępu = 2016-01-01}}</ref>
+<ref name="Straż Miejska Referaty">{{cytuj stronę |url = http://www.sm.poznan.pl/mim/straz/referaty,poi,3034/ |tytuł = Straż Miejska – Referaty |opublikowany = Urząd Miasta Poznania (www.poznan.pl) |data dostępu = 2016-01-01}}</ref>
+<ref name="strona squatu Rozbrat">{{cytuj stronę |url = http://www.rozbrat.org |tytuł = Rozbrat.org – radykalny Poznań |opublikowany = rozbrat.org |język = pl |data dostępu = 2016-01-01}}</ref>
+<ref name="system-sms">{{cytuj stronę |url = http://www.poznan.pl/mim/hc/system-sms-owego-ostrzegania,p,22148,22163,23394.html |tytuł = System sms-owego ostrzegania |opublikowany = Poznan.pl |język = pl |data dostępu = 2016-01-31}}</ref>
+<ref name="Szpitale kliniczne">{{cytuj stronę |url = http://www.ump.edu.pl/uniwersytet/szpitale-kliniczne-ump |tytuł = Szpitale kliniczne |opublikowany = Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu |data dostępu = 2016-01-01}}</ref>
+<ref name="tablicePY">Dot. tylko motocykli, [http://www.wprost.pl/ar/410048/Pyrlandia-wygrala-Poznan-ma-nowe-tablice-rejestracyjne-PY-zamiast-PO/ Pyrlandia wygrała. Poznań ma nowe tablice rejestracyjne – PY zamiast PO] w:wprost.pl z 2013-07-25.</ref>
+<ref name="targi-auma">{{Cytuj stronę |url = http://www.auma.de/de/DownloadsPublikationen/PublicationDownloads/AUMA_Bilanz2011.pdf |tytuł = Die Messewirtschaft – Bilanz 2011 |data = 2012 |opublikowany = AUMA |strony = 127 |język = de |data dostępu = 2015-07-09}}</ref>
+<ref name="targi-mtp-o-firmie">{{Cytuj stronę |url = http://www.mtp.pl/all/pl/o_firmie/ |tytuł = Międzynarodowe Targi Poznańskie (O firmie) |data dostępu = 2016-01-01}}</ref>
+<ref name="targi-mtpPCC">{{Cytuj stronę |url = http://pcc.mtp.pl/ |tytuł=Poznań Congress Center (O nas, Oferta) |data dostępu = 2016-01-01}}</ref>
+<ref name="trakt.poznan">{{Cytuj stronę |url = http://www.trakt.poznan.pl |tytuł = Brama Poznania ICHOT |data dostępu = 2016-01-01}}</ref>
+<ref name="transport-Poznań-Franowo">{{Cytuj stronę |url = http://semaforek.tk/wiki/index.php/Pozna%C5%84_Franowo |tytuł = Poznań Franowo |opublikowany = semaforek.pl |data dostępu = 2015-07-12}}</ref>
+<ref name="tvsfa-index-o-nas-2">[http://tvsfa.com/index.php/o-nas-2/ TV Studio Filmów Animowanych (O nas)].</ref>
+<ref name="Uchwała Nr XI 118 VI 2011">Uchwała Nr XI/118/VI/2011 Rady Miasta Poznania z dnia 17 maja 2011 r. (Dz. Urz. Woj. Wielkopolskiego z 2011 r. Nr 188, poz. 2954).</ref>
+<ref name="urbanistyka">Portal „urbanistyka.info”, Biuletyn Instytutu Geografii Społeczno-Ekonomicznej i Gospodarki Przestrzennej Uniwersytetu im. Adama Mickiewicza w Poznaniu (seria „Rozwój Regionalny i Polityka Regionalna”), Bartosz Majewski i Michał Beim, 2008, [http://www.urbanistyka.info/content/dost%C4%99pno%C5%9B%C4%87-komunikacji-publicznej-w-poznaniu Dostępność komunikacji publicznej w Poznaniu].</ref>
+<ref name="Ustawa z dnia 5 stycznia">Ustawa z dnia 5 stycznia 2011 r. – Kodeks wyborczy ({{Dziennik Ustaw|2011|21|112}}).</ref>
+<ref name="wiadomosci.onet">{{Cytuj stronę |url = http://wiadomosci.onet.pl/poznan/dobuduja-trzeci-pas-na-autostradzie-a2/dn3vx |tytuł = Dobudują trzeci pas na autostradzie A2 |data = 2012-11-12 |opublikowany = Onet.pl |data dostępu = 2015-07-03}}</ref>
+<ref name="wiadomosci.onet2">{{Cytuj stronę |url = http://wiadomosci.onet.pl/poznan/ponad-700-tysiecy-osob-odwiedzilo-strefe-kibica/0jj12 |tytuł = Ponad 700 tysięcy osób odwiedziło Strefę Kibica |data = 2012-07-03 |opublikowany = Onet.pl |zarchiwizowano = 2012-10-04 |archiwum = http://web.archive.org/web/20141004045925/http://wiadomosci.onet.pl/poznan/ponad-700-tysiecy-osob-odwiedzilo-strefe-kibica/0jj12}}</ref>
+<ref name="Wojciech Dziemianowicz Ranking">Wojciech Dziemianowicz, Ranking atrakcyjności inwestycyjnej miast Polski – Refleksje po czterech edycjach badań, Prace i Studia Geograficzne, Warszawa 2005.</ref>
+<ref name="WOPR Wielkopolska">{{cytuj stronę |url = http://www.woprwielkopolska.pl |tytuł = Strona główna |opublikowany = Wielkopolskie Ochotnicze Pogotowie Ratunkowe Pogotowie Ratunkowe |data dostępu = 2016-01-01}}</ref>
+<ref name="Wydział Wspierania Jednostek">{{cytuj stronę |url = http://bip.poznan.pl/bip/wydzial-wspierania-jednostek-pomocniczych-miasta,1590/ |tytuł = Wydział Wspierania Jednostek Pomocniczych Miasta (WJPM) |praca = Biuletyn Informacji Publicznej |opublikowany = Urząd Miasta Poznania |data dostępu = 2016-01-01}}</ref>
+<ref name="wzk-poznan-uw-node">{{Cytuj stronę |url = http://wzk.poznan.uw.gov.pl/centrum-urazowe |tytuł = Centrum urazowe |opublikowany = Wydział Bezpieczeństwa i Zarządzania Kryzysowego WUW |data dostępu = 2015-07-08|archiwum=http://web.archive.org/web/20180126012726/http://wzk.poznan.uw.gov.pl/centrum-urazowe|zarchiwizowano=2018-01-26}}</ref>
+<ref name="Włodzimierz Łęcki2010-s13">{{cytuj książkę |autor = Włodzimierz Łęcki |tytuł = 365 zagadek o Poznaniu |wydawca = Wydawnictwo Miejskie |miejsce = Poznań |rok = 2010 |strony = 13}}</ref>
+<ref name="Włodzimierz Łęcki2010-s87">{{cytuj książkę |autor = Włodzimierz Łęcki |tytuł = 365 zagadek o Poznaniu |wydawca = Wydawnictwo Miejskie |miejsce = Poznań |rok = 2010 |strony = 87}}</ref>
+<ref name="zamek-krolewski-poznan">{{Cytuj stronę |url = http://www.zamek-krolewski.poznan.pl |tytuł = Komitet Odbudowy Zamku Królewskiego w Poznaniu |data dostępu = 2015-07-02}}, {{Cytuj stronę |url = http://poznan.wyborcza.pl/poznan/1,36037,11410138,Zobaczymy_Poznan_przez_blanki_wiezy_nowego_zamku.html |tytuł = Zobaczymy Poznań przez blanki wieży nowego zamku |data = 2012-03-24 |opublikowany = Gazeta Wyborcza |archiwum = http://web.archive.org/web/20120526215806/http://poznan.gazeta.pl/poznan/1,36037,11410138,Zobaczymy_Poznan_przez_blanki_wiezy_nowego_zamku.html |zarchiwizowano = 2012-05-26}}</ref>
+<ref name="Zarządzanie bezpieczeństwem">{{cytuj stronę |url = http://www.poznan.pl/mim/main/system-monitoringu-wizyjnego-miasta-poznania,p,1443,1743.html |tytuł = Zarządzanie bezpieczeństwem – System Monitoringu Wizyjnego Miasta Poznania |opublikowany = Urząd Miasta Poznania (www.poznan.pl) |data dostępu = 2012-08-27}}</ref>
+<ref name="Dz.Urz.2010.55.1239">Zarządzenie Wojewody Wielkopolskiego Nr 70/2010 z dnia 22 lutego 2010 r. ws. ustalenia liczby radnych (Dz. Urz. Woj. Wielkopolskiego z 2010 r. Nr 55, poz. 1239).</ref>
+<ref name="Dz.Urz.2012.5042">Uchwała nr XXXIX/579/VI/2012 Rady Miasta Poznania z dnia 16 października 2012 r. w sprawie podziału miasta Poznania na okręgi wyborcze dla wyboru Rady Miasta Poznania, ustalenia granic i numerów tych okręgów oraz liczby radnych wybieranych w każdym okręgu. ([http://edziennik.poznan.uw.gov.pl/#/legalact/2012/5042/ Dz. Urz. Woj. Wielkopolskiego z 2012 r. poz. 5042]).</ref>
+<ref name="zdmpoznan">{{Cytuj stronę |url = http://zdm.poznan.pl/o-firmie.php |tytuł = O ZDM |opublikowany = Zarząd Dróg Miejskich w Poznaniu |data dostępu = 2015-12-28}}</ref>
+<ref name="Zofia i Karol Zierhofferowie">Zofia i Karol Zierhofferowie, ''Nazwy miast Wielkopolski'', Poznań 1987, Wydawnictwo Poznańskie {{ISBN|83-210-0680-9}}.</ref>
+<ref name="ztm sieć">{{Cytuj stronę |url = http://www.ztm.poznan.pl/pl/komunikacja/mapy-i-schematy-sieci |tytuł = Zarząd Transportu Miejskiego w Poznaniu (Komunikacja – Schematy sieci) |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2018-03-30}}</ref>
+<ref name="ztm-poznan-oztm-o-ztm">{{Cytuj stronę |url = http://www.ztm.poznan.pl/komunikacja/integracja/proces-integracji/ |tytuł = ZTM: O integacji |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2015-06-24}}</ref>
+<ref name="ztm.poznan">{{Cytuj stronę |url = http://www.ztm.poznan.pl/komunikacja/rowery/pozna-ski-rower-miejski-prm/ |tytuł = ZTM: Poznański Rower Miejski |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2015-06-24}}</ref>
+<ref name="ztm.poznan-cennik">{{Cytuj stronę |url = http://www.ztm.poznan.pl/bilety/cennik/ |tytuł = ZTM: Bilety – cennik |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2015-06-24}}</ref>
+<ref name="ztm.poznan-biletomaty">{{Cytuj stronę |url = http://www.ztm.poznan.pl/bilety/sprzeda-biletow/biletomaty/wykaz-biletomat-w/ |tytuł = ZTM: Bilety – wykaz biletomatów |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2015-06-24}}</ref>
+<ref name="ztm.poznan2">{{Cytuj stronę |url = http://www.ztm.poznan.pl/komunikacja/rowery/wypo-yczalnia-rowerow-na-os-sobieskiego/ |tytuł = ZTM: Wypożyczalnia rowerów na os. Sobieskiego |opublikowany = Zarząd Transportu Miejskiego w Poznaniu |data dostępu = 2015-06-24}}</ref>
+}}
+
+== Bibliografia ==
+* [http://bip.city.poznan.pl/bip/public/bip/documents.html?co=list&parent=290&instance=1001&lhs=bip_biblioteka Raporty o stanie miasta]
+* praca zbiorowa, Poznań. ''Dzieje, ludzie kultura'', Poznań 1953.
+* K. Malinowski (red.), ''Dziesięć wieków Poznania, t. 1, Dzieje społeczno-gospodarcze'', Poznań 1956.
+* praca zbiorowa, ''Poznań'', Poznań 1958.
+* praca zbiorowa, ''Poznań. Zarys historii'', Poznań 1963.
+* Cz. Łuczak, ''Życie społeczno-gospodarcze w Poznaniu 1815–1918'', Poznań 1965.
+* J. Topolski (red.), ''Poznań. Zarys dziejów'', Poznań 1973.
+* Zygmunt Boras, ''Książęta Piastowscy Wielkopolski'', Wydawnictwo Poznańskie, Poznań 1983.
+* Topolski Jerzy (red) ''Dzieje Poznania'', Warszawa-Poznań 1988, Państwowe Wydawnictwo Naukowe, {{ISBN|83-01-08194-5}}.
+* Alfred Kaniecki, ''Dzieje miasta wodą pisane'', Wydawnictwo Aquarius, Poznań 1993, {{ISBN|83-900975-0-8}}.
+* {{Cytuj|autor = Jacek Biesiadka; Andrzej Gawlak; Szymon Kucharski; Mariusz Wojciechowski |tytuł = Twierdza Poznań. O fortyfikacjach miasta Poznania w XIX i XX wieku |data = 2006 |isbn = 83-915340-2-2 |miejsce = Poznań |wydawca = Wydawnictwo Rawelin |oclc = 170012744 }}
+* Witold Maisel (red.), ''Przywileje miasta Poznania XIII-XVIII wieku. Privilegia civitatis Posnaniensis saeculorum XIII-XVIII''. Władze Miasta Poznania, Poznańskie Towarzystwo Przyjaciół Nauk, Wydawnictwa Źródłowe Komisji Historycznej, Tom XXIV, Wydawnictwo PTPN, Poznań 1994.
+* Wojciech Stankowski, ''Wielkopolska'', Wydawnictwo WSiP, Warszawa 1999.
+* praca zbiorowa ''Poznań, przewodnik po zabytkach i historii'', pod red. Janusza Pazdera, Wydawnictwo Miejskie, Poznań 2003.
+* [[Gotthold Rhode]]: Geschichte der Stadt Posen.
+
+== Linki zewnętrzne ==
+{{Siostrzane projekty
+ |słownik = Poznań
+ |books =
+ |cytaty = Poznań
+ |źródła =
+ |commons = Poznań
+ |news = Kategoria:Poznań
+}}
+<!-- ============================================================ -->
+<!-- NIE DODAWAJ WIĘCEJ LINKÓW. WIKIPEDIA NIE JEST ZBIOREM LINKÓW -->
+<!-- ANI  MIEJSCEM   NA  TWOJĄ   (LUB  CZYJĄKOLWIEK)   REKLAMĘ!!! -->
+<!-- Jeżeli sądzisz, że Twój link może się przydać, zamiast tutaj -->
+<!-- umieść go najpierw na stronie dyskusji tego artykułu.  Linki -->
+<!-- umieszczone bez przeprowadzonej weryfikacji ZOSTANĄ USUNIĘTE -->
+<!-- WCZEŚNIEJ przeczytaj http://pl.wikipedia.org/wiki/WP:LZ      -->
+<!-- ============================================================ -->
+* [http://repozytorium.fn.org.pl/?q=pl/node/7732 1000-lecie Poznania] w kronice PKF w bazie [http://repozytorium.fn.org.pl Repozytorium Cyfrowe Filmoteki Narodowej]
+* [http://www.poznan.pl/ Informator Urzędu Miasta Poznania]
+* {{SgKP|VIII|900| Poznań}}
+
+{{Województwo wielkopolskie}}
+{{Podział administracyjny Polski}}
+{{Miasta województwa wielkopolskiego}}
+{{Miasta wojewódzkie II Rzeczypospolitej}}
+{{Miasta wojewódzkie I Rzeczypospolitej}}
+
+{{Powiat poznański (dawny)}}
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Poznań| ]]
+[[Kategoria:Miasta królewskie I Rzeczypospolitej (województwo poznańskie)]]
+[[Kategoria:Miasta posiadające prawo wyboru władców I Rzeczypospolitej]]
+[[Kategoria:Miasta na prawach powiatu]]
+[[Kategoria:Miejscowości odznaczone Orderem Krzyża Grunwaldu]]
+[[Kategoria:Miasta posiadające prawo składu]]
+[[Kategoria:Miasta wojewódzkie]]
+[[Kategoria:Miasta wojewódzkie I Rzeczypospolitej]]
+[[Kategoria:Miasta wojewódzkie II Rzeczypospolitej]]
+[[Kategoria:Miasta w Polsce lokowane w XIII wieku]]
+[[Kategoria:Miasta w województwie wielkopolskim]]
+[[Kategoria:Hasła kanonu polskiej Wikipedii]]
+[[Kategoria:Miasta polskie lokowane na prawie magdeburskim]]

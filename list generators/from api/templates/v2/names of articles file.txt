@@ -1,0 +1,934 @@
+Bydgoszcz
+Bytom
+Bielsko-Biała
+Błaszki
+Częstochowa
+Chojnów
+Ciechanowiec
+Chorzów
+Chełmno
+Elbląg
+Gorlice
+Gdańsk
+Gliwice
+Gorzów Wielkopolski
+Grudziądz
+Gniezno
+Gdynia
+Konstantynów Łódzki
+Kielce
+Koszalin
+Kalisz
+Kalwaria Zebrzydowska
+Katowice
+Legnica
+Lublin
+Lubin
+Maków Podhalański
+Mszana Dolna
+Ostrów Wielkopolski
+Olsztyn
+Oświęcim
+Olkusz
+Oława
+Pruchnik
+Płock
+Poznań
+Radom
+Rzeszów
+Ruda Śląska
+Rybnik
+Sucha Beskidzka
+Supraśl
+Sosnowiec
+Słupsk
+Sopot
+Skała (województwo małopolskie)
+Twardogóra
+Tomaszów Mazowiecki
+Tychy
+Tarnów
+Tczew
+Trzebiatów
+Warszawa
+Wolsztyn
+Wałbrzych
+Zielona Góra
+Zakopane
+Zabrze
+Łańcut
+Kościerzyna
+Rumia
+Szczecin
+Nysa
+Biłgoraj
+Hel (miasto)
+Wisła (miasto)
+Malbork
+Dąbrowa Górnicza
+Rzgów
+Rzepin
+Rypin
+Radzyń Podlaski
+Radomsko
+Racibórz
+Borek Wielkopolski
+Augustów
+Bytów
+Brzostek
+Brześć Kujawski
+Brzesko
+Brzeg (miasto)
+Czaplinek
+Ełk
+Grójec
+Jastrzębie-Zdrój
+Dzierżoniów
+Włocławek
+Kamienna Góra
+Karpacz
+Brzeg Dolny
+Ustroń
+Aleksandrów Kujawski
+Babimost
+Chrzanów
+Andrychów
+Kwidzyn
+Leszno
+Bardo (województwo dolnośląskie)
+Piła (miasto)
+Ustrzyki Dolne
+Biała Podlaska
+Chełm
+Ciechanów
+Jelenia Góra
+Konin
+Krosno
+Łomża
+Nowy Sącz
+Ostrołęka
+Piotrków Trybunalski
+Przemyśl
+Siedlce
+Sieradz
+Skierniewice
+Suwałki
+Tarnobrzeg
+Wolbrom
+Alwernia
+Biecz
+Sokołów Podlaski
+Zgierz
+Góra Kalwaria
+Sztum
+Siechnice
+Lubliniec
+Biały Bór
+Kartuzy
+Wołomin
+Będzin
+Hrubieszów
+Głogów
+Inowrocław
+Iława
+Kłodzko
+Kutno
+Kraśnik
+Lębork
+Łeba
+Szczecinek
+Oleśnica
+Bolesławiec
+Strzegom
+Zgorzelec
+Bochnia
+Jastarnia
+Otmuchów
+Mikołów
+Żory
+Iłża
+Choroszcz
+Chodecz
+Małomice
+Radymno
+Dukla
+Góra (województwo dolnośląskie)
+Syców
+Świdnica
+Złotów
+Świnoujście
+Bieruń
+Piława Górna
+Hajnówka
+Kruszwica
+Strzelce Opolskie
+Prudnik
+Kluczbork
+Kędzierzyn-Koźle
+Mielec
+Kudowa-Zdrój
+Bielawa
+Bogatynia
+Jawor (miasto)
+Łuków
+Nowa Ruda
+Polkowice
+Ćmielów
+Drezdenko
+Radziejów
+Suchowola
+Reda (miasto)
+Kazimierz Dolny
+Wejherowo
+Sokółka
+Kamień Pomorski
+Nowy Targ
+Nowa Sól
+Bełchatów
+Działoszyn
+Pisz
+Baranów Sandomierski
+Nowa Dęba
+Jarocin
+Muszyna
+Czarna Woda (miasto)
+Ozorków
+Dzierzgoń
+Jordanów
+Zawiercie
+Kołobrzeg
+Łowicz
+Puck
+Kęty
+Krynica Morska
+Frombork
+Braniewo
+Ząbkowice Śląskie
+Nidzica
+Szczyrk
+Przedecz
+Kłobuck
+Myszków
+Rydułtowy
+Tuchola
+Starogard Gdański
+Sandomierz
+Nisko
+Chojnice
+Skarżysko-Kamienna
+Kórnik
+Krotoszyn
+Kętrzyn
+Jastrowie
+Krajenka
+Okonek
+Ostróda
+Działdowo
+Sieraków
+Września
+Krzeszowice
+Cieszyn
+Skawina
+Brusy
+Szczawnica
+Przecław
+Białystok
+Kraków
+Wrocław
+Tarnowskie Góry
+Zaklików
+Pilawa (powiat garwoliński)
+Kostrzyn nad Odrą
+Sierpc
+Terespol
+Świdwin
+Świdnik
+Bieżuń
+Słubice
+Pabianice
+Duszniki-Zdrój
+Busko-Zdrój
+Iwonicz-Zdrój
+Jedlina-Zdrój
+Lądek-Zdrój
+Polanica-Zdrój
+Szczawno-Zdrój
+Trzcińsko-Zdrój
+Głogówek
+Nałęczów
+Puławy
+Kisielice
+Pelplin
+Ryn
+Olecko
+Lubartów
+Dęblin
+Bielsk Podlaski
+Bartoszyce
+Połaniec
+Lesko
+Ciechocinek
+Mysłowice
+Darłowo
+Bierutów
+Boguszów-Gorce
+Jaworzno
+Niepołomice
+Lewin Brzeski
+Zdzieszowice
+Dobre Miasto
+Żmigród
+Żarów
+Moryń
+Lidzbark
+Lidzbark Warmiński
+Sanok
+Sulejów
+Kłecko
+Aleksandrów Łódzki
+Annopol
+Giżycko
+Mrągowo
+Brodnica
+Łapy
+Wieliczka
+Węgorzewo
+Warka
+Wadowice
+Mońki
+Zambrów
+Grajewo
+Morąg
+Cedynia
+Koniecpol
+Szczytno
+Ustka
+Oborniki Śląskie
+Gubin
+Staszów
+Zagórów
+Osiek (województwo świętokrzyskie)
+Krynki
+Bisztynek
+Zakliczyn
+Lwówek Śląski
+Barczewo
+Wilamowice
+Korsze
+Strzelno
+Piastów
+Końskie
+Mogilno
+Żagań
+Mikołajki
+Niemodlin
+Sochaczew
+Jarosław
+Borne Sulinowo
+Przedbórz
+Zawidów
+Wieluń
+Żyrardów
+Dębica
+Jasło
+Witnica
+Legionowo
+Garwolin
+Opatówek
+Otwock
+Poniatowa
+Pruszków
+Ropczyce
+Ryki
+Siemiatycze
+Stalowa Wola
+Świecie
+Tyczyn
+Kępno
+Żary
+Józefów (powiat otwocki)
+Jedwabne
+Szczekociny
+Stary Sącz
+Krapkowice
+Gogolin
+Lubaczów
+Mława
+Słupca
+Międzyzdroje
+Wolin (miasto)
+Lubawka
+Stargard
+Przeworsk
+Trzebnica
+Ogrodzieniec
+Zator (województwo małopolskie)
+Ozimek
+Serock
+Sępólno Krajeńskie
+Kock
+Sława (miasto)
+Głowno
+Barwice
+Debrzno
+Chocianów
+Jabłonowo Pomorskie
+Włodawa
+Złocieniec
+Zduńska Wola
+Pilica (województwo śląskie)
+Nowogard
+Władysławowo
+Szczebrzeszyn
+Łaziska Górne
+Wyszków
+Dobczyce
+Tuczno
+Milanówek
+Tuchów
+Ostrów Mazowiecka
+Pajęczno
+Lubawa
+Łęczna
+Wysokie Mazowieckie
+Jaworzyna Śląska
+Łasin
+Karlino
+Limanowa
+Krobia
+Lubań (województwo dolnośląskie)
+Gozdnica
+Gryfów Śląski
+Bychawa
+Miechów
+Bolków
+Ruciane-Nida
+Więcbork
+Baborów
+Wąbrzeźno
+Czarnków
+Jędrzejów
+Sejny
+Pieszyce
+Radzyń Chełmiński
+Zwierzyniec (powiat zamojski)
+Świebodzice
+Dobrzyń nad Wisłą
+Turek
+Sieniawa
+Ostrzeszów
+Milicz
+Strzelin
+Środa Śląska
+Wołów
+Opoczno
+Poddębice
+Rawa Mazowiecka
+Wieruszów
+Janów Lubelski
+Opole Lubelskie
+Parczew
+Tomaszów Lubelski
+Krosno Odrzańskie
+Międzyrzecz
+Strzelce Krajeńskie
+Świebodzin
+Wschowa
+Golub-Dobrzyń
+Lipno
+Nakło nad Notecią
+Żnin
+Dąbrowa Tarnowska
+Myślenice
+Proszowice
+Białobrzegi
+Gostynin
+Grodzisk Mazowiecki
+Kozienice
+Maków Mazowiecki
+Mińsk Mazowiecki
+Piaseczno
+Płońsk
+Przasnysz
+Głuchołazy
+Konstancin-Jeziorna
+Łomianki
+Choszczno
+Luboń
+Bytom Odrzański
+Puszczykowo
+Imielin
+Trzebinia
+Nowe Miasto Lubawskie
+Susz
+Kostrzyn
+Prabuty
+Żelechów
+Pułtusk
+Nowogród
+Siemianowice Śląskie
+Orneta
+Brzozów
+Kamień Krajeński
+Kąty Wrocławskie
+Przemków
+Jedlicze
+Prochowice
+Starachowice
+Żukowo
+Śrem
+Szklarska Poręba
+Pyzdry
+Paczków
+Łask
+Gryfice
+Pszczyna
+Wodzisław Śląski
+Łęczyca
+Stronie Śląskie
+Miłakowo
+Jeziorany
+Wleń
+Polanów
+Wałcz
+Czeladź (miasto)
+Lubsko
+Gryfino
+Wiązów
+Dobrzyca
+Barcin
+Golina
+Warta (miasto)
+Sompolno
+Sławków (województwo śląskie)
+Murowana Goślina
+Pakość
+Goleniów
+Wasilków
+Wągrowiec
+Oborniki
+Gniew (miasto)
+Piekary Śląskie
+Kańczuga
+Szamotuły
+Stęszew
+Czersk
+Pińczów
+Miłosław
+Stryków
+Swarzędz
+Ciężkowice
+Suchedniów
+Dziwnów
+Ryglice
+Mikstat
+Piechowice
+Skoczów
+Nowe Warpno
+Świętochłowice
+Międzychód
+Knurów
+Otyń
+Zabłudów
+Miastko
+Barlinek
+Kolno
+Nowy Dwór Gdański
+Tuliszków
+Bobolice
+Lipsk (powiat augustowski)
+Strumień (miasto)
+Trzcianka
+Stepnica
+Bełżyce
+Glinojeck
+Odolanów
+Ziębice
+Biała Piska
+Czechowice-Dziedzice
+Ożarów Mazowiecki
+Pyrzyce
+Libiąż
+Wolbórz
+Nowy Tomyśl
+Brzeziny
+Olszyna
+Chojna
+Pleszew
+Nowe Skalmierzyce
+Raszków
+Łobez
+Drawsko Pomorskie
+Sławno
+Myślibórz
+Radzionków
+Sulmierzyce
+Grabów nad Prosną
+Koźmin Wielkopolski
+Zduny
+Żerków
+Opatów
+Pobiedziska
+Międzybórz
+Nekla
+Sulechów
+Szubin
+Kcynia
+Orzesze
+Sobótka (powiat wrocławski)
+Tuszyn
+Pasłęk
+Biała (miasto)
+Kowal (miasto)
+Nowe
+Głubczyce
+Kożuchów
+Pruszcz Gdański
+Brok
+Kietrz
+Grybów
+Czerniejewo
+Radomyśl Wielki
+Biała Rawska
+Kolbuszowa
+Miasteczko Śląskie
+Kalety
+Wąchock
+Biskupiec
+Brańsk
+Osieczna
+Rydzyna
+Koprzywnica
+Buk (województwo wielkopolskie)
+Boguchwała
+Lipiany
+Marki
+Krasnystaw
+Połczyn-Zdrój
+Krynica-Zdrój
+Chmielnik (województwo świętokrzyskie)
+Jelcz-Laskowice
+Zelów
+Nieszawa
+Tarczyn
+Kałuszyn
+Nowogrodziec
+Strzyżów
+Dobra (powiat łobeski)
+Rawicz
+Goniądz
+Mszczonów
+Dąbrowa Białostocka
+Wołczyn
+Przysucha
+Węgrów
+Kleczew
+Blachownia
+Czerwieńsk
+Chorzele
+Pieniężno
+Kleszczele
+Międzyrzec Podlaski
+Solec Kujawski
+Czarna Białostocka
+Czchów
+Ślesin
+Tykocin
+Kargowa
+Stoczek Łukowski
+Drobin
+Chociwel
+Dobrzany
+Mordy
+Czempiń
+Suchań
+Krzywiń
+Janikowo
+Suraż
+Nowogród Bobrzański
+Ińsko
+Pilzno (Polska)
+Nowy Wiśnicz
+Wojnicz
+Bobowa
+Kamieńsk
+Namysłów
+Łosice
+Kobyłka
+Bodzentyn
+Bukowno
+Wyszogród (województwo mazowieckie)
+Kosów Lacki
+Głogów Małopolski
+Świeradów-Zdrój
+Kowalewo Pomorskie
+Rychwał
+Pyskowice
+Toszek
+Czerwionka-Leszczyny
+Ścinawa
+Byczyna
+Gąbin
+Mrozy
+Gołdap
+Radlin
+Błażowa
+Błonie
+Bojanowo
+Nowy Dwór Mazowiecki
+Kobylin
+Stąporków
+Skępe
+Sędziszów Małopolski
+Brwinów
+Brzeszcze
+Halinów
+Sulejówek
+Siewierz
+Lędziny
+Chełmek
+Człuchów
+Drohiczyn (województwo podlaskie)
+Grodzisk Wielkopolski
+Karczew
+Kazimierza Wielka
+Knyszyn
+Koło (województwo wielkopolskie)
+Kościan
+Krasnobród
+Kuźnia Raciborska
+Lipsko
+Lwówek
+Łaskarzew
+Trzemeszno
+Myszyniec
+Narol
+Nowe Miasto nad Pilicą
+Olesno
+Pionki
+Zakroczym
+Zagórz
+Zawichost
+Złoczew
+Pszów
+Włoszczowa
+Wronki
+Różan
+Rymanów
+Sędziszów
+Skórcz
+Rajgród
+Pogorzela
+Pniewy
+Podkowa Leśna
+Radzymin
+Piwniczna-Zdrój
+Płoty
+Bystrzyca Kłodzka
+Cieszanów
+Cybinka
+Czarne
+Człopa
+Dąbie
+Dobra (powiat turecki)
+Dobrodzień
+Dolsk
+Drawno
+Dynów
+Działoszyce
+Frampol
+Głuszyca
+Gniewkowo
+Gołańcz
+Gorzów Śląski
+Górowo Iławeckie
+Grodków
+Iłowa
+Izbica Kujawska
+Janowiec Wielkopolski
+Jasień (województwo lubuskie)
+Józefów (powiat biłgorajski)
+Jutrosin
+Skarszewy
+Lubniewice
+Kolonowskie
+Korfantów
+Krośniewice
+Krzyż Wielkopolski
+Książ Wielkopolski
+Kunów
+Leśna
+Lubień Kujawski
+Łochów
+Ząbki
+Tłuszcz (powiat wołomiński)
+Łabiszyn
+Łęknica
+Łobżenica
+Małogoszcz
+Miejska Górka
+Mieroszów
+Mieszkowice
+Nasielsk
+Zielonka (powiat wołomiński)
+Olsztynek
+Kołaczyce
+Zbąszyń
+Zbąszynek
+Orzysz
+Chodzież
+Poniec
+Woźniki
+Żarki
+Rejowiec Fabryczny
+Jaraczewo
+Żabno
+Złoty Stok
+Niemcza
+Dobiegniew
+Ujście (miasto)
+Miłomłyn
+Mirosławiec
+Mirsk
+Młynary
+Wyrzysk
+Lubraniec
+Mogielnica
+Mrocza
+Nowa Sarzyna
+Nowe Miasteczko
+Wysoka (powiat pilski)
+Ożarów
+Ośno Lubuskie
+Rogoźno
+Ostrów Lubelski
+Piaski (powiat świdnicki)
+Szprotawa
+Szczucin
+Wiślica
+Nowy Staw
+Obrzycko
+Oleszyce
+Opalenica
+Ostroróg
+Raciąż
+Pasym
+Śmigiel
+Poręba
+Praszka
+Pełczyce
+Pieńsk
+Piotrków Kujawski
+Świerzawa
+Wyśmierzyce
+Prusice
+Prószków
+Radków
+Rakoniewice
+Recz
+Resko
+Gostyń
+Rudnik nad Sanem
+Świątniki Górne
+Ujazd
+Ulanów
+Tarnogród
+Tolkmicko
+Torzym
+Trzciel
+Tyszowce
+Skwierzyna
+Sokołów Małopolski
+Wąsosz (województwo dolnośląskie)
+Witkowo
+Wieleń
+Sianów
+Węgliniec
+Sępopol
+Sośnicowice
+Szadek
+Szamocin
+Węgorzyno
+Szlichtyngowa
+Wielichowo
+Wojcieszów
+Mielno
+Wojkowice
+Szczytna
+Szczuczyn (województwo podlaskie)
+Słomniki
+Skalbmierz
+Zawadzkie
+Skaryszew
+Stawiszyn
+Stawiski
+Lubomierz
+Uniejów
+Dębno
+Szepietowo
+Sułkowice
+Środa Wielkopolska
+Chęciny
+Golczewo
+Krzanowice
+Koronowo
+Kępice
+Zalewo
+Żychlin
+Leśnica (województwo opolskie)
+Krzepice
+Chocz
+Czyżew
+Daleszyce
+Gościno
+Lubycza Królewska
+Łaszczów
+Nowe Brzesko
+Stopnica
+Urzędów
+Łagów
+Michałowo
+Modliborzyce
+Morawica
+Radłów
+Radoszyce
+Rejowiec
+Sanniki
+Tułowice
+Tychowo
+Siedliszcze
+Rabka-Zdrój
+Szydłowiec
+Maszewo
+Kłodawa
+Drzewica (województwo łódzkie)
+Margonin
+Józefów nad Wisłą
+Górzno
+Międzylesie
+Skoki (powiat wągrowiecki)
+Koziegłowy (województwo śląskie)
+Leżajsk
+Koluszki
+Kowary
+Bąbnica
+Mosina
+Złotoryja
+Toruń
+Opole
+Reszel
+Zamość
+Kalisz Pomorski
+Zwoleń
+Żywiec
+Łódź
+Police
+Sulęcin
+Białogard
+Ostrowiec Świętokrzyski
+Prezydenci i burmistrzowie Gniezna
+Żuromin
+Chełmża
+Stary Hel
+Łazy
+Berdechów (Bobowa)
